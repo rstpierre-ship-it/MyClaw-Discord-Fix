@@ -1,6 +1,6 @@
-# OpenClaw Discord Channel Replies â€” Root Cause & Fix
+# OpenClaw Discord Channel Replies — Root Cause & Fix
 
-> **TL;DR:** OpenClaw's Discord plugin silently drops agent replies in guild channels (DMs work fine). The root cause is **two stacked behaviors**, both fixable with two config keys â€” no source change required.
+> **TL;DR:** OpenClaw's Discord plugin silently drops agent replies in guild channels (DMs work fine). The root cause is **two stacked behaviors**, both fixable with two config keys — no source change required.
 >
 > ```
 > messages.groupChat.visibleReplies     = "automatic"     # else dispatcher suppresses ALL channel replies
@@ -13,9 +13,9 @@
 
 ## Symptoms
 
-- Discord **DMs** to the bot work end-to-end (`Wendi is typingâ€¦` â†’ reply appears).
-- Discord **guild channels** show `Wendi is typingâ€¦` then **silence**. No error in logs at info level.
-- `openclaw message send --channel discord --target "channel:..."` from CLI **works fine** (different code path â€” bypasses the dispatcher).
+- Discord **DMs** to the bot work end-to-end (`Wendi is typing…` → reply appears).
+- Discord **guild channels** show `Wendi is typing…` then **silence**. No error in logs at info level.
+- `openclaw message send --channel discord --target "channel:..."` from CLI **works fine** (different code path — bypasses the dispatcher).
 - A process restart **temporarily** unblocks some channels but doesn't actually fix the bug; the suppression returns on the next inbound that matches the failing conditions.
 
 ---
@@ -57,9 +57,9 @@ deliver: async (payload, info) => {
 DMs (`ChatType: "direct"`) fall through to `"automatic"`, which is why DMs work and channels don't.
 
 **Why other hypotheses don't fit:**
-- *"Mention required" gate* would have killed the inbound in `message-handler.preflight-DR1wtLd6.js:627-641` â€” but a session with assistant text exists, so preflight let it through.
-- *Thread-binding mismatch* would only affect routing inside `deliverDiscordReply` â€” but logs show `deliverDiscordReply` is never called for channel finals.
-- *Slash/interaction pipeline* â€” only used for slash commands & components, not raw channel messages.
+- *"Mention required" gate* would have killed the inbound in `message-handler.preflight-DR1wtLd6.js:627-641` — but a session with assistant text exists, so preflight let it through.
+- *Thread-binding mismatch* would only affect routing inside `deliverDiscordReply` — but logs show `deliverDiscordReply` is never called for channel finals.
+- *Slash/interaction pipeline* — only used for slash commands & components, not raw channel messages.
 
 ### Fix #1: Config flip
 
@@ -74,7 +74,7 @@ Or via gateway tool:
 ]
 ```
 
-**Restart the gateway after this change.** `cfg` is captured once at `monitorDiscordProvider` boot (`provider-Dy4gmGhl.js:7028`) and reused as a snapshot per inbound â€” it is not re-read live for this key.
+**Restart the gateway after this change.** `cfg` is captured once at `monitorDiscordProvider` boot (`provider-Dy4gmGhl.js:7028`) and reused as a snapshot per inbound — it is not re-read live for this key.
 
 ---
 
@@ -94,7 +94,7 @@ let text = payload.text ?? void 0;
 if (text && isSilentReplyPayloadText(text, silentToken)) {
   if (!hasContent("")) {
     opts.onSkip?.("silent");
-    return null;          // <-- NO_REPLY â†’ null â†’ enqueue returns false â†’ no delivery
+    return null;          // <-- NO_REPLY → null → enqueue returns false → no delivery
   }
   text = "";
 }
@@ -118,13 +118,13 @@ Be extremely selective: reply only when directly addressed or clearly helpful.
 ... whole final answer must be only "NO_REPLY".
 ```
 
-For a channel with rich prior conversational context, the model interprets new messages as part of the conversation and replies normally. For a **cold** channel where the bot is dropped in and someone sends a bare `"Test"`, the prompt's "mostly lurk" + `NO_REPLY` escape hatch wins â€” the model dutifully emits `NO_REPLY`.
+For a channel with rich prior conversational context, the model interprets new messages as part of the conversation and replies normally. For a **cold** channel where the bot is dropped in and someone sends a bare `"Test"`, the prompt's "mostly lurk" + `NO_REPLY` escape hatch wins — the model dutifully emits `NO_REPLY`.
 
 **Verified live in trajectory logs:**
-- `#ventures` session `c988037f-...`: user `"Test"` â†’ assistant `"NO_REPLY"`
-- `#clients` session `441cfd28-...`: user `"Test"` â†’ assistant `"NO_REPLY"`
-- `#wendi` session `0cb516c0-...`: user `"Test"` â†’ assistant `"NO_REPLY"`
-- `#general` session (with 100+ prior context messages): user `"Test"` â†’ real reply âœ…
+- `#ventures` session `c988037f-...`: user `"Test"` → assistant `"NO_REPLY"`
+- `#clients` session `441cfd28-...`: user `"Test"` → assistant `"NO_REPLY"`
+- `#wendi` session `0cb516c0-...`: user `"Test"` → assistant `"NO_REPLY"`
+- `#general` session (with 100+ prior context messages): user `"Test"` → real reply ✅
 
 ### Fix #2: Remove the NO_REPLY escape hatch from the prompt
 
@@ -138,9 +138,9 @@ This sets `agents.defaults.silentReply.group = "disallow"`, consumed by `silent-
 - The `If no response is needed, reply NO_REPLY ...` block (lines 610-616) and the `Be extremely selective` line (612) are **omitted from the channel system prompt**.
 - The agent has no token to silently emit. Empirically the model strongly prefers a real reply when no `NO_REPLY` escape hatch is offered.
 
-**Note:** the hardcoded `"Be a good group participant: mostly lurk"` line at `get-reply-CfL1pJQm.js:605` remains â€” there is no config knob for it. The agent still uses judgment, but without the `NO_REPLY` escape it leans toward responding. This is the closest config-only fit for a private/single-user server.
+**Note:** the hardcoded `"Be a good group participant: mostly lurk"` line at `get-reply-CfL1pJQm.js:605` remains — there is no config knob for it. The agent still uses judgment, but without the `NO_REPLY` escape it leans toward responding. This is the closest config-only fit for a private/single-user server.
 
-**Restart required** â€” same `cfg`-snapshot reason as Fix #1.
+**Restart required** — same `cfg`-snapshot reason as Fix #1.
 
 ### Why I did NOT also flip `silentReplyRewrite.group = true`
 
@@ -163,11 +163,11 @@ So `resolveSilentFinalPayload` (`dispatch-Bd9Vyd-o.js:960`) returns `undefined` 
 After restart, confirm both fixes are live with these one-liners:
 
 ```bash
-# Fix #1 â€” visibleReplies
+# Fix #1 — visibleReplies
 openclaw config get messages.groupChat.visibleReplies
 # expect: automatic
 
-# Fix #2 â€” silentReply.group
+# Fix #2 — silentReply.group
 openclaw config get agents.defaults.silentReply.group
 # expect: disallow
 ```
@@ -193,7 +193,7 @@ group policy: disallow rewrite: false (want: disallow / false)
 
 ## Restart caveat
 
-**Never `kill` the openclaw process from inside a Discord/WhatsApp/cron session.** You ARE that process. The kill aborts the in-flight reply, the typing indicator hangs, and the user sees "typingâ€¦" then silence. Do the restart from the main webchat/CLI session, or use the gateway tool's `restart` action.
+**Never `kill` the openclaw process from inside a Discord/WhatsApp/cron session.** You ARE that process. The kill aborts the in-flight reply, the typing indicator hangs, and the user sees "typing…" then silence. Do the restart from the main webchat/CLI session, or use the gateway tool's `restart` action.
 
 In containers without systemd, `openclaw gateway restart` may be a no-op. Check supervisord (e.g. `/tmp/supervisord-openclaw.conf`) and use `kill <pid>` from a session **other than** the one being restarted; supervisord respawns it.
 
@@ -244,15 +244,15 @@ Change to `info` level (at least once per session) with a one-line hint pointing
 
 ## Investigation history
 
-This bug took ~6.5 hours of debugging across two sessions on 2026-05-02 â†’ 2026-05-03 before both root causes were isolated. Initial symptoms looked like:
+This bug took ~6.5 hours of debugging across two sessions on 2026-05-02 → 2026-05-03 before both root causes were isolated. Initial symptoms looked like:
 
-1. A network/intent issue (Discord Developer Portal Message Content Intent) â€” **wrong**; that intent is hardcoded ON in `provider-Dy4gmGhl.js`.
-2. Anthropic API credit exhaustion â€” **wrong**; verified live with a test call.
-3. A channel-allowlist or mention-required gate â€” **wrong**; preflight let messages through.
-4. The dispatcher's `suppressDelivery` flag (Bug #1) â€” **partially right**; fixed `#general` but not cold channels.
-5. A second runtime gate filtering cold channels â€” **wrong**; no such gate exists. The agent is choosing to emit `NO_REPLY` (Bug #2).
+1. A network/intent issue (Discord Developer Portal Message Content Intent) — **wrong**; that intent is hardcoded ON in `provider-Dy4gmGhl.js`.
+2. Anthropic API credit exhaustion — **wrong**; verified live with a test call.
+3. A channel-allowlist or mention-required gate — **wrong**; preflight let messages through.
+4. The dispatcher's `suppressDelivery` flag (Bug #1) — **partially right**; fixed `#general` but not cold channels.
+5. A second runtime gate filtering cold channels — **wrong**; no such gate exists. The agent is choosing to emit `NO_REPLY` (Bug #2).
 
-The two-config-flip fix is reproducible and minimal. Both knobs exist today in OpenClaw's schema â€” they're just hidden behind the `advanced` tag and the wrong defaults for small servers.
+The two-config-flip fix is reproducible and minimal. Both knobs exist today in OpenClaw's schema — they're just hidden behind the `advanced` tag and the wrong defaults for small servers.
 
 ---
 
