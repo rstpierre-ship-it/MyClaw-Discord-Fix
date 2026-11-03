@@ -1,0 +1,1587 @@
+[
+  {
+    "id": "la-jefferson-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Jefferson Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Gerald (Gerard) LeBlanc",
+        "party": "R",
+        "incumbent": true,
+        "seat": "D1 (unopposed)"
+      },
+      {
+        "name": "Rachel Spears",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "June Hollins",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Simeon Dickerson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Roxanne Modica",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Dionne Nichols-Condoll",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Michael Pedalino",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D6"
+      },
+      {
+        "name": "Al Galindo",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D6"
+      },
+      {
+        "name": "Ralph 'Rem' Brandt",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D7"
+      },
+      {
+        "name": "James 'Jimmy' Kytle",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D7"
+      },
+      {
+        "name": "Chad Nugent",
+        "party": "R",
+        "incumbent": true,
+        "seat": "D8 (unopposed)"
+      },
+      {
+        "name": "Kevin Delahoussaye",
+        "party": "R",
+        "incumbent": true,
+        "seat": "D9"
+      },
+      {
+        "name": "John Cunningham II",
+        "party": "R",
+        "incumbent": false,
+        "seat": "D9"
+      },
+      {
+        "name": "Kriss Fairbairn Fortunato",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "district unverified (unopposed)"
+      },
+      {
+        "name": "Alice Hoyt",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "district unverified (unopposed)"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "All 9 seats on the Nov 3 ballot; 5 contested (D2, D5, D6, D7, D9). Four seats settled at qualifying (Gerald/Gerard LeBlanc D1, Chad Nugent D8, plus Kriss Fairbairn Fortunato and newcomer Alice Hoyt per WWNO; districts for the last two unverified). Incumbents challenged: Michael Pedalino (D6), Ralph 'Rem' Brandt (D7, board president as of 2024; current officer status unverified), Kevin Delahoussaye (D9). Runoffs Dec 12 if no majority (D5 has 3 candidates). No 2026 Jefferson school millage found; Superintendent James Gray (since 2020) contract status for 2026-27 unverified.",
+    "impact": "Jefferson hosts four Star sites (TH Harris Middle, Marrero Middle, Meisler Middle, Stella Worley Middle), the largest single-district footprint, so this board controls a multi-site contract renewal, the superintendent, and the budget. Even a 2-3 seat swing in a 9-member board can shift the majority.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "5 of 9 seats contested; 4 decided unopposed at qualifying (sources disagree slightly on which).",
+    "sources": [
+      "https://www.wwno.org/education/2026-10-16/ahead-of-school-board-election-jefferson-parish-students-speak-up",
+      "https://www.yahoo.com/news/politics/articles/whos-running-jefferson-parish-school-002013927.html",
+      "https://www.sway.co/race/jefferson-parish-school-board-district-9-3100836e-daa8-4b80-ae25-78f6d4937fc7",
+      "https://louisianafirststandard.substack.com/p/michael-pedalinos-fight-to-keep-jefferson",
+      "https://bizneworleans.com/jp-schools-leader-named-2024-louisiana-superintendent-of-the-year/"
+    ]
+  },
+  {
+    "id": "la-ebr-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "East Baton Rouge Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Kimberly Marie Bainguel",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D1"
+      },
+      {
+        "name": "Megan Garretson",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D1"
+      },
+      {
+        "name": "Tristan J. George",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Vereta Lee",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Robert Signater Sr.",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Carla Powell",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D3"
+      },
+      {
+        "name": "Thomasina Joseph",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D3"
+      },
+      {
+        "name": "Stephen 'Stewart' Stewart",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D3"
+      },
+      {
+        "name": "Eugene 'Rico' Williams III",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D3"
+      },
+      {
+        "name": "Shashonnie Steward",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D4 (board president)"
+      },
+      {
+        "name": "Tebbe Jackson",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D4"
+      },
+      {
+        "name": "Cliff Lewis",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D5 (vice president, unopposed)"
+      },
+      {
+        "name": "Nathan Rust",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D6"
+      },
+      {
+        "name": "Nicole Fitzgerald",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D6"
+      },
+      {
+        "name": "Tristan Yperman",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D6"
+      },
+      {
+        "name": "Hannah Amoroso",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "'Chris' Spalatin",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Michael Vincent",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Emily Soule",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D8"
+      },
+      {
+        "name": "Melissa 'Dani' Altazin",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D8"
+      },
+      {
+        "name": "Patrick Martin",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D9 (unopposed)"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "All 9 seats up; 7 contested. Board President Shashonnie Steward (D4) faces Tebbe Jackson; VP Cliff Lewis (D5) and Patrick Martin (D9) unopposed. Superintendent LaMont Cole was indicted in Aug 2026 and returned to work; board kept him but passed an 8-0 two-signature contract rule (Aug 20). Cole's contract runs to mid-2028, but a new board could move on leave/buyout. Open-seat races in D1 and D7 (no incumbent marked). No EBR school tax proposition found for Nov 3 or Dec 12 (2025 renewals already passed).",
+    "impact": "EBR hosts Northdale Alternative Magnet Academy and likely the 'Broadmoor' site (Broadmoor High, Baton Rouge; parish unverified, could instead be Broadmoor Middle Lab in Caddo). With the superintendent under indictment, a board majority shift here is the highest superintendent-risk scenario in the group.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "7 of 9 contested; board president challenged; superintendent indicted Aug 2026.",
+    "sources": [
+      "https://www.wafb.com/2026/10/08/ebr-school-board-candidates-discuss-priorities-ahead-november-election/",
+      "https://www.yahoo.com/news/politics/articles/running-east-baton-rouge-parish-192950505.html",
+      "https://www.wafb.com/2026/08/06/miscarriage-justice-ebr-superintendent-responds-after-indictment-school-district-prepares-first-day-classes/",
+      "https://www.wafb.com/2026/08/07/ebr-superintendent-lamont-cole-attends-school-board-meeting-hours-after-bonding-out-jail/",
+      "https://www.wafb.com/2026/08/21/ebr-school-board-unanimously-passes-contract-crackdown-mandatory-two-signature-rule-superintendent/"
+    ]
+  },
+  {
+    "id": "la-rapides-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Rapides Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Christopher Caffery",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District D"
+      },
+      {
+        "name": "Thomas D. Sands",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District D"
+      },
+      {
+        "name": "Larry Spottsville",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District D"
+      },
+      {
+        "name": "Frances Tennie",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District D"
+      },
+      {
+        "name": "Marie Ashmore",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District F"
+      },
+      {
+        "name": "Roosevelt L. Johnson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District F"
+      },
+      {
+        "name": "'Greg' Hackney",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District H"
+      },
+      {
+        "name": "George Johnson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District H"
+      },
+      {
+        "name": "Ashley Nicole Baptiste",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District I"
+      },
+      {
+        "name": "Fredell Griffin",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "District I"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "Seats on Nov 3 ballot (4-year terms). Verified contested races: D-D (Christopher Caffery, Thomas D. Sands, Larry Spottsville, Frances Tennie; incumbent Willard 'Bubba' McCall's term ends 12/31/2026 and he is not on the list, so likely open), D-F, D-H, D-I. Lists for Districts A, B, C, E, G not retrieved (unverified). Superintendent Jeff Powell's current contract term unverified (last reported extension ran to 12/31/2024).",
+    "impact": "Rapides hosts two Star sites (Arthur F. Smith Middle and Carter C. Raymond Junior High, both Alexandria area), so the board controls a two-site renewal plus the superintendent and general-fund budget.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "At least 4 contested districts verified (D, F, H, I); remainder unverified.",
+    "sources": [
+      "https://www.kalb.com/2026/08/07/heres-who-has-qualified-rapides-parish-november-2026-elections/",
+      "http://powercoalition.org/wp-content/uploads/2026/07/Rapides-Whats-on-the-Ballot-One-Pager-PRINTABLE.pdf",
+      "https://www.ballotready.org/people/willard-bubba-mccall",
+      "https://www.kalb.com/2025/05/21/grant-jr-high-sees-improvements-star-academy/"
+    ]
+  },
+  {
+    "id": "la-rapides-millage-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Rapides Parish School Board 12.06-mill parishwide renewal (operations), plus District 62 (4.25 mills) and Pineville District 52 (6.96 mills) renewals",
+    "date": "2026-06-27",
+    "candidates": [],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "Was on the June 27, 2026 local ballot (not Nov 3/Dec 12). 12.06 mills, 10 years (2027-2036), about $14.3M/yr for maintenance and operation of the parish school system. Result not found; verify with LA SOS results.",
+    "impact": "General-fund-type operating millage for the district that funds Arthur F. Smith Middle and Carter C. Raymond JH; a failure would pressure discretionary contracts like Star.",
+    "status": "result_unverified",
+    "winner": null,
+    "result_note": "June 27, 2026 result unverified; if it failed, expect a re-call on a later 2026-27 ballot.",
+    "sources": [
+      "https://powercoalition.org/wp-content/uploads/2026/06/Rapides-SampleBallot-Printable-JUNE-2026-1.pdf",
+      "https://legis.la.gov/archive/2026/6069.pdf"
+    ]
+  },
+  {
+    "id": "la-concordia-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Concordia Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Ernetria 'Netria' Banks",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D1 Place A"
+      },
+      {
+        "name": "Justin Lashan Conner Sr.",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D1 Place A"
+      },
+      {
+        "name": "Glenn Henderson",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D1 Place A"
+      },
+      {
+        "name": "Michaelle D. Bethea",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D1 Place B"
+      },
+      {
+        "name": "Valerie T. Parker",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D1 Place B"
+      },
+      {
+        "name": "'Fred' Marsalis Sr.",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Raymond Riley",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Mary Huhn",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D3 Place A"
+      },
+      {
+        "name": "Lisette Lowery Forman",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D3 Place B"
+      },
+      {
+        "name": "Derrick D. Carson",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D4 Place A"
+      },
+      {
+        "name": "Devante Scott",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D4 Place A"
+      },
+      {
+        "name": "'Mark' Cupit",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D4 Place B"
+      },
+      {
+        "name": "Angela Hayes",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D4 Place B"
+      },
+      {
+        "name": "Christopher 'Chris' Lee",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D5 Place A"
+      },
+      {
+        "name": "'Wayne' Wilson",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D5 Place A"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "All 9 seats (Districts 1-5, Places A/B) on Nov 3 ballot per KNOE qualifying list (Aug 2026); most seats contested. D5 Place B has the largest field (6 candidates, names not retrieved). Incumbency not marked in source. Superintendent (Toyua Bachus/Watson as of 2024) 2026-27 contract status unverified. No school millage found.",
+    "impact": "Concordia hosts four Star sites (Concordia Education Center, Ferriday High, Ferriday Junior High, Vidalia Junior High), the most of any rural parish, so a board turnover directly affects a multi-site renewal and the superintendent.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Most seats contested; incumbency unverified.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/",
+      "https://www.natchezdemocrat.com/?p=598752"
+    ]
+  },
+  {
+    "id": "la-catahoula-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Catahoula Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "John Chisum",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Wealthia Oliver-Jackson",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Christopher Ahmed",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "James Blaney Jr.",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Larry Gadson Jr.",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Vandi Edwards",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D3 (unopposed)"
+      },
+      {
+        "name": "Chase Womack",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D4 (unopposed)"
+      },
+      {
+        "name": "Dustin Winborne",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D5 (unopposed)"
+      },
+      {
+        "name": "Ruby 'Laine' Neal",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D6 (unopposed)"
+      },
+      {
+        "name": "Toshiro Fisher",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Fredrick Smith",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Peggy Beard",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D8 (unopposed)"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "9 districts on ballot; contested D1, D2 (3 candidates, runoff possible), D7; D3-D6 and D8 single-candidate per KNOE list; D9 list garbled (unverified). Incumbency not marked.",
+    "impact": "Catahoula hosts two Star sites (Block High and Harrisonburg High); with 6 of 9 seats effectively settled, the D1/D2/D7 outcomes decide the board makeup that renews Star and oversees the superintendent.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "3 contested (D1, D2, D7); D9 unverified.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/"
+    ]
+  },
+  {
+    "id": "la-evangeline-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Evangeline Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Donald Bergeron",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D10"
+      },
+      {
+        "name": "C. Darnel Firmin",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D10 (announced; qualification unverified)"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "Seats on Nov 3 ballot (qualifying Aug 5-7). Only verified race: District 10 (Donald Bergeron qualified; C. Darnel Firmin announced). Full slate unverified. Superintendent turnover in 2026: Darwan Lazard retired June 30, 2026; board advertised (deadline June 5) and Cheri Fontenot reportedly signed a superintendent contract July 1 (year not confirmed in source; treat as unverified).",
+    "impact": "Evangeline hosts two Star sites (Bayou Chicot Elementary and Mamou Junior High) and just changed superintendents, so the incoming board and a first-year superintendent will decide whether inherited programs like Star are renewed.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Full candidate list not retrieved; District 10 contested (likely).",
+    "sources": [
+      "https://www.evangelinetoday.com/news-local-state/candidates-begin-qualify-november-election",
+      "https://www.evangelinetoday.com/news-local/candidate-announcement-firmin-announces-her-candidacy-school-board-november-election",
+      "https://epsb.com/28880",
+      "https://www.katc.com/evangeline-parish/evangeline-parish-inks-new-superintendent",
+      "https://www.katc.com/evangeline-parish/evangeline-parish-school-district-superintendent-announces-retirement"
+    ]
+  },
+  {
+    "id": "la-franklin-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Franklin Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Tyler Roberts",
+        "party": "unverified",
+        "incumbent": null
+      },
+      {
+        "name": "Alaina W. Nichols",
+        "party": "unverified",
+        "incumbent": null
+      },
+      {
+        "name": "Garrison Griffith",
+        "party": "unverified",
+        "incumbent": null
+      },
+      {
+        "name": "Kenneth 'Trey' Leach",
+        "party": "unverified",
+        "incumbent": null
+      },
+      {
+        "name": "Jacqueline 'Tina' Johnson",
+        "party": "unverified",
+        "incumbent": null
+      },
+      {
+        "name": "Matthew 'Matt' Stephens",
+        "party": "unverified",
+        "incumbent": null
+      },
+      {
+        "name": "Laquetta Barnes",
+        "party": "unverified",
+        "incumbent": null
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "7 districts on Nov 3 ballot per KNOE list; names include Tyler Roberts, Alaina W. Nichols, Garrison Griffith, Kenneth 'Trey' Leach, Jacqueline 'Tina' Johnson, Matthew 'Matt' Stephens, Laquetta Barnes (district mapping and contested status unverified). Board is simultaneously fighting for a 15.51-mill renewal on Dec 12 after voters rejected school millage in May 2026.",
+    "impact": "Franklin hosts two Star sites (Crowville School and Fort Necessity Middle). Back-to-back millage failures plus a new board make this a budget-risk district for the Star contract.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Candidate-to-district mapping unverified.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/",
+      "https://www.knoe.com/2026/05/20/all-six-franklin-parish-propositions-fail-leaders-react/"
+    ]
+  },
+  {
+    "id": "la-franklin-millage-2026-12",
+    "state": "LA",
+    "level": "local",
+    "office": "Franklin Parish School Board 15.51-mill tax renewal (10 years)",
+    "date": "2026-12-12",
+    "candidates": [],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "On the Dec 12, 2026 ballot after Franklin Parish voters rejected all six parish propositions, including school millage (an 8.14-mill school renewal among them), on May 16, 2026. 15.51 mills, about $1.9M/yr, for maintenance and repairs at all parish schools. If it fails the millage expires.",
+    "impact": "Funds facilities at the schools housing Crowville School and Fort Necessity Middle Star sites; a second failure squeezes the district budget that pays for Star.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Second attempt after May 2026 defeat; anti-tax turnout risk.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/franklin-parish-school-board-put-tax-renewal-back-december-ballot/",
+      "https://www.hannapub.com/franklinsun/news/local_state_headlines/board-places-renewal-on-december-ballot/article_91219339-06fd-4ca7-9155-bde31e09a562.html",
+      "https://www.knoe.com/2026/05/20/all-six-franklin-parish-propositions-fail-leaders-react/"
+    ]
+  },
+  {
+    "id": "la-iberville-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Iberville Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "'Becky Sue' Bickham Landry",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "At-large"
+      },
+      {
+        "name": "Demetrius Franklin",
+        "party": "D",
+        "incumbent": null,
+        "seat": "At-large"
+      },
+      {
+        "name": "Jeanne Bujol Medine",
+        "party": "D",
+        "incumbent": null,
+        "seat": "At-large"
+      },
+      {
+        "name": "Sarah Morgan Haydel",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "A (unopposed)"
+      },
+      {
+        "name": "Tonette Todd",
+        "party": "D",
+        "incumbent": null,
+        "seat": "B"
+      },
+      {
+        "name": "Catherine Williams",
+        "party": "D",
+        "incumbent": null,
+        "seat": "B"
+      },
+      {
+        "name": "Rachel Crochet",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "C"
+      },
+      {
+        "name": "Ursula F. Harris",
+        "party": "D",
+        "incumbent": null,
+        "seat": "C"
+      },
+      {
+        "name": "Cindy Wille Prouty",
+        "party": "D",
+        "incumbent": null,
+        "seat": "C"
+      },
+      {
+        "name": "Daven P. Tullier",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D (unopposed)"
+      },
+      {
+        "name": "Mario Migliacio",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "E (unopposed)"
+      },
+      {
+        "name": "Claysha 'Clay' Williams",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "F (unopposed)"
+      },
+      {
+        "name": "Yolanda 'Yogie' Holmes",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "G (unopposed)"
+      },
+      {
+        "name": "Jasmine Carter",
+        "party": "D",
+        "incumbent": null,
+        "seat": "H"
+      },
+      {
+        "name": "Deborah 'Debbie' Washington",
+        "party": "D",
+        "incumbent": null,
+        "seat": "H"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "At least 5 new members guaranteed (term-limited incumbents incl. at-large Pam George and Polly Higdon). Contested: At-large (Becky Sue Bickham Landry NP, Demetrius Franklin D, Jeanne Bujol Medine D), B, C (3 candidates), H. Unopposed: A, D, E, F, G. Board voted 6-3 in May to pick a successor before the election; Rebecca Johnson named superintendent-elect Sept 14, 2026; Superintendent Louis Voiron Jr. retires end of 2026-27.",
+    "impact": "Iberville hosts two Star sites (East Iberville and White Castle High). A mostly new board takes office Jan 2027 alongside a superintendent-elect chosen by the outgoing board, so Star's renewal will be decided by unfamiliar leadership.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "4 contested seats; 5+ new members guaranteed; superintendent transition.",
+    "sources": [
+      "https://www.yahoo.com/news/politics/articles/look-school-board-races-capital-225734578.html",
+      "https://www.theadvocate.com/baton_rouge/news/politics/elections/iberville-parish-voting-election-november/article_73d9243c-1f64-4e3c-86e5-3d70cebc87dd.html",
+      "https://www.postsouth.com/story/news/local/2026/08/10/iberville-parish-election-candidates-for-november/91220319007/",
+      "https://www.wafb.com/2026/09/15/iberville-parish-school-district-appoints-new-superintendent/",
+      "https://www.postsouth.com/story/news/local/2026/09/21/rebecca-johnson-named-iberville-school-superintendent/91829184007/"
+    ]
+  },
+  {
+    "id": "la-pointe-coupee-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Pointe Coupee Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Brandon Bergeron",
+        "party": "R",
+        "incumbent": null,
+        "seat": "A"
+      },
+      {
+        "name": "Adrianne Williams",
+        "party": "D",
+        "incumbent": null,
+        "seat": "A"
+      },
+      {
+        "name": "Jared Gibbs",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "B"
+      },
+      {
+        "name": "Gene Aubry Hendricks",
+        "party": "R",
+        "incumbent": null,
+        "seat": "B"
+      },
+      {
+        "name": "Valery Simon Dukes",
+        "party": "D",
+        "incumbent": null,
+        "seat": "C"
+      },
+      {
+        "name": "Harry 'Mr.' Wright",
+        "party": "D",
+        "incumbent": null,
+        "seat": "C"
+      },
+      {
+        "name": "Erica Aguillard",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D"
+      },
+      {
+        "name": "Jennifer Woods Bollich",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D"
+      },
+      {
+        "name": "Jeanette B. Vosburg",
+        "party": "D",
+        "incumbent": null,
+        "seat": "E (unopposed)"
+      },
+      {
+        "name": "Jackie Knight",
+        "party": "R",
+        "incumbent": null,
+        "seat": "F"
+      },
+      {
+        "name": "Myron Alvin Porche Sr.",
+        "party": "D",
+        "incumbent": null,
+        "seat": "F"
+      },
+      {
+        "name": "Lisa Loupe D'Aquila",
+        "party": "R",
+        "incumbent": null,
+        "seat": "G (unopposed)"
+      },
+      {
+        "name": "Henry E. Sanders Jr.",
+        "party": "D",
+        "incumbent": null,
+        "seat": "H (unopposed)"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "8 districts; 5 contested (A, B, C, D, F), 3 unopposed (E Jeanette Vosburg D, G Lisa Loupe D'Aquila R, H Henry Sanders Jr. D). Several contested seats are R vs D, so partisan balance of the board is in play. Incumbency not marked. No millage found.",
+    "impact": "Pointe Coupee hosts two Star sites (Livonia High and Rougon Elementary); with 5 of 8 seats contested, the board majority that renews Star and evaluates the superintendent could flip.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "5 of 8 contested; majority in play.",
+    "sources": [
+      "https://www.yahoo.com/news/politics/articles/look-school-board-races-capital-225734578.html"
+    ]
+  },
+  {
+    "id": "la-east-carroll-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "East Carroll Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Joe A. Davis",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Debra Hopkins",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "John E. Shoemaker",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D2"
+      }
+    ],
+    "priority": "high",
+    "tier": "active",
+    "outlook": "Seats on Nov 3 ballot. Partial KNOE list: D1 Joe A. Davis (D) vs Debra Hopkins (R); D2 John E. Shoemaker (D). Districts 3-5 names not retrieved (unverified). Superintendent status unverified.",
+    "impact": "East Carroll hosts two Star sites (General Trass High and Griffin Middle School Academy, both Lake Providence) in a small, low-rated district; a single seat can swing the board that renews Star.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "D1 contested; rest unverified.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/",
+      "https://m.schooldigger.com/go/LA/schools/0057000453/school.aspx"
+    ]
+  },
+  {
+    "id": "la-tangipahoa-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Tangipahoa Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Janice Fultz Richards",
+        "party": "D",
+        "incumbent": null,
+        "seat": "A"
+      },
+      {
+        "name": "Tom Tolar",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "B"
+      },
+      {
+        "name": "John Polito Jr.",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "C (open)"
+      },
+      {
+        "name": "Lance Traylor",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "C (open)"
+      },
+      {
+        "name": "Glenn Westmoreland",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D (board VP)"
+      },
+      {
+        "name": "John Hatcher III",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "E"
+      },
+      {
+        "name": "Hunter Logan Smith",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "E"
+      },
+      {
+        "name": "Trent Anthony",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "F (board president)"
+      },
+      {
+        "name": "Lionel Jackson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "G"
+      },
+      {
+        "name": "Jerry Moore",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "G"
+      },
+      {
+        "name": "Donna Wallett",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "G"
+      },
+      {
+        "name": "Joey Piazza",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "H"
+      },
+      {
+        "name": "Cindy Jenkins",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "I (open)"
+      },
+      {
+        "name": "Brandon Sorrell II",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "I (open)"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "Seats on Nov 3 ballot (Hammond Star list); open seats include District C (John Polito Jr. vs Lance Traylor; covers Loranger, Tickfaw, Independence) and District I (Cindy Jenkins vs Brandon Sorrell II; Rose Dominguez term-limited). Also contested: E, G (3 candidates). Board president Trent Anthony (F) and VP Glenn Westmoreland (D) appear on list; opposition not shown. Superintendent Melissa Stilley retires Jan 2027; board unanimously appointed Ron Genco (Aug 19, 2026).",
+    "impact": "Independence High Magnet sits in District C, an open seat, and the board seated in Jan 2027 will work with new Superintendent Ron Genco, so Star's renewal falls to new leadership on both sides.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Open seat covering Independence High contested; superintendent transition Jan 2027.",
+    "sources": [
+      "https://www.hammondstar.com/news/list-of-candidates-in-tangipahoas-nov-3-election/article_6a47d38d-ac37-5d10-8470-234d5f28bf05.html",
+      "https://www.tangitimes.com/news/lance-traylor-announces-candidacy-tangipahoa-parish-school-board-district-c",
+      "https://www.wafb.com/2026/08/20/tangipahoa-parish-schools-appoints-new-superintendent/",
+      "https://www.fox8live.com/2026/02/25/tangipahoa-superintendent-contract-extended-ahead-planned-retirement",
+      "https://citizenportal.ai/articles/7170993/Louisiana/Tangipahoa-Parish-School-Board-elects-2026-officers-approves-multiple-facility-designs-and-bids"
+    ]
+  },
+  {
+    "id": "la-east-feliciana-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "East Feliciana Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Nancy Demetria Matthews",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Rufus Nesbitt",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Peidera Sims-Matthews",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Alonzo Jones",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2 Div 1"
+      },
+      {
+        "name": "Lindsay Wilson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2 Div 1"
+      },
+      {
+        "name": "Patricia King",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D2 Div 2 (unopposed)"
+      },
+      {
+        "name": "Jermi Roy Adams",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D3 Div 1 (unopposed)"
+      },
+      {
+        "name": "J. D. Dantzler Jr.",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D3 Div 2"
+      },
+      {
+        "name": "Louis Neyland Smith",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D3 Div 2"
+      },
+      {
+        "name": "Lillian Drake",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D3 Div 3 (unopposed)"
+      },
+      {
+        "name": "Melissa Davis",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D4"
+      },
+      {
+        "name": "Brittany Morgan",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D4"
+      },
+      {
+        "name": "Clayton 'Cisco' Elkins",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Ashley Ferguson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Joyce A. Kent",
+        "party": "D",
+        "incumbent": true,
+        "seat": "D6 Div 1 (may have withdrawn)"
+      },
+      {
+        "name": "DayShawn Harris",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D6 Div 1"
+      },
+      {
+        "name": "Kerwin Hardy Jr.",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D7 (open)"
+      },
+      {
+        "name": "W. Burke Jones",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D7 (open)"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "12 seats; 5 filled unopposed at qualifying (incl. incumbents Patricia King D2 Div 2, Jermi Roy Adams D3 Div 1, Lillian Drake D3 Div 3, plus Perry Jones Jr. and Jermiser Kelly). Contested: D1 (3 candidates), D2 Div 1, D3 Div 2, D4, D5, D7 (open; incumbent Paul Kent ineligible). D6 Div 1 conflict: incumbent Joyce A. Kent vs DayShawn Harris per Advocate, but other list shows Kent withdrew (unverified). District cut teacher positions in 2026 after state funding decline.",
+    "impact": "East Feliciana hosts a Star site (district-level 'East Feliciana' program); with 6-7 of 12 seats contested and budget cuts underway, the board that renews Star could change composition and be cost-focused.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "6-7 of 12 contested; budget cuts in 2026.",
+    "sources": [
+      "https://www.theadvocate.com/baton_rouge/news/communities/east_feliciana/east-feliciana-voters-to-face-long-ballot-in-nov-3-as-candidates-qualify-for-seats/article_e4fab96c-e17f-4767-a496-44763d303e24.html",
+      "https://www.yahoo.com/news/politics/articles/look-school-board-races-capital-225734578.html",
+      "https://www.civoren.com/candidate/w-burke-jones-cajm5",
+      "https://www.wafb.com/video/2026/09/03/east-feliciana-schools-cuts-teacher-positions-after-state-funding-decline/"
+    ]
+  },
+  {
+    "id": "la-caddo-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Caddo Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Callie Allen Carmichael",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D1 (unopposed)"
+      },
+      {
+        "name": "Terence Vinson",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D3 (unopposed)"
+      },
+      {
+        "name": "Susannah W. Poljak",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D4"
+      },
+      {
+        "name": "'Matt' Shields",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D4"
+      },
+      {
+        "name": "Jerry Bowman",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D7 (unopposed)"
+      },
+      {
+        "name": "Paige Hoffpauir",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D9"
+      },
+      {
+        "name": "Kristin C. Parsons",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D9"
+      },
+      {
+        "name": "Jessica Yeates",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D11 (unopposed)"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "12 districts; contested in 2, 4, 5, 6, 8, 9, 10, 12 (per LA SOS candidate data, Oct 18). Unopposed: D1 Callie Allen Carmichael (R), D3 Terence Vinson (D), D7 Jerry Bowman (D), D11 Jessica Yeates (R). D4 Susannah W. Poljak (NP) vs 'Matt' Shields (R); D9 Paige Hoffpauir (R) vs Kristin C. Parsons (R); D5 and D6 each 3 Democrats. Superintendent Keith Burton's 3-year contract began Oct 1, 2024 (expires ~Sept 2027), so renewal decision falls to this new board in 2027. Caddo school millages renewed 2022 through 2034; none on 2026 ballots found (Dec 12 Caddo item is a hotel tax, not schools).",
+    "impact": "Caddo hosts Caddo Middle School (Caddo Middle Career and Technology) and possibly the Broadmoor site (Broadmoor Middle Lab/STEM, Shreveport; unverified vs EBR). Eight contested seats on a 12-member board, plus Burton's contract ending 2027, put the majority and superintendent in play.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "8 of 12 contested; superintendent contract up 2027.",
+    "sources": [
+      "https://www.getvotebook.com/us/la/county-caddo",
+      "https://www.civoren.com/election/us/la/la-caddo-parish-school-district-2200300/la-caddo-parish-school-district-2200300-school-board-district-4",
+      "https://www.civoren.com/election/us/la/la-caddo-parish-school-district-2200300/la-caddo-parish-school-district-2200300-school-board-district-9",
+      "https://www.shreveportchamber.org/cpsb2026/",
+      "https://710keel.com/keith-burton-is-named-caddo-superintendent/",
+      "https://www.ksla.com/2022/05/02/educational-tax-propositions-pass-caddo-bossier-parishes"
+    ]
+  },
+  {
+    "id": "la-madison-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Madison Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Jeff Wilson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D1 (unopposed)"
+      },
+      {
+        "name": "Shelly Crawford",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Lakyria McGowan",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Eddie Fountain Sr.",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D3"
+      },
+      {
+        "name": "Artis Brown",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D3"
+      },
+      {
+        "name": "Clara Durr",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D3"
+      },
+      {
+        "name": "Kathy Gultery",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D4"
+      },
+      {
+        "name": "Leandra Mitchell",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D4"
+      },
+      {
+        "name": "Paula Hamilton",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D5"
+      },
+      {
+        "name": "Jennifer Gathrite-Davis",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D5"
+      },
+      {
+        "name": "Diane 'Mrs. Ski' Strozewski",
+        "party": "unverified",
+        "incumbent": false,
+        "seat": "D5"
+      },
+      {
+        "name": "Rickey Patterson",
+        "party": "unverified",
+        "incumbent": true,
+        "seat": "D6 (unopposed)"
+      },
+      {
+        "name": "Lisa Johnson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Kendrell Robinson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Aerial Perkins",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D8"
+      },
+      {
+        "name": "Daniel Stanley",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D8"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "All 8 seats; 6 contested (D2, D3, D4, D5, D7, D8). Jeff Wilson (D1) and incumbent Rickey Patterson (D6) unopposed. Incumbents challenged: Eddie Fountain Sr. (D3), Kathy Gultery (D4), Paula Hamilton (D5). D3 and D5 have 3 candidates (runoff possible Dec 12).",
+    "impact": "Madison hosts Madison Middle School (Tallulah); 6 of 8 seats contested means the board majority overseeing the Star contract and superintendent is in play.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "6 of 8 contested; 3 incumbents challenged.",
+    "sources": [
+      "https://www.madisonjournal.com/early-voting-underway-madison-parish",
+      "https://www.madisonjournal.com/see-who-has-qualified-madison-parish-nov-3-election-so-far"
+    ]
+  },
+  {
+    "id": "la-st-mary-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "St. Mary Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Sandra K. Turner",
+        "party": "D",
+        "incumbent": false,
+        "seat": "D5"
+      },
+      {
+        "name": "Calyn Swords Welch",
+        "party": "R",
+        "incumbent": false,
+        "seat": "D5"
+      },
+      {
+        "name": "Jeffrey 'Jeff' Hufstetler",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D6 (unverified)"
+      },
+      {
+        "name": "Noel Pisani",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D6 (unverified)"
+      },
+      {
+        "name": "Jameson 'Budd' Sennette",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D6 (unverified)"
+      },
+      {
+        "name": "Scott Babin",
+        "party": "R",
+        "incumbent": false,
+        "seat": "D8 (open)"
+      },
+      {
+        "name": "Chad Paradee",
+        "party": "R",
+        "incumbent": false,
+        "seat": "D8 (open)"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "11 seats. Six incumbents qualified without opposition on day one (Guienzy Brent D1, Tammy Wilson D2, Lindsey Anslem D3, Alaina Black D9, Andrew Mancuso D10, Rhonda Dennis D11; final unopposed status unverified). Contested: D5 (Sandra K. Turner D vs Calyn Swords Welch R; seat held by Ginger Griffin), D6 (3 candidates, district label unverified), D8 open (Scott Babin R vs Chad Paradee R). Superintendent Rachael Sanders.",
+    "impact": "Franklin Junior High (Franklin, LA) is in St. Mary Parish (assumption verified via school directories; Star's 'Franklin Junior High' could alternatively mean Franklin Parish, unverified). Franklin-area seats appear uncontested, so Star impact is mostly via board-wide composition.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "3 contested seats; Franklin-area seats likely unopposed.",
+    "sources": [
+      "https://www.stmarynow.com/news-local/issues-and-candidates-nov-3-ballot",
+      "https://www.stmarynow.com/breaking-news-news-local/updated-qualifying-ends-school-board-races-take-shape",
+      "https://en.wikipedia.org/wiki/St._Mary_Parish_School_Board"
+    ]
+  },
+  {
+    "id": "la-tensas-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Tensas Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Liza Clark",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D1"
+      },
+      {
+        "name": "Knola Ransome",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D2"
+      },
+      {
+        "name": "Elizabeth Matthews",
+        "party": "R",
+        "incumbent": null,
+        "seat": "D3"
+      },
+      {
+        "name": "Raven Birdon",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D4"
+      },
+      {
+        "name": "Emma Douglas",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Krashondra Winston",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D5"
+      },
+      {
+        "name": "Kenneth Ricard",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D6"
+      },
+      {
+        "name": "Allen Carter",
+        "party": "NP",
+        "incumbent": null,
+        "seat": "D7"
+      },
+      {
+        "name": "Edna Cooper",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D7"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "7 seats. KNOE list: D1 Liza Clark (D), D2 Knola Ransome (D), D3 Elizabeth Matthews (R), D4 Raven Birdon (D), D5 Emma Douglas (D) vs Krashondra Winston (D), D6 Kenneth Ricard (D), D7 Allen Carter (NP) vs Edna Cooper (D). Three more Democrats (Jarrod Bottley, Bobby Higginbotham, Ruby 'Elaine' Scott) listed without a district heading (unverified). Superintendent hired Dec 2023.",
+    "impact": "Tensas High School is the parish's only high school; in a 7-member board, the D5 and D7 contests can tip the majority on the Star contract.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "2+ contested (D5, D7); some assignments unverified.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/",
+      "https://www.knoe.com/2023/12/08/tensas-parish-school-board-votes-new-superintendent/"
+    ]
+  },
+  {
+    "id": "la-union-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "Union Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Lashonda Bowie",
+        "party": "D",
+        "incumbent": null,
+        "seat": "D1"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "9 seats on Nov 3 ballot per KNOE; multiple candidates in D1 (incl. Lashonda Bowie, D), D6, D7, D9 (list garbled; names unverified).",
+    "impact": "Union High School is assumed to be in Union Parish (Farmerville area; parish assignment unverified). Multiple contested seats on a 9-member board could shift Star renewal votes.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Several contested seats; names mostly unverified.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/",
+      "https://ballotpedia.org/Union_Parish_School_District,_Louisiana,_elections"
+    ]
+  },
+  {
+    "id": "la-west-carroll-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "West Carroll Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Angela Anderson",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D4"
+      },
+      {
+        "name": "Shane Ray",
+        "party": "unverified",
+        "incumbent": null,
+        "seat": "D4"
+      }
+    ],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "7 districts; only D4 contested (Angela Anderson vs Shane Ray) per KNOE; D1-D3, D5-D7 single-candidate. Note a D7 seat (Deborah Allen) also appeared on the May 16, 2026 ballot (likely special).",
+    "impact": "Forest High School (Forest, LA) is West Carroll's Star site; board composition is mostly settled, so Star risk here is low unless D4 covers Forest (unverified).",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Only D4 contested.",
+    "sources": [
+      "https://www.knoe.com/2026/08/06/candidate-qualifying-begins-november-election/",
+      "https://www.knoe.com/2026/02/12/candidate-qualifying-begins-northeast-louisiana-statewide/"
+    ]
+  },
+  {
+    "id": "la-st-landry-sb-2026",
+    "state": "LA",
+    "level": "local",
+    "office": "St. Landry Parish School Board",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "medium",
+    "tier": "active",
+    "outlook": "13 districts on Nov 3 sample ballot; candidate list not retrieved (unverified). Board had a District 3 vacancy in May 2026. Voters rejected the board's 9.9-mill package (7.7 mills salaries/SROs/counseling plus 2.2 mills safety facilities) on May 16, 2026, the second rejection in four years; any re-call for Dec 12 not found.",
+    "impact": "Opelousas Junior High is St. Landry's Star site; a board facing repeated tax defeats is likely to scrutinize discretionary contracts, and a 13-seat election can reshape that board.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Candidates unverified; May 2026 school tax failed.",
+    "sources": [
+      "https://www.sway.co/voter-guide/louisiana/st-landry-parish",
+      "https://www.slpsb.org/page/voting-information-2026/",
+      "https://kpel965.com/st-landry-millage-vote-schools-2026/",
+      "https://legis.la.gov/archive/2026/6002.pdf",
+      "https://ballotpedia.org/St._Landry_Parish_School_Board,_Louisiana,_elections"
+    ]
+  },
+  {
+    "id": "la-sb-2026-no-verified",
+    "state": "LA",
+    "level": "local",
+    "office": "DeSoto, Sabine and Grant Parish School Boards",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "low",
+    "tier": "active",
+    "outlook": "Seats are on the Nov 3 ballot (qualifying closed Aug 2026; DeSoto 11 seats, Sabine 9, Grant 8), but candidate lists are paywalled or were not retrievable (Mansfield Enterprise, Sabine Parish Journal). No school millage found for Nov 3 or Dec 12.",
+    "impact": "Hosts Mansfield Middle School (DeSoto), Pleasant Hill High School (Sabine) and Grant Junior High (Grant). Each board controls its Star renewal; check the parish qualifying lists before relying on these.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "No verified contested seats found",
+    "sources": [
+      "https://www.mansfieldenterprise.com/articles/2026/08/19/candidates-qualified-desoto-parish-various-offices",
+      "https://sabineparishjournal.com/2026/08/19/qualifying-closes-see-who-is-running-for-office-in-the-parish/",
+      "https://grantpsb.org/about/board/",
+      "https://www.kalb.com/2025/05/21/grant-jr-high-sees-improvements-star-academy/"
+    ]
+  }
+]

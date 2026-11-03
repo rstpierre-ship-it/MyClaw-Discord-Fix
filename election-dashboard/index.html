@@ -142,6 +142,9 @@
       <label for="f-out">Outlook <select id="f-out" aria-label="Outlook">
         <option value="">Any</option><option value="opportunity">Opportunity</option><option value="neutral">Neutral</option><option value="headwind">Headwind</option>
       </select></label>
+      <label for="f-lvl">Level <select id="f-lvl" aria-label="Level">
+        <option value="">All levels</option><option value="federal">Federal</option><option value="state">State</option><option value="ballot">Ballot measures</option><option value="local">District and parish</option>
+      </select></label>
       <label for="f-pri">Priority <select id="f-pri" aria-label="Priority">
         <option value="">All</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option>
       </select></label>
@@ -224,7 +227,7 @@
     },
   });
 
-  window.ewFilter = { state: '', pri: '', when: '', q: '', tier: '', out: '' };
+  window.ewFilter = { state: '', pri: '', when: '', q: '', tier: '', out: '', lvl: '' };
   const fmtN = d3.format(',');
 
   dash.draw('sum', (el) => {
@@ -284,6 +287,7 @@
       (!f.state || r.state === f.state) &&
       (!f.pri || r.priority === f.pri) &&
       (!f.tier || r.tier === f.tier) &&
+      (!f.lvl || r.level === f.lvl) &&
       (!f.out || r.outlook === f.out) &&
       (!f.when || (f.when === 'tonight' ? r.date === '2026-11-03' : r.date > '2026-11-03')) &&
       (!q || [r.office, r.candidates, r.impact, r.state_name, r.winner, r.result_note].join(' ').toLowerCase().includes(q))
@@ -330,14 +334,15 @@
   const redraw = () => { dash.draw('races'); dash.draw('count'); dash.draw('foot'); dash.draw('exp'); };
   window.ewRedraw = redraw;
   document.querySelectorAll('#f-state').forEach((el) => el.addEventListener('change', () => { window.ewFilter.state = el.value; redraw(); }));
+  document.querySelectorAll('#f-lvl').forEach((el) => el.addEventListener('change', () => { window.ewFilter.lvl = el.value; redraw(); }));
   document.querySelectorAll('#f-tier').forEach((el) => el.addEventListener('change', () => { window.ewFilter.tier = el.value; redraw(); }));
   document.querySelectorAll('#f-out').forEach((el) => el.addEventListener('change', () => { window.ewFilter.out = el.value; redraw(); }));
   document.querySelectorAll('#f-pri').forEach((el) => el.addEventListener('change', () => { window.ewFilter.pri = el.value; redraw(); }));
   document.querySelectorAll('#f-when').forEach((el) => el.addEventListener('change', () => { window.ewFilter.when = el.value; redraw(); }));
   document.querySelectorAll('#f-q').forEach((el) => el.addEventListener('input', () => { window.ewFilter.q = el.value; redraw(); }));
   document.querySelectorAll('#f-reset').forEach((el) => el.addEventListener('click', () => {
-    window.ewFilter = { state: '', pri: '', when: '', q: '', tier: '', out: '' };
-    document.querySelectorAll('#f-state, #f-pri, #f-when, #f-q, #f-tier, #f-out').forEach((c) => { c.value = ''; });
+    window.ewFilter = { state: '', pri: '', when: '', q: '', tier: '', out: '', lvl: '' };
+    document.querySelectorAll('#f-state, #f-pri, #f-when, #f-q, #f-tier, #f-out, #f-lvl').forEach((c) => { c.value = ''; });
     redraw();
   }));
 </script>
