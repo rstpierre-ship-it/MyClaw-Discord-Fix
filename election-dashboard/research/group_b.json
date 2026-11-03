@@ -1,0 +1,514 @@
+[
+ {
+  "id": "sc-supt-2026",
+  "state": "SC",
+  "level": "state",
+  "office": "State Superintendent of Education",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Ellen Weaver",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Sylvia Wright",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "The superintendent runs the SC Department of Education, which steers at-risk and dropout-prevention priorities and state K-12 dollars that flow to districts hosting Star sites. Weaver is a school-choice advocate; Wright beat Lisa Ellis in the June Democratic primary.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No general election results found as of search time.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_South_Carolina_Superintendent_of_Education_election",
+   "https://abcnews4.com/news/local/sylvia-wright-takes-democratic-primary-for-sc-superintendent-of-education",
+   "https://scdailygazette.com/voter-guides/contests/2026-superintendent-of-education/"
+  ]
+ },
+ {
+  "id": "sc-gov-2026",
+  "state": "SC",
+  "level": "state",
+  "office": "Governor (open seat, McMaster term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Alan Wilson",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Jermaine Johnson",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "The next governor writes the executive budget and sets K-12 and workforce priorities for the state that funds SC districts' program purchases. Wilson (current Attorney General) won the June 23 GOP runoff over Lt. Gov. Pamela Evette.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Race rated Solid R by MultiState. No results found yet.",
+  "sources": [
+   "https://www.wbtv.com/2026/06/23/ap-state-attorney-general-alan-wilson-is-projected-winner-2026-republican-runoff-south-carolina-governor/",
+   "https://www.foxcarolina.com/2026/06/24/south-carolina-governors-race-set-wilson-johnson-turn-general-election/",
+   "https://www.multistate.us/elections/results/south-carolina-2026"
+  ]
+ },
+ {
+  "id": "sc-ltgov-2026",
+  "state": "SC",
+  "level": "state",
+  "office": "Lieutenant Governor (elected on ticket with governor)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Mike Reichenbach",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Sam Skardon",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "low",
+  "impact": "Elected jointly with the governor; limited direct role in K-12 funding.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Running mates per July 2026 reporting (Reichenbach named by Wilson in January 2026).",
+  "sources": [
+   "https://scdailygazette.com/2026/07/30/former-aide-to-john-lewis-completes-democratic-ticket-for-sc-governor/",
+   "https://www.live5news.com/2026/07/30/democratic-gubernatorial-nominee-jermaine-johnson-picks-charlestonian-running-mate/"
+  ]
+ },
+ {
+  "id": "sc-senate-2026",
+  "state": "SC",
+  "level": "federal",
+  "office": "US Senate",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Darline Graham",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Annie Andrews",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Federal votes on Title I, ESSER-successor and TANF reauthorization affect district budgets. Darline Graham was appointed July 13, 2026 after Sen. Lindsey Graham died July 11, then won the Aug 25 GOP runoff over Rep. Ralph Norman.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "An Aug Impact Research poll had Andrews 42, Graham 39. Incumbent flag reflects appointed status.",
+  "sources": [
+   "https://www.npr.org/2026/08/25/nx-s1-5943041/south-carolina-senate-runoff-graham-norman-trump-endorsement",
+   "https://www.pbs.org/newshour/politics/darline-graham-wins-south-carolina-gop-nomination-to-replace-her-late-brother-in-u-s-senate",
+   "https://governor.sc.gov/news/2026-07/gov-mcmaster-appoints-darline-graham-us-senate",
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_South_Carolina"
+  ]
+ },
+ {
+  "id": "sc-house-2026",
+  "state": "SC",
+  "level": "state",
+  "office": "SC House of Representatives (all 124 seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "The House originates the state budget, including K-12 appropriations. Pre-election split about 89 R, 35 D; Democrats filed in all 124 districts; rated Safe R. The SC Senate is not up in 2026.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Control change unlikely per Sabato rating.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_South_Carolina_House_of_Representatives_election",
+   "https://charlestoncitypaper.com/2026/04/03/democrats-tout-full-slate-of-candidates-in-2026-elections/",
+   "https://www.multistate.us/elections/results/south-carolina-2026"
+  ]
+ },
+ {
+  "id": "sc-ballot-2026",
+  "state": "SC",
+  "level": "ballot",
+  "office": "Statewide ballot measures",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No statewide constitutional questions appear on the SC 2026 ballot per one voter guide, so no statewide education funding measure. Local school questions may exist but were not verified for Star host districts (SC host districts not identified).",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Single-source finding (Decode the Vote); unverified against scVOTES.",
+  "sources": [
+   "https://www.decodethevote.com/election-2026/south-carolina"
+  ]
+ },
+ {
+  "id": "ar-gov-2026",
+  "state": "AR",
+  "level": "state",
+  "office": "Governor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Sarah Huckabee Sanders",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Fredrick Love",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Colt Shelby",
+    "party": "L",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Sanders' LEARNS Act agenda and executive budget shape funding for Arkansas's 14 Star sites and the state education department that oversees them. Libertarian candidate from a single source.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Rated Solid R. Arkansas general-election runoffs, if needed, are Dec 1.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
+   "https://www.multistate.us/elections/governor-race/arkansas-2026",
+   "https://www.predictionedge.com/elections/ar/"
+  ]
+ },
+ {
+  "id": "ar-ltgov-2026",
+  "state": "AR",
+  "level": "state",
+  "office": "Lieutenant Governor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Leslie Rutledge",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Michael Kalagias",
+    "party": "L",
+    "incumbent": false
+   }
+  ],
+  "priority": "low",
+  "impact": "Presides over the state Senate; indirect influence on education appropriations. No Democrat filed.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Arkansas_lieutenant_gubernatorial_election",
+   "https://www.thegreenpapers.com/G26/AR"
+  ]
+ },
+ {
+  "id": "ar-senate-2026",
+  "state": "AR",
+  "level": "federal",
+  "office": "US Senate",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Tom Cotton",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Hallie Shoffner",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Jeff Wadlin",
+    "party": "L",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Federal education and TANF policy votes. Polling conflicted (one Talk Business poll had Shoffner ahead within margin; another report had Cotton up 16).",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://arkansasadvocate.com/?p=23710",
+   "https://talkbusiness.net/2026/08/poll-tight-race-for",
+   "https://www.washingtonexaminer.com/?p=4691684"
+  ]
+ },
+ {
+  "id": "ar-legislature-2026",
+  "state": "AR",
+  "level": "state",
+  "office": "Arkansas General Assembly (all 100 House seats, about 17-18 Senate seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "high",
+  "impact": "The legislature sets school foundation funding and enhanced student achievement (poverty) funding that Arkansas districts use for programs like Star. Republicans hold a three-quarters supermajority needed for most budget bills; Democrats would need to flip about 3 Senate and 6 House seats to break it.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Runoffs, if any, Dec 1, 2026.",
+  "sources": [
+   "https://www.newsfromthestates.com/article/nine-arkansas-legislative-races-watch-midterm-election",
+   "https://en.wikipedia.org/wiki/2026_Arkansas_House_of_Representatives_election",
+   "https://arkansasadvocate.com/?p=21608"
+  ]
+ },
+ {
+  "id": "ar-ballot-2026",
+  "state": "AR",
+  "level": "ballot",
+  "office": "Statewide ballot issues (Issue 1 citizens-only voting, Issue 2 right to bear arms, economic development districts amendment, Issue 4 $500M water bonds)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No education-specific statewide measure verified. The economic development districts amendment could affect local property tax capture that funds schools; impact unverified.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Issue number for the economic development districts amendment unverified.",
+  "sources": [
+   "https://www.uaex.uada.edu/media-resources/news/2026/october/10-07-2026-ark-ballot-guide-26.aspx",
+   "https://news.ballotpedia.org/2025/04/18/arkansas-voters-to-decide-on-three-constitutional-amendments-in-2026-addressing-the-right-to-bear-arms-a-citizenship-requirement-for-voting-and-the-creation-of-economic-development-districts/"
+  ]
+ },
+ {
+  "id": "ar-local-millage-2026",
+  "state": "AR",
+  "level": "local",
+  "office": "School millage / board elections in Star host districts (Pine Bluff, Helena-West Helena, Stuttgart, Camden Fairview, Strong)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Arkansas districts may hold board and millage votes in spring or November. No November 2026 millage question verified for any Star host district.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "unverified",
+  "sources": [
+   "https://www.dfa.arkansas.gov/wp-content/uploads/2025-millage-2026-collections.pdf"
+  ]
+ },
+ {
+  "id": "mo-auditor-2026",
+  "state": "MO",
+  "level": "state",
+  "office": "State Auditor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Scott Fitzpatrick",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Quentin Wilson",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Dustin Coffell",
+    "party": "L",
+    "incumbent": false
+   }
+  ],
+  "priority": "low",
+  "impact": "Only statewide office on Missouri's 2026 ballot; the auditor audits state budget and school district spending. No governor, superintendent (appointed commissioner) or US Senate race in Missouri in 2026.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://www.ky3.com/2026/10/23/incumbent-fitzpatrick-seeks-reelection-missouri-state-auditor/",
+   "https://missouriindependent.com/2026/10/12/missouri-auditor-candidates-split-over-how-office-should-confront-state-budget-problems/"
+  ]
+ },
+ {
+  "id": "mo-legislature-2026",
+  "state": "MO",
+  "level": "state",
+  "office": "Missouri General Assembly (all 163 House seats, 17 Senate seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "The legislature sets the school foundation formula and any appropriation that could fund Sikeston's Star program. Democrats need about 3 House and 2 Senate seats to break GOP supermajorities.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Seat counts vary by source.",
+  "sources": [
+   "https://missouriindependent.com/2026/10/15/missouri-democrats-aim-to-break-republicans-streak-of-house-supermajorities/",
+   "https://dlcc.org/Missouri"
+  ]
+ },
+ {
+  "id": "mo-amend3-2026",
+  "state": "MO",
+  "level": "ballot",
+  "office": "Amendment 3 (abortion ban with exceptions, repeal of 2024 amendment; minors gender-transition procedures)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No direct education funding effect; drives turnout that could shape legislative races.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Missouri_Amendment_3",
+   "https://www.axios.com/local/kansas-city/2026/10/15/missouri-ballot-questions-amendment-abortion-citizen-referendum-congressional-maps"
+  ]
+ },
+ {
+  "id": "mo-amend6-2026",
+  "state": "MO",
+  "level": "ballot",
+  "office": "Amendment 6 (limits on lawmakers rewriting voter-approved measures)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Affects whether future citizen initiatives (including any on school funding or vouchers) can be altered by the legislature.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://missouriindependent.com/2026/09/03/missouri-voters-will-decide-limits-on-lawmakers-rewriting-ballot-measures/"
+  ]
+ },
+ {
+  "id": "mo-amend7-2026",
+  "state": "MO",
+  "level": "ballot",
+  "office": "Amendment 7 (Show-Me Prosperity Fund endowment aimed at ending most state taxes over about 100 years)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Long-term state revenue structure change; could eventually affect general revenue available for K-12.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://www.kcur.org/politics-elections-and-government/2026-10-27/missouri-election-amendment-proposition-guide-november-2026"
+  ]
+ },
+ {
+  "id": "mo-amend8-propA-2026",
+  "state": "MO",
+  "level": "ballot",
+  "office": "Amendment 8 (county sheriffs) and Proposition A (referendum on 2025 congressional map)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No education impact.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://www.kcur.org/politics-elections-and-government/2026-10-27/missouri-election-amendment-proposition-guide-november-2026",
+   "https://www.sos.mo.gov/petitions/2026ballotmeasures"
+  ]
+ },
+ {
+  "id": "mo-sikeston-local-2026",
+  "state": "MO",
+  "level": "local",
+  "office": "Sikeston R-6 school district ballot question",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Sikeston R-6 voters approved a no-tax-increase bond (Phase 4) in April 2026; Missouri school board and levy votes normally occur in April. No November 2026 Sikeston school question verified.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "unverified for Nov 3; April 2026 bond passed.",
+  "sources": [
+   "https://starbridge.ai/buyer/sikeston-r-6-school-district",
+   "https://auditor.mo.gov/Bonds/ViewBondPdf/8598"
+  ]
+ },
+ {
+  "id": "wv-legislature-2026",
+  "state": "WV",
+  "level": "state",
+  "office": "WV Legislature (all 100 House of Delegates seats, about 17-19 Senate seats incl. 2 specials)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "high",
+  "impact": "The legislature appropriates TANF and education dollars, including the proposed TANF-funded Star Academy expansion. The size and makeup of the GOP supermajority (about 90-9 House, 32-2 Senate) will shape oversight of that funding.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Governor not on ballot until 2028. Watch SD13 (Oliverio R vs Williams D) and SD9 (Roberts R vs Antolini).",
+  "sources": [
+   "https://westvirginiawatch.com/2026/05/27/while-tanf-cuts-loom-morrisey-considers-giving-money-to-education-group-linked-to-his-donations/",
+   "https://en.wikipedia.org/wiki/2026_West_Virginia_House_of_Delegates_election",
+   "https://en.wikipedia.org/wiki/2026_West_Virginia_Senate_election",
+   "https://www.wvva.com/2026/05/13/morrisey-primary-results-help-west-virginia-legislature-move-forward/"
+  ]
+ },
+ {
+  "id": "wv-senate-2026",
+  "state": "WV",
+  "level": "federal",
+  "office": "US Senate",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Shelley Moore Capito",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Rachel Fetty Anderson",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Capito sits on Appropriations and influences federal TANF and education funding that WV has tapped for Star Academy. Rated Solid R.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Capito won the May primary with 66.5 percent over state Sen. Tom Willis and others.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_West_Virginia",
+   "https://wvgazettemail.com/elections/primary-election-2026-capito-anderson-advance-to-u-s-senate-general-election-race/article_d6c506cb-4ceb-4546-bb57-7376f3f280f5.html",
+   "https://www.cookpolitical.com/senate/race/488696"
+  ]
+ },
+ {
+  "id": "wv-amend1-2026",
+  "state": "WV",
+  "level": "ballot",
+  "office": "Amendment 1 (citizenship requirement to vote)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No education impact; the only verified statewide amendment. A homestead exemption increase amendment did not make the ballot.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://news.ballotpedia.org/2026/03/17/west-virginia-becomes-fourth-state-to-place-citizenship-requirement-amendment-on-2026-ballot/",
+   "https://www.newsfromthestates.com/article/wv-voters-will-decide-proposed-citizen-only-voting-constitutional-amendment-november"
+  ]
+ },
+ {
+  "id": "wv-local-levies-2026",
+  "state": "WV",
+  "level": "local",
+  "office": "School levies in Star host counties (Logan, Berkeley/Martinsburg, Barbour/Philippi)",
+  "date": "2026-05-12",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Berkeley County voters approved a $115M school bond levy in the May 2026 primary (new middle school and CTE center). No November levy verified for Logan or Barbour. WV state superintendent and board of education are appointed, not elected.",
+  "status": "called",
+  "winner": "Berkeley County bond levy approved",
+  "result_note": "May 2026 primary result, not Nov 3.",
+  "sources": [
+   "https://wvpolicy.org/west-virginia-voters-approved-most-measures-to-fund-public-schools-during-the-2026-primary-election/",
+   "https://wvpolicy.org/voters-in-10-counties-have-the-opportunity-to-support-their-public-schools-may-12/"
+  ]
+ }
+]

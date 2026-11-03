@@ -1,0 +1,758 @@
+[
+ {
+  "id": "la-sen-2026",
+  "state": "LA",
+  "level": "federal",
+  "office": "U.S. Senate",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Julia Letlow",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Jamie Davis",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Letlow was endorsed by Gov. Landry and Trump, so a win puts a Landry ally in the Senate seat; federal levers (Title I, ESSER successors, TANF reauthorization) flow into the LA district budgets that buy Star.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Incumbent Bill Cassidy (R) finished third in the closed GOP primary and is not on the ballot; Letlow beat John Fleming in the June 27 GOP runoff. An Independent (Jamie LaBranche) appears on one Ballotpedia page: unverified. Rated Solid/Safe R. No results reported at time of research.",
+  "sources": [
+   "https://lailluminator.com/2026/06/27/letlow-senate-4/",
+   "https://www.wafb.com/2026/06/28/julia-letlow-jamie-davis-advance-louisiana-us-senate-race-ap-projects/",
+   "https://news.ballotpedia.org/2026/06/30/julia-letlow-r-defeated-john-fleming-r-in-the-republican-primary-runoff-for-u-s-senate-in-louisiana/"
+  ]
+ },
+ {
+  "id": "la-ca-2026-millage",
+  "state": "LA",
+  "level": "ballot",
+  "office": "Constitutional Amendment 2: local property tax millage rates after reassessment",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "high",
+  "impact": "Rules on rolling millages forward after reassessment directly affect local school district property tax revenue, which funds district purchases such as Star Academy sites.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "One of 10 amendments on the Nov 3 ballot. Amendment number and exact text per Invest in Louisiana table; verify against SOS/PAR guide.",
+  "sources": [
+   "https://investlouisiana.org/guide-to-the-nov-3-constitutional-amendments/",
+   "https://parlouisiana.org/publications/guide-to-the-constitutional-amendments/",
+   "https://thecurrentla.com/guides/election-guide/november-2026-louisiana-constitutional-amendments-guide/"
+  ]
+ },
+ {
+  "id": "la-ca-2026-retirement",
+  "state": "LA",
+  "level": "ballot",
+  "office": "Constitutional Amendment (reported as No. 5): order of paying down retirement system unfunded liabilities (HB 27)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "Lets state retirement systems apply nonrecurring money to any unfunded liability; how TRSL debt is paid down shapes district employer contribution rates and freed-up district dollars.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Amendment number unverified across sources. Separate from the May 2026 teacher-pay Amendment 3, which voters rejected (~58% no).",
+  "sources": [
+   "https://manifold.markets/ManifoldPolitics/will-louisiana-amendment-5-retireme",
+   "https://parlouisiana.org/publications/guide-to-the-constitutional-amendments/"
+  ]
+ },
+ {
+  "id": "la-ca-2026-gov-terms",
+  "state": "LA",
+  "level": "ballot",
+  "office": "Constitutional Amendment 4: governor lifetime term limit (two terms for life)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "Changes gubernatorial term limits from two consecutive terms to a lifetime cap; relevant to the long-run horizon of the Landry relationship.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Other Nov 3 amendments cover disabled-veteran tax exemption transfer (1), no bail after conviction for aggravated offenses against minors (3), drinking water service lines, foreign-adversary expropriation (8), blighted property tax exemption (10). A Ballotpedia page showing a 63.43% result appears erroneous/stale; treat as unreported.",
+  "sources": [
+   "https://news.ballotpedia.org/2026/05/28/louisiana-voters-to-decide-whether-to-limit-governors-to-two-terms-for-life-rather-than-two-successive-terms/",
+   "https://investlouisiana.org/guide-to-the-nov-3-constitutional-amendments/"
+  ]
+ },
+ {
+  "id": "la-02-house-2026",
+  "state": "LA",
+  "level": "federal",
+  "office": "U.S. House LA-2 (New Orleans; open all-party primary)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Troy Carter",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Peter Williams",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Lisa Ballay",
+    "party": "L",
+    "incumbent": false
+   },
+   {
+    "name": "Renada \"Honey\" Collins",
+    "party": "I",
+    "incumbent": false
+   }
+  ],
+  "priority": "low",
+  "impact": "Covers Orleans Parish, home of NOLA Education HQ and Orleans Star sites; Carter is the federal point of contact for New Orleans education funding.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "After SCOTUS struck the prior map, Landry signed a new map May 29, 2026; May/June House primaries were canceled and House races moved to a Nov 3 open primary with Dec 12 runoff. Challenger list is inconsistent across sources (Collins listed as D in one source; Walter 'Rocky' Beach (I) in another): non-incumbent names partly unverified.",
+  "sources": [
+   "https://www.wafb.com/2026/10/20/key-races-watch-louisiana-across-country-2026-election/",
+   "https://knowyourreps.io/races/2026/louisiana/district-2",
+   "https://www.wwno.org/2026-08-12/39-candidates-qualify-to-run-for-louisianas-6-congressional-districts"
+  ]
+ },
+ {
+  "id": "la-06-house-2026",
+  "state": "LA",
+  "level": "federal",
+  "office": "U.S. House LA-6 (Baton Rouge area; open seat, open primary)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Rick Edmonds",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Blake Miguez",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Lindsay \"Rubia\" Garcia",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "low",
+  "impact": "Open Baton Rouge seat after Cleo Fields (D) declined to run under the new map; Edmonds is a former state lawmaker on education issues and Miguez is a Landry-aligned state senator.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "10 candidates (6 R, 3 D, 1 L). Likely heads to Dec 12 runoff. Other candidates unverified. Miguez residency dispute (AG says primary residence New Iberia).",
+  "sources": [
+   "https://lailluminator.com/2026/10/10/6th-district-forum/",
+   "https://www.wwno.org/2026-08-12/39-candidates-qualify-to-run-for-louisianas-6-congressional-districts",
+   "https://louisianaradionetwork.com/2026/08/08/miguez-enters-crowded-race-for-open-baton-rouge-area-congressional-seat/"
+  ]
+ },
+ {
+  "id": "la-house-runoffs-2026-12",
+  "state": "LA",
+  "level": "federal",
+  "office": "U.S. House runoffs (any LA district with no majority on Nov 3)",
+  "date": "2026-12-12",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Second round for open-primary House races under the new map; also the runoff date for any local Nov 3 contests.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Matchups depend on tonight's results.",
+  "sources": [
+   "https://www.wwno.org/2026-08-12/39-candidates-qualify-to-run-for-louisianas-6-congressional-districts",
+   "https://en.wikipedia.org/wiki/2026_Louisiana_elections"
+  ]
+ },
+ {
+  "id": "la-local-school-millages-2026",
+  "state": "LA",
+  "level": "local",
+  "office": "Orleans / Caddo school board or school millage items",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No Orleans or Caddo school millage found on Nov 3; Caddo renewed three school millages in March 2025 and Orleans renewed its facilities millage in 2025, so Star host-district local revenue looks stable.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Unverified: no sample-ballot confirmation. Some other parishes (e.g., St. Charles, Sabine) have school millage renewals listed for 2026; check SOS for each Star host parish.",
+  "sources": [
+   "https://www.ksla.com/2025/03/30/caddo-schools-thanks-voters-renewing-all-3-proposed-millages",
+   "https://www.bgr.org/?p=10012"
+  ]
+ },
+ {
+  "id": "la-gov-2027",
+  "state": "LA",
+  "level": "state",
+  "office": "Governor",
+  "date": "2027-10-09",
+  "candidates": [
+   {
+    "name": "Jeff Landry",
+    "party": "R",
+    "incumbent": true
+   }
+  ],
+  "priority": "high",
+  "impact": "Star's 50-site LA footprint and its Landry relationship ride on this race; the governor drives the budget, BESE appointees, and the MFP that funds districts.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Landry is eligible for a second term but has not announced (as of sources found). No 2027 field verified. Date per Wikipedia listing; unverified against SOS. Governor races remain jungle primary.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2027_United_States_gubernatorial_elections"
+  ]
+ },
+ {
+  "id": "la-bese-2027",
+  "state": "LA",
+  "level": "state",
+  "office": "Board of Elementary and Secondary Education (8 elected seats)",
+  "date": "2027-10-09",
+  "candidates": [],
+  "priority": "high",
+  "impact": "BESE sets MFP formula, accountability, and appoints the State Superintendent (Cade Brumley), so it directly controls K-12 policy and funding Star depends on.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Candidates unverified; no 2026-dated source found on 2027 BESE races. BESE moves to closed party primaries under the 2024 law; exact 2027 dates unverified.",
+  "sources": []
+ },
+ {
+  "id": "la-ltgov-2027",
+  "state": "LA",
+  "level": "state",
+  "office": "Lieutenant Governor",
+  "date": "2027-10-09",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Limited education role; included for completeness of the 2027 statewide slate.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Candidates unverified.",
+  "sources": []
+ },
+ {
+  "id": "ms-sen-2026",
+  "state": "MS",
+  "level": "federal",
+  "office": "U.S. Senate",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Cindy Hyde-Smith",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Scott Colom",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Ty Pinkins",
+    "party": "I",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Federal education and TANF appropriations; Hyde-Smith sits on Appropriations.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Rated Solid/Safe R (Silver Bulletin, Split Ticket, Oct 31); some observers see a possible Colom upset.",
+  "sources": [
+   "https://www.mississippifreepress.org/meet-the-candidates-for-us-senate-in-mississippis-nov-3-elections/",
+   "https://mississippitoday.org/2026/09/15/mississippi-2026-midterms-election-guide-senate-house-race-candidates-voting-deadline/"
+  ]
+ },
+ {
+  "id": "ms-house-specials-2026",
+  "state": "MS",
+  "level": "state",
+  "office": "Mississippi House special elections (two seats, formerly Reps. Price Wallace and Bo Brown)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Minor effect on House supermajority math for education budget votes.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "District numbers and candidates unverified.",
+  "sources": [
+   "https://www.mississippifreepress.org/voting/voting-2026/"
+  ]
+ },
+ {
+  "id": "ms-local-school-boards-2026",
+  "state": "MS",
+  "level": "local",
+  "office": "County school boards and municipal separate school district trustees",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Local boards approve district program contracts; relevant wherever Star has or targets MS sites.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "On Nov 3 ballot statewide (qualifying closed Aug 20, 2026). Individual candidates unverified; e.g., Scott County School Board District 2 special.",
+  "sources": [
+   "https://www.mississippifreepress.org/voting/voting-2026/",
+   "https://www.scottcountyms.gov/node/5679"
+  ]
+ },
+ {
+  "id": "ms-ballot-2026",
+  "state": "MS",
+  "level": "ballot",
+  "office": "Statewide constitutional amendments",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No education measure identified.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No verified statewide measure on the Nov 3 ballot; HCR 26 (reproductive rights) status unverified. Initiative process inoperable since 2021.",
+  "sources": [
+   "https://legiscan.com/MS/bill/HC7/2026"
+  ]
+ },
+ {
+  "id": "ms-gov-2027",
+  "state": "MS",
+  "level": "state",
+  "office": "Governor (open; Tate Reeves term-limited)",
+  "date": "2027-11-02",
+  "candidates": [
+   {
+    "name": "Andy Gipson",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Philip Gunn",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Lynn Fitch",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Priscilla Till",
+    "party": "other",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Next governor controls MDHS (TANF) and the education budget; MS TANF oversight has been tightened since the welfare scandal, which shapes any TANF-funded program pitch.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Primaries August 2027. Till's party unverified. Possible: Delbert Hosemann, Shad White, Gregg Harper, Tommy Duff (unverified). No Democrat declared as of Aug 2026. General date is the standard Nov 2, 2027 (unverified).",
+  "sources": [
+   "https://mississippitoday.org/2026/08/04/lynn-fitch-announces-run-for-governor/",
+   "https://www.wlox.com/2026/08/05/ag-fitch-now-one-three-republicans-running-governor/",
+   "https://mississippitoday.org/2026/04/03/philip-gunn-governor-running-election/",
+   "https://www.mississippifreepress.org/andy-gipson-announces-2027-run-for-mississippi-governor/"
+  ]
+ },
+ {
+  "id": "ms-ltgov-2027",
+  "state": "MS",
+  "level": "state",
+  "office": "Lieutenant Governor",
+  "date": "2027-11-02",
+  "candidates": [
+   {
+    "name": "Michael Watson",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "MS Lt. Gov. runs the Senate and is central to K-12 appropriations.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Watson (current SOS) announced. Rest of field unverified. State Superintendent is appointed by the State Board, not elected.",
+  "sources": [
+   "https://www.wlox.com/2026/08/20/political-musical-chairs-continue-mississippis-2027-election-season-ramps-up/"
+  ]
+ },
+ {
+  "id": "al-gov-2026",
+  "state": "AL",
+  "level": "state",
+  "office": "Governor (open; Kay Ivey term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Tommy Tuberville",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Doug Jones",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Governor proposes the Education Trust Fund budget and is president of the State Board of Education.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Oct 16-17 poll: Tuberville 51, Jones 40. Rated Solid R.",
+  "sources": [
+   "https://www.fox10tv.com/2026/10/20/tuberville-leads-jones-51-40-exclusive-grayalabama-daily-news-poll/",
+   "https://nebraskaexaminer.com/?p=41222"
+  ]
+ },
+ {
+  "id": "al-ltgov-2026",
+  "state": "AL",
+  "level": "state",
+  "office": "Lieutenant Governor (open; Will Ainsworth term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "John Wahl",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Phillip Ensler",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Presides over the Senate and shapes ETF appropriations committees.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Wahl beat SOS Wes Allen in June 16 GOP runoff.",
+  "sources": [
+   "https://www.fox10tv.com/2026/10/27/meet-candidates-alabamas-race-lieutenant-governor/",
+   "https://www.wtvy.com/2026/06/17/decision-2026-runoff-results-across-area-state/"
+  ]
+ },
+ {
+  "id": "al-sen-2026",
+  "state": "AL",
+  "level": "federal",
+  "office": "U.S. Senate (open; Tuberville seat)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Barry Moore",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Everett Wess",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Federal education and workforce funding.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Moore (Trump-endorsed) beat Jared Hudson in June 16 runoff; AG Steve Marshall finished third. Rated Solid R.",
+  "sources": [
+   "https://www.apr.org/news/2026-06-17/moore-wess-robertson-wahl-and-sneed-win-in-alabama-runoff",
+   "https://alabamareflector.com/2026/05/20/steve-marshall-concedes-in-u-s-senate-race-barry-moore-jared-hudson-go-to-gop-runoff/"
+  ]
+ },
+ {
+  "id": "al-sboe-d2",
+  "state": "AL",
+  "level": "state",
+  "office": "State Board of Education District 2",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Tracie West",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Jamie McCurry",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "SBOE appoints the State Superintendent and sets K-12 policy, including at-risk and dropout-prevention priorities.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "West unopposed in GOP primary. McCurry party per one report; lightly verified.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Alabama_State_Board_of_Education_election",
+   "https://www.ballotready.org/people/jamie-mccurry"
+  ]
+ },
+ {
+  "id": "al-sboe-d4",
+  "state": "AL",
+  "level": "state",
+  "office": "State Board of Education District 4",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Yvette Richardson",
+    "party": "D",
+    "incumbent": true
+   }
+  ],
+  "priority": "medium",
+  "impact": "SBOE seat; incumbent returning unopposed keeps continuity.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Unopposed in primary and general per available sources.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Alabama_State_Board_of_Education_election"
+  ]
+ },
+ {
+  "id": "al-sboe-d6",
+  "state": "AL",
+  "level": "state",
+  "office": "State Board of Education District 6",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Cathi Bradford",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Angela Morgan",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "Incumbent Marie Manning was ousted in the GOP primary, so this seat will change hands and may shift board votes on superintendent and programs.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Bradford 54% to Manning in May 19 primary (unofficial).",
+  "sources": [
+   "https://alabamareflector.com/2026/05/22/alabama-state-board-of-education-incumbent-unseated-in-gop-primary/",
+   "https://1819news.com/news/item/cathi-bradford-wins-republican-nomination-for-state-boe-district-6-over-incumbent-marie-manning",
+   "https://ballotpedia.org/Angela_Morgan"
+  ]
+ },
+ {
+  "id": "al-sboe-d8",
+  "state": "AL",
+  "level": "state",
+  "office": "State Board of Education District 8 (open; Wayne Reynolds retiring)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Emily Jones",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Shatika Armstrong",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "Open north Alabama seat; Jones (Moms for Liberty Madison County founder) would shift board composition.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Jones beat William Matthews 53.6% to 46.4% in June 16 runoff.",
+  "sources": [
+   "https://alabamareflector.com/2026/06/19/emily-jones-wins-gop-nomination-for-state-board-of-education-district-8-seat/",
+   "https://256today.com/north-alabamas-emily-jones-secures-gop-nomination-for-state-board-seat/"
+  ]
+ },
+ {
+  "id": "al-amend-2-2026",
+  "state": "AL",
+  "level": "ballot",
+  "office": "Statewide Amendment 2: process to consolidate county school boards into multi-county boards",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "high",
+  "impact": "Would create a path for county districts to merge (with SBOE impact study and local referendum), which could change the buyer map for Star contracts in rural Alabama.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/",
+   "https://news.ballotpedia.org/2026/04/10/alabama-voters-to-decide-constitutional-amendment-establishing-a-process-for-the-consolidation-of-county-school-boards-into-multi-county-boards/"
+  ]
+ },
+ {
+  "id": "al-amend-3-2026",
+  "state": "AL",
+  "level": "ballot",
+  "office": "Statewide Amendment 3: daily Pledge of Allegiance and student-led prayer policies in K-12",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "School-climate policy mandate; no funding effect.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/"
+  ]
+ },
+ {
+  "id": "al-amend-4-2026",
+  "state": "AL",
+  "level": "ballot",
+  "office": "Statewide Amendment 4: weekly Star-Spangled Banner broadcast in K-12",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "School-day mandate; no funding effect.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "",
+  "sources": [
+   "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/"
+  ]
+ },
+ {
+  "id": "al-amend-1-2026",
+  "state": "AL",
+  "level": "ballot",
+  "office": "Statewide Amendment 1: Lieutenant Governor vacancy",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Not education-related.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Details unverified.",
+  "sources": [
+   "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/"
+  ]
+ },
+ {
+  "id": "al-mobile-local-2026",
+  "state": "AL",
+  "level": "local",
+  "office": "Mobile County local races (school board, if any)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Mobile County Public Schools hosts Star; local board seats would affect renewals.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Unverified: no Mobile County school board race on Nov 3 found. Mobile is in SBOE District 1, which is not up in 2026.",
+  "sources": []
+ },
+ {
+  "id": "tn-gov-2026",
+  "state": "TN",
+  "level": "state",
+  "office": "Governor (open; Bill Lee term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Marsha Blackburn",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Jerri Green",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Next governor controls TN DHS, which holds a large TANF reserve and grant programs, plus the TISA education funding formula.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Blackburn heavily favored (Solid R; Aug poll 55-34). If Blackburn wins, she would vacate her U.S. Senate seat and the new governor appoints a replacement. Commissioner of Education is appointed, Lt. Gov. is chosen by the Senate.",
+  "sources": [
+   "https://www.wkms.org/government-politics/2026-08-06/blackburn-wins-gop-race-for-tennessee-governor",
+   "https://tennesseelookout.com/2026/08/06/blackburn-advances-to-general-election-first-woman-to-win-party-nomination/",
+   "https://www.wsmv.com/2026/09/28/election-2026-heres-everything-you-need-know-about-tns-candidates-governor-congress/"
+  ]
+ },
+ {
+  "id": "tn-sen-2026",
+  "state": "TN",
+  "level": "federal",
+  "office": "U.S. Senate",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Bill Hagerty",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Marquita Bradshaw",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Federal education and TANF appropriations.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Rematch of 2020. A Federalist-line candidate (Andrew Mixon) appears on one Ballotpedia page: unverified.",
+  "sources": [
+   "https://www.wkms.org/government-politics/2026-08-06/u-s-sen-bill-hagerty-will-face-democratic-challenger-marquita-bradshaw-for-a-second-time",
+   "https://tennesseelookout.com/voter-guides/contests/2026-u-s-senate/"
+  ]
+ },
+ {
+  "id": "tn-amendments-2026",
+  "state": "TN",
+  "level": "ballot",
+  "office": "Three constitutional amendments: crime victims' rights, pretrial bail denial, permanent ban on state property tax",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No direct K-12 funding effect; property tax ban concerns a state-level tax TN does not levy, local school property taxes unaffected.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Each needs a majority of votes cast for governor to pass.",
+  "sources": [
+   "https://tennesseelookout.com/2026/06/03/voters-face-three-constitutional-questions-in-november-election/",
+   "https://sos.tn.gov/elections/announcements/2026-proposed-constitutional-amendments"
+  ]
+ },
+ {
+  "id": "tn-haywood-local-2026",
+  "state": "TN",
+  "level": "local",
+  "office": "Haywood County school board / county offices",
+  "date": "2026-08-06",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Haywood County Schools hosts Star; board composition affects renewal.",
+  "status": "called",
+  "winner": null,
+  "result_note": "TN county general election was Aug 6, 2026 (already held). Whether school board seats were on the ballot and who won is unverified; check haywoodvotes.com results PDF.",
+  "sources": [
+   "https://haywoodvotes.com/wp-content/uploads/2026/08/unofficial-final-results.pdf"
+  ]
+ },
+ {
+  "id": "pr-no-election-2026",
+  "state": "PR",
+  "level": "state",
+  "office": "No general election in 2026 (next: Governor, Legislature, Resident Commissioner)",
+  "date": "2028-11-07",
+  "candidates": [],
+  "priority": "low",
+  "impact": "No 2026 vote affects the Department of the Family contract; current administration stays in place through 2028.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Puerto Rico holds general elections every four years (last Nov 2024). No 2026 plebiscite or referendum found. 2028 date assumed per standard calendar, unverified.",
+  "sources": []
+ }
+]

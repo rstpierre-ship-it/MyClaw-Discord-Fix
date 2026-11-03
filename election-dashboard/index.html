@@ -1,0 +1,283 @@
+<meta name="dash-one-writer">
+<style>
+  .ew { display: grid; gap: var(--cds-gap-xl); font-family: var(--font-anthropic-sans); }
+  .ew-head { display: grid; gap: var(--cds-gap-sm); }
+  .ew-eyebrow { font-size: var(--cds-font-size-caption); letter-spacing: .08em; text-transform: uppercase; color: var(--color-fg-muted); }
+  .ew-title { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); margin: 0; text-wrap: balance; }
+  .ew-take { margin: 0; max-width: 68ch; color: var(--color-fg); font-size: var(--cds-font-size-body); line-height: 1.5; }
+  .ew .ew-take b { font-weight: 600; font-variant-numeric: tabular-nums; }
+  .ew-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 9rem), 1fr)); gap: var(--cds-gap-md); }
+  .ew-tile { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-md) var(--cds-pad-lg); display: grid; gap: var(--cds-gap-xs); }
+  .ew-tile-label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ew-tile-num { font-family: var(--font-anthropic-serif); font-weight: 400; font-size: var(--cds-font-size-title); font-variant-numeric: tabular-nums; line-height: 1.1; min-height: 1.1em; }
+  .ew-tile-note { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ew-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 22rem), 1fr)); gap: var(--cds-gap-md); align-items: start; }
+  .ew-card { background: var(--color-panel); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); padding: var(--cds-pad-lg); display: grid; gap: var(--cds-gap-md); min-width: 0; }
+  .ew-card h2 { margin: 0; font-size: var(--cds-font-size-heading); font-weight: var(--cds-font-weight-medium); }
+  .ew-card-note { margin: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); line-height: 1.45; }
+  .ew-scroll { overflow-x: auto; min-width: 0; }
+  .ew-foot { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; font-size: var(--cds-font-size-body); }
+  .ew-foot th { text-align: left; font-weight: var(--cds-font-weight-medium); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; }
+  .ew-foot td { padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); }
+  .ew-foot td.num, .ew-foot th.num { text-align: right; }
+  .ew-foot tbody tr { cursor: pointer; }
+  .ew-foot tbody tr:hover td { background: var(--cds-surface-popover); }
+  .ew-foot tbody tr.is-on td { background: var(--cds-surface-popover); font-weight: 600; }
+  .ew-foot tbody tr:focus-visible { outline: 2px solid var(--color-fg); outline-offset: -2px; }
+  .ew-bar { display: inline-block; height: .5rem; border-radius: var(--cds-radius); background: var(--cds-chart-muted); vertical-align: middle; margin-right: var(--cds-gap-xs); }
+  .ew-controls { display: flex; flex-wrap: wrap; gap: var(--cds-gap-sm); align-items: center; }
+  .ew-controls label { font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); display: flex; gap: var(--cds-gap-xs); align-items: center; }
+  .ew-controls select, .ew-controls input { font: inherit; font-size: var(--cds-font-size-body); padding: var(--cds-pad-xs) var(--cds-pad-sm); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); background: var(--color-bg); color: var(--color-fg); min-width: 0; }
+  .ew-controls input { flex: 1 1 12rem; }
+  .ew-reset { font: inherit; font-size: var(--cds-font-size-caption); padding: var(--cds-pad-xs) var(--cds-pad-sm); border: 1px solid var(--color-border-line); border-radius: var(--cds-radius); background: transparent; color: var(--color-fg); cursor: pointer; }
+  .ew-reset:focus-visible, .ew-controls select:focus-visible, .ew-controls input:focus-visible { outline: 2px solid var(--color-fg); outline-offset: 1px; }
+  .ew-races { width: 100%; border-collapse: collapse; font-size: var(--cds-font-size-body); }
+  .ew-races thead th { text-align: left; font-weight: var(--cds-font-weight-medium); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); padding: var(--cds-pad-xs) var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); white-space: nowrap; position: sticky; top: 0; background: var(--color-panel); }
+  .ew-races td { padding: var(--cds-pad-sm); border-bottom: 1px solid var(--color-border-line); vertical-align: top; line-height: 1.4; }
+  .ew-races td.c-office { font-weight: 600; min-width: 10rem; }
+  .ew-races td.c-cand { min-width: 12rem; }
+  .ew-races td.c-impact { min-width: 16rem; color: var(--color-fg-muted); }
+  .ew-races td.c-date, .ew-races td.c-state { white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .ew-races tr.p-high td:first-child { box-shadow: inset 3px 0 0 var(--cds-chart-status-critical); }
+  .ew-races tr.p-medium td:first-child { box-shadow: inset 3px 0 0 var(--color-warn); }
+  .ew-races tr.p-low td:first-child { box-shadow: inset 3px 0 0 var(--cds-chart-muted); }
+  .ew-pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: var(--cds-font-size-caption); border: 1px solid var(--color-border-line); white-space: nowrap; }
+  .ew-pill.s-called { color: var(--color-ok); border-color: currentColor; }
+  .ew-pill.s-too-close, .ew-pill.s-runoff { color: var(--color-warn); border-color: currentColor; }
+  .ew-pill.s-upcoming { color: var(--color-fg-muted); }
+  .ew-pill.pr-high { color: var(--color-bad); border-color: currentColor; }
+  .ew-pill.pr-medium { color: var(--color-warn); border-color: currentColor; }
+  .ew-pill.pr-low { color: var(--color-fg-muted); }
+  .ew-races a { color: inherit; }
+  .ew-tablebox { max-height: 70vh; overflow: auto; min-width: 0; }
+  .ew-empty { margin: 0; font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ew-legend { display: flex; flex-wrap: wrap; gap: var(--cds-gap-md); font-size: var(--cds-font-size-caption); color: var(--color-fg-muted); }
+  .ew-legend span::before { content: ""; display: inline-block; width: 3px; height: .9em; margin-right: 6px; vertical-align: -2px; }
+  .ew-legend .lg-high::before { background: var(--cds-chart-status-critical); }
+  .ew-legend .lg-med::before { background: var(--color-warn); }
+  .ew-legend .lg-low::before { background: var(--cds-chart-muted); }
+  [data-dash-source-state=empty] { color: transparent; }
+  [data-dash-source-state=refreshing] { opacity: .5; transition: opacity var(--cds-dur-slow); }
+  @media (max-width: 760px) {
+    .ew-races thead { display: none; }
+    .ew-races, .ew-races tbody { display: block; }
+    .ew-races tr { display: grid; grid-template-columns: auto 1fr; gap: 2px var(--cds-gap-sm); padding: var(--cds-pad-sm) var(--cds-pad-sm) var(--cds-pad-sm) var(--cds-pad-md); border-bottom: 1px solid var(--color-border-line); }
+    .ew-races td { display: block; padding: 0; border: 0; min-width: 0 !important; }
+    .ew-races td.c-office, .ew-races td.c-cand, .ew-races td.c-impact, .ew-races td.c-result, .ew-races td.c-src { grid-column: 1 / -1; }
+    .ew-races tr.p-high { box-shadow: inset 3px 0 0 var(--cds-chart-status-critical); }
+    .ew-races tr.p-medium { box-shadow: inset 3px 0 0 var(--color-warn); }
+    .ew-races tr.p-low { box-shadow: inset 3px 0 0 var(--cds-chart-muted); }
+    .ew-races tr td:first-child { box-shadow: none !important; }
+  }
+</style>
+
+<div class="ew">
+  <header class="ew-head" id="top">
+    <div class="ew-eyebrow">NOLA Education · Star Academy · 2026 general election and beyond</div>
+    <h1 class="ew-title">Star Academy Election Watch</h1>
+    <p class="ew-take">Tracking <b data-draw="sum" data-source="summary" data-field="tracked" data-row="0">—</b> races across the <b data-draw="sum" data-source="summary" data-field="states" data-row="0">—</b> states and territories where Star Academy operates. <b data-draw="sum" data-source="summary" data-field="high" data-row="0">—</b> are high priority because they control K-12 funding, the state superintendent, or contracts Star depends on. <b data-draw="sum" data-source="summary" data-field="called" data-row="0">—</b> have been called so far.</p>
+  </header>
+
+  <section class="ew-tiles" aria-label="Headline figures">
+    <div class="ew-tile"><span class="ew-tile-label">High-priority races</span><span class="ew-tile-num" data-draw="sum" data-source="summary" data-field="high" data-row="0">—</span><span class="ew-tile-note">Funding, superintendent, contracts</span></div>
+    <div class="ew-tile"><span class="ew-tile-label">Called</span><span class="ew-tile-num" data-draw="sum" data-source="summary" data-field="called" data-row="0">—</span><span class="ew-tile-note">Winner reported</span></div>
+    <div class="ew-tile"><span class="ew-tile-label">Too close or runoff</span><span class="ew-tile-num" data-draw="sum" data-source="summary" data-field="close" data-row="0">—</span><span class="ew-tile-note">Watch these tonight</span></div>
+    <div class="ew-tile"><span class="ew-tile-label">On the ballot later</span><span class="ew-tile-num" data-draw="sum" data-source="summary" data-field="later" data-row="0">—</span><span class="ew-tile-note">After November 3</span></div>
+    <div class="ew-tile"><span class="ew-tile-label">Star sites exposed</span><span class="ew-tile-num" data-draw="sum" data-source="summary" data-field="sites" data-row="0">—</span><span class="ew-tile-note">Active academies, Feb 2026 roster</span></div>
+  </section>
+
+  <section class="ew-grid">
+    <div class="ew-card" id="footprint">
+      <h2>Footprint and exposure by state</h2>
+      <p class="ew-card-note">Sites from the AllStarAcademies roster. Click a state to filter the race list.</p>
+      <div class="ew-scroll">
+        <table class="ew-foot" data-source="bystate" data-row-key="state">
+          <thead><tr>
+            <th data-field="state_name">State</th>
+            <th data-field="sites" class="num">Sites</th>
+            <th data-field="races" class="num">Races</th>
+            <th data-field="high" class="num">High</th>
+            <th data-field="called" class="num">Called</th>
+          </tr></thead>
+          <tbody data-draw="foot"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="ew-card" id="howto">
+      <h2>How to read this</h2>
+      <p class="ew-card-note">Every race is scored by how directly it touches Star Academy: who writes the K-12 budget, who runs the state education agency, and who controls the agencies holding Star contracts or TANF and workforce dollars.</p>
+      <div class="ew-legend"><span class="lg-high">High: direct funding or contract control</span><span class="lg-med">Medium: governor, legislature, US Senate</span><span class="lg-low">Low: indirect</span></div>
+      <p class="ew-card-note">Results are refreshed from public reporting (AP calls via major outlets and state election sites). A race shows Called only once a winner is projected. Status times are in each row's result note.</p>
+    </div>
+  </section>
+
+  <section class="ew-card" id="races">
+    <h2>Every race that touches Star Academy</h2>
+    <div class="ew-controls">
+      <label for="f-state">State <select id="f-state" aria-label="State">
+        <option value="">All states</option>
+        <option value="LA">Louisiana</option><option value="AR">Arkansas</option><option value="AL">Alabama</option><option value="TN">Tennessee</option><option value="MS">Mississippi</option><option value="NJ">New Jersey</option><option value="SC">South Carolina</option><option value="AZ">Arizona</option><option value="MO">Missouri</option><option value="NV">Nevada</option><option value="WV">West Virginia</option><option value="PR">Puerto Rico</option><option value="US">Federal</option>
+      </select></label>
+      <label for="f-pri">Priority <select id="f-pri" aria-label="Priority">
+        <option value="">All</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option>
+      </select></label>
+      <label for="f-when">When <select id="f-when" aria-label="When">
+        <option value="">All dates</option><option value="tonight">November 3</option><option value="later">After November 3</option>
+      </select></label>
+      <input id="f-q" type="search" placeholder="Search candidates, offices, issues" aria-label="Search races">
+      <button type="button" class="ew-reset" id="f-reset">Clear filters</button>
+    </div>
+    <p class="ew-empty" data-draw="count">—</p>
+    <div class="ew-tablebox">
+      <table class="ew-races" data-source="races" data-row-key="id">
+        <thead><tr>
+          <th data-field="state">State</th>
+          <th data-field="office">Office</th>
+          <th data-field="date">Date</th>
+          <th data-field="candidates">Candidates</th>
+          <th data-field="status">Status</th>
+          <th data-field="winner">Result</th>
+          <th data-field="priority">Priority</th>
+          <th data-field="impact">Why it matters to Star</th>
+          <th data-field="source_label">Source</th>
+        </tr></thead>
+        <tbody data-draw="races"></tbody>
+      </table>
+    </div>
+  </section>
+</div>
+
+<script>
+  dash.calc('summary', {
+    inputs: ['races', 'footprint'],
+    title: 'Race totals',
+    description: 'Counts of tracked races by priority and status, plus total active Star sites.',
+    fn: (races, footprint) => [{
+      tracked: races.length,
+      states: new Set(races.map((r) => r.state).filter((s) => s !== 'US')).size,
+      high: races.filter((r) => r.priority === 'high').length,
+      called: races.filter((r) => r.status === 'called').length,
+      close: races.filter((r) => r.status === 'too-close' || r.status === 'runoff').length,
+      later: races.filter((r) => r.date > '2026-11-03').length,
+      sites: footprint.reduce((a, f) => a + Number(f.sites || 0), 0),
+    }],
+  });
+
+  dash.calc('bystate', {
+    inputs: ['races', 'footprint'],
+    title: 'Exposure by state',
+    description: 'Star sites per state joined to the number of tracked, high-priority and called races there.',
+    fn: (races, footprint) => footprint.map((f) => {
+      const rs = races.filter((r) => r.state === f.state);
+      return {
+        state: f.state,
+        state_name: f.state_name,
+        sites: Number(f.sites || 0),
+        races: rs.length,
+        high: rs.filter((r) => r.priority === 'high').length,
+        called: rs.filter((r) => r.status === 'called').length,
+      };
+    }).sort((a, b) => b.sites - a.sites || a.state_name.localeCompare(b.state_name)),
+  });
+
+  window.ewFilter = { state: '', pri: '', when: '', q: '' };
+  const fmtN = d3.format(',');
+
+  dash.draw('sum', (el) => {
+    const d = dash.data('summary');
+    const row = d.status === 'ok' && d.data[0];
+    el.textContent = row ? fmtN(row[el.dataset.field]) : '—';
+  });
+
+  dash.draw('foot', (tb) => {
+    const d = dash.data('bystate');
+    tb.replaceChildren();
+    if (d.status !== 'ok') return;
+    const max = d3.max(d.data, (r) => r.sites) || 1;
+    for (const r of d.data) {
+      const tr = document.createElement('tr');
+      tr.dataset.key = r.state;
+      tr.tabIndex = 0;
+      if (window.ewFilter.state === r.state) tr.className = 'is-on';
+      const name = document.createElement('td'); name.textContent = r.state_name;
+      const sites = document.createElement('td'); sites.className = 'num';
+      const bar = document.createElement('span'); bar.className = 'ew-bar'; bar.style.width = Math.max(2, (r.sites / max) * 48) + 'px';
+      sites.append(bar, document.createTextNode(fmtN(r.sites)));
+      const races = document.createElement('td'); races.className = 'num'; races.textContent = fmtN(r.races);
+      const high = document.createElement('td'); high.className = 'num'; high.textContent = fmtN(r.high);
+      const called = document.createElement('td'); called.className = 'num'; called.textContent = fmtN(r.called);
+      tr.append(name, sites, races, high, called);
+      const pick = () => {
+        window.ewFilter.state = window.ewFilter.state === r.state ? '' : r.state;
+        document.querySelectorAll('#f-state').forEach((s) => { s.value = window.ewFilter.state; });
+        dash.draw('foot'); dash.draw('races'); dash.draw('count');
+        document.querySelectorAll('#races').forEach((s) => s.scrollIntoView({ behavior: 'smooth', block: 'start' }));
+      };
+      tr.addEventListener('click', pick);
+      tr.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); pick(); } });
+      tb.append(tr);
+    }
+  });
+
+  const priRank = { high: 0, medium: 1, low: 2 };
+  const statusRank = { 'too-close': 0, runoff: 1, called: 2, upcoming: 3 };
+  window.ewVisible = () => {
+    const d = dash.data('races');
+    if (d.status !== 'ok') return null;
+    const f = window.ewFilter;
+    const q = f.q.trim().toLowerCase();
+    return d.data.filter((r) =>
+      (!f.state || r.state === f.state) &&
+      (!f.pri || r.priority === f.pri) &&
+      (!f.when || (f.when === 'tonight' ? r.date === '2026-11-03' : r.date > '2026-11-03')) &&
+      (!q || [r.office, r.candidates, r.impact, r.state_name, r.winner, r.result_note].join(' ').toLowerCase().includes(q))
+    ).sort((a, b) => (priRank[a.priority] ?? 9) - (priRank[b.priority] ?? 9) || (statusRank[a.status] ?? 9) - (statusRank[b.status] ?? 9) || a.date.localeCompare(b.date) || a.state.localeCompare(b.state));
+  };
+
+  dash.draw('count', (el) => {
+    const rows = window.ewVisible();
+    const total = dash.data('races');
+    if (!rows || total.status !== 'ok') { el.textContent = '—'; return; }
+    el.textContent = rows.length === total.data.length
+      ? `Showing all ${fmtN(rows.length)} races, highest priority first.`
+      : `Showing ${fmtN(rows.length)} of ${fmtN(total.data.length)} races.` + (rows.length ? '' : ' Clear filters to see more.');
+  });
+
+  dash.draw('races', (tb) => {
+    const rows = window.ewVisible();
+    tb.replaceChildren();
+    if (!rows) return;
+    const cell = (cls, text) => { const td = document.createElement('td'); td.className = cls; td.textContent = text ?? ''; return td; };
+    const pill = (cls, text) => { const td = document.createElement('td'); td.className = cls; if (text) { const s = document.createElement('span'); s.className = 'ew-pill ' + cls.split(' ')[1]; s.textContent = text; td.append(s); } return td; };
+    for (const r of rows) {
+      const tr = document.createElement('tr');
+      tr.dataset.key = r.id;
+      tr.className = 'p-' + r.priority;
+      const st = cell('c-state', r.state);
+      const office = cell('c-office', r.office);
+      const date = cell('c-date', r.date);
+      const cand = cell('c-cand', r.candidates);
+      const status = pill('c-status s-' + r.status, r.status);
+      const res = cell('c-result', r.winner);
+      const pri = pill('c-pri pr-' + r.priority, r.priority);
+      const impact = cell('c-impact', r.impact);
+      const src = document.createElement('td'); src.className = 'c-src';
+      if (r.source && /^https:\/\//.test(r.source)) {
+        const a = document.createElement('a'); a.href = r.source; a.target = '_blank'; a.rel = 'noopener'; a.textContent = r.source_label; src.append(a);
+      } else { src.textContent = r.source_label ?? ''; }
+      tr.append(st, office, date, cand, status, res, pri, impact, src);
+      tb.append(tr);
+    }
+  });
+
+  const redraw = () => { dash.draw('races'); dash.draw('count'); dash.draw('foot'); };
+  document.querySelectorAll('#f-state').forEach((el) => el.addEventListener('change', () => { window.ewFilter.state = el.value; redraw(); }));
+  document.querySelectorAll('#f-pri').forEach((el) => el.addEventListener('change', () => { window.ewFilter.pri = el.value; redraw(); }));
+  document.querySelectorAll('#f-when').forEach((el) => el.addEventListener('change', () => { window.ewFilter.when = el.value; redraw(); }));
+  document.querySelectorAll('#f-q').forEach((el) => el.addEventListener('input', () => { window.ewFilter.q = el.value; redraw(); }));
+  document.querySelectorAll('#f-reset').forEach((el) => el.addEventListener('click', () => {
+    window.ewFilter = { state: '', pri: '', when: '', q: '' };
+    document.querySelectorAll('#f-state, #f-pri, #f-when, #f-q').forEach((c) => { c.value = ''; });
+    redraw();
+  }));
+</script>
