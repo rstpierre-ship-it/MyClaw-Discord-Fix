@@ -1,0 +1,648 @@
+[
+  {
+    "id": "ga-supt-2026",
+    "state": "GA",
+    "level": "state",
+    "office": "State School Superintendent",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Richard Woods",
+        "party": "R",
+        "incumbent": true
+      },
+      {
+        "name": "Lydia Powell",
+        "party": "D",
+        "incumbent": false
+      }
+    ],
+    "priority": "high",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Woods, a three-term incumbent who survived a June runoff against Fred Longgrear, touts a graduation rate rising from 70% to 85.4% and 98%+ graduation for CTE pathway completers, making a middle-grades career-exploration and dropout-prevention pitch a natural fit with GaDOE. Powell attacks $100M in voucher spending and wants more invested in public schools, which also favors district-side program purchases, so either winner gives Star an opening; Woods offers continuity with an existing CTE frame.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Woods won the GOP nomination in the June 16, 2026 runoff over Fred Longgrear.",
+    "sources": [
+      "https://www.atlantanewsfirst.com/2026/06/17/richard-woods-wins-republican-nomination-georgia-state-school-superintendent/",
+      "https://www.fox5atlanta.com/news/georgia-school-chief-candidates-clash-over-literacy-voucher-spending",
+      "https://www.wabe.org/both-candidates-for-state-school-superintendent-say-they-will-push-for-change/"
+    ]
+  },
+  {
+    "id": "ga-gov-2026",
+    "state": "GA",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Rick Jackson",
+        "party": "R",
+        "incumbent": false
+      },
+      {
+        "name": "Keisha Lance Bottoms",
+        "party": "D",
+        "incumbent": false
+      }
+    ],
+    "priority": "high",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Jackson (who beat Lt. Gov. Burt Jones in the GOP runoff) wants to teach more high schoolers trades such as plumbing, electrical and HVAC and introduce engineering and technical jobs earlier in school, which aligns directly with Star's middle-school STEM and career-exploration model. Bottoms backs free technical college and fully funding education; a Jackson win is the stronger opening for workforce-framed K-12 grants.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Open seat (Kemp term-limited).",
+    "sources": [
+      "https://www.wabe.org/jackson-rolls-out-five-point-action-plan/",
+      "https://www.fox5atlanta.com/news/rick-jackson-georgia-governor-candidate-profile",
+      "https://www.atlantanewsfirst.com/2026/10/07/grocery-tax-flock-cameras-biggest-moments-georgia-governor-debate/",
+      "https://komonews.com/news/nation-world/georgia-gop-picks-billionaire-rick-jackson-for-governor-in-runoff-over-lt-gov-burt-jones"
+    ]
+  },
+  {
+    "id": "fl-gov-2026",
+    "state": "FL",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Byron Donalds",
+        "party": "R",
+        "incumbent": false
+      },
+      {
+        "name": "David Jolly",
+        "party": "D",
+        "incumbent": false
+      }
+    ],
+    "priority": "high",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Donalds's Student Success Plan would require a personalized academic and career roadmap for every public school student by sixth grade, with workforce and trade paths equally resourced and industry partners designing career tracks, an almost exact match for Star's middle-grades career-exploration model. Jolly (FEA-endorsed) calls public education in crisis and wants more investment, a softer but still positive environment; a Donalds win is the clearest opening.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Open seat (DeSantis term-limited); Donalds favored in ratings and markets.",
+    "sources": [
+      "https://www.fox13news.com/news/byron-donalds-florida-education-plan-building-student-career-6th-grade",
+      "https://byrondonalds.com/student-success-plans/",
+      "https://www.fox35orlando.com/news/florida-primary-byron-donalds-david-jolly-compete-florida-governor-november",
+      "https://floridaphoenix.com/voter-guides/contests/2026-general-governor/"
+    ]
+  },
+  {
+    "id": "fl-amendment3-2026",
+    "state": "FL",
+    "level": "ballot",
+    "office": "Amendment 3 (HJR 1F): expanded non-school homestead exemption",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Raises the non-school homestead exemption to $150,000 in 2027 and $250,000 in 2028 and needs 60% to pass; school district levies are largely insulated, so district budgets for programs like Star are not directly cut, but county and city revenue losses could squeeze local co-funded youth and workforce programs.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.nbcmiami.com/news/local/florida-amendment-3-what-a-yes-or-no-vote-would-mean/3873576/",
+      "https://www.cbsnews.com/miami/news/florida-property-tax-cut-plan-november-ballot-desantis-homestead-exemption-2026/",
+      "https://news.ballotpedia.org/2026/06/03/florida-voters-to-decide-expanded-homestead-tax-exemption-amendment-in-november/"
+    ]
+  },
+  {
+    "id": "nc-house-2026",
+    "state": "NC",
+    "level": "state",
+    "office": "NC General Assembly: House veto-proof supermajority",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Republicans hold 71 of 120 House seats, one short of the 72 needed to override Gov. Stein without Democratic help (the Senate already has 30 of 50). A GOP pickup would let the legislature override on school-choice and spending bills that steer state dollars away from district discretionary budgets; a Democratic hold keeps Stein's veto as leverage for district-focused funding. No governor or superintendent race in 2026, so the legislature is the main lever.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.axios.com/local/raleigh/2026/10/15/north-carolina-state-house-senate-races-wake-nash",
+      "https://abc11.com/post/gops-veto-proof-majority-at-risk-in-north-carolina/15518827/"
+    ]
+  },
+  {
+    "id": "nc-amendments-2026",
+    "state": "NC",
+    "level": "ballot",
+    "office": "Constitutional amendments: 3.5% income tax cap and local property tax limits",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "headwind",
+    "impact": "Capping the state income tax at 3.5% (down from a 7% ceiling) and limiting local property tax increases would constrain long-run state and county revenue for K-12, making new district contracts for outside programs harder to fund. Polling shows roughly two-thirds support for each.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://news.ballotpedia.org/2026/05/22/north-carolina-voters-to-decide-on-two-measures-related-to-property-and-income-tax-limits-on-the-november-2026-ballot/",
+      "https://www.wunc.org/politics/2026-09-22/explainer-nc-constitutional-amendments-2026-ballot-property-tax-voter-id",
+      "https://www.elon.edu/u/news/?p=1056336"
+    ]
+  },
+  {
+    "id": "ky-leg-2026",
+    "state": "KY",
+    "level": "state",
+    "office": "Kentucky General Assembly (all 100 House, 19 of 38 Senate seats)",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "low",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Republican supermajorities (80-20 House, 32-6 Senate) are not seriously at risk, with many seats uncontested, so the legislature keeps control of SEEK and discretionary education appropriations heading into the 2027 governor race. Watch for any budget language on at-risk or workforce grants rather than a change in control.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://hoptownchronicle.org/?p=95764",
+      "https://www.kaco.org/articles/state-and-federal-races-to-watch-in-2026-election/",
+      "https://en.wikipedia.org/wiki/2026_Kentucky_General_Assembly"
+    ]
+  },
+  {
+    "id": "ky-gov-2027",
+    "state": "KY",
+    "level": "state",
+    "office": "Governor",
+    "date": "2027-11-02",
+    "candidates": [
+      {
+        "name": "Jacqueline Coleman",
+        "party": "D",
+        "incumbent": false
+      },
+      {
+        "name": "Rocky Adkins",
+        "party": "D",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Lt. Gov. Coleman, a former teacher and assistant principal who founded the Lead Kentucky education nonprofit, has made public schools her calling card and campaigned against diverting public funds outside public education, favoring district-level partnerships like Star. Adkins is a former Beshear senior adviser. Republican field unverified (Comer, Adams, Thayer rumored but undeclared); May 18, 2027 primary.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Republican candidates unverified; no major Republican had declared in sources found.",
+    "sources": [
+      "https://kentuckylantern.com/?p=40000",
+      "https://www.wuky.org/wuky-news/2026-07-21/adkins-is-in-joins-2027-kentucky-governors-race",
+      "https://www.wbko.com/2026/04/21/kentucky-lt-gov-jacqueline-coleman-announces-gubernatorial-campaign-visits-bowling-green/"
+    ]
+  },
+  {
+    "id": "va-amendments-2026",
+    "state": "VA",
+    "level": "ballot",
+    "office": "Constitutional amendments (reproductive freedom, marriage, voting rights restoration)",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "low",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "None of Virginia's three November 2026 amendments touches education funding; no governor race until 2029 (Spanberger elected 2025). Little direct effect on Star's entry.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-2026-proposed-constitutional-amendments/",
+      "https://www.wdbj7.com/2026/09/21/virginia-voters-decide-three-constitutional-amendments-november/"
+    ]
+  },
+  {
+    "id": "va-ga-2027",
+    "state": "VA",
+    "level": "state",
+    "office": "Virginia General Assembly (all 40 Senate and 100 House seats)",
+    "date": "2027-11-02",
+    "candidates": [],
+    "priority": "low",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "The 2027 legislative elections will decide whether Democrats keep the trifecta behind the Standards of Quality funding and any new at-risk or CTE add-ons a Star pitch would rely on. Candidates unverified.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Candidates unverified; 2027 race.",
+    "sources": [
+      "https://ballotpedia.org/Virginia_2026_ballot_measures"
+    ]
+  },
+  {
+    "id": "md-gov-2026",
+    "state": "MD",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Wes Moore",
+        "party": "D",
+        "incumbent": true
+      },
+      {
+        "name": "Dan Cox",
+        "party": "R",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Moore is heavily favored in a 2022 rematch; he has promised to fully fund the Blueprint for Maryland's Future (which includes college and career readiness pathways) but proposed trimming Blueprint growth in 2025, so new money is tight. A Moore win means continuity and a Blueprint-aligned career-readiness pitch; a Cox upset would be unpredictable for district discretionary spending.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.fox5dc.com/election/dan-cox-wins-maryland-republican-governor-primary-ap-projects",
+      "https://www.multistate.us/elections/governor-race/maryland-2026",
+      "https://marylandmatters.org/2025/03/03/second-house-committee-rejects-governors-education-cuts-toward-blueprint-plan/"
+    ]
+  },
+  {
+    "id": "de-leg-2026",
+    "state": "DE",
+    "level": "state",
+    "office": "Delaware General Assembly supermajorities",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "low",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "No governor race or statewide measures in 2026; Democrats hold 15-6 Senate and 27-14 House supermajorities and would lose them with a three-seat Republican gain in either chamber. Control is not at risk, so education budget direction stays with Gov. Meyer and Democratic leaders.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://news.ballotpedia.org/?p=51789",
+      "https://whyy.org/articles/delaware-election-2026-voter-guide-midterms/"
+    ]
+  },
+  {
+    "id": "dc-mayor-2026",
+    "state": "DC",
+    "level": "local",
+    "office": "Mayor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Janeese Lewis George",
+        "party": "D",
+        "incumbent": false
+      },
+      {
+        "name": "Robert Gross",
+        "party": "other",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Lewis George, the presumptive winner of the open seat (Bowser not running), wants to expand vocational, technical and career-focused programs and fund supports so students stay in school, and could install a new deputy mayor for education and DCPS chancellor. New leadership plus a career-pathways agenda creates an entry point for a pitch to DCPS and charter LEAs.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Independent candidates on the ballot not fully verified.",
+    "sources": [
+      "https://goodparty.org/candidate/janeese-lewis-george/district-of-columbia-mayor",
+      "https://dc.citycast.fm/dc-politics/dc-school-jlg-chancellor-education",
+      "https://en.wikipedia.org/wiki/2026_Washington,_D.C.,_mayoral_election"
+    ]
+  },
+  {
+    "id": "dc-sboe-2026",
+    "state": "DC",
+    "level": "local",
+    "office": "State Board of Education (ward seats)",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Eric Goulet (Ward 3)",
+        "party": "NP",
+        "incumbent": false
+      },
+      {
+        "name": "Joshua Wiley (Ward 6)",
+        "party": "NP",
+        "incumbent": false
+      },
+      {
+        "name": "Jon Alfuth (Ward 5)",
+        "party": "NP",
+        "incumbent": false
+      }
+    ],
+    "priority": "low",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "The SBOE sets standards and graduation requirements but does not control spending; new members could shape attendance and career-readiness policy. Candidate roster incomplete and unverified.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Candidate list unverified and incomplete.",
+    "sources": [
+      "https://www.ballotready.org/people/eric-goulet",
+      "https://www.ballotready.org/people/joshua-wiley",
+      "https://goodparty.org/people/jon-alfuth-7f8c6e1b"
+    ]
+  },
+  {
+    "id": "pa-gov-2026",
+    "state": "PA",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Josh Shapiro",
+        "party": "D",
+        "incumbent": true
+      },
+      {
+        "name": "Stacy Garrity",
+        "party": "R",
+        "incumbent": false
+      }
+    ],
+    "priority": "high",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Shapiro (up 59-34 in an October Quinnipiac poll) has raised CTE and apprenticeship funding nearly 50%, proposed another $18M plus doubling Schools-to-Work funding, and added over $3B in K-12 adequacy funding to underfunded districts, giving districts both money and a workforce frame for Star. Garrity wants to fund students and outcomes rather than systems, which could also support outcomes-based contracts.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.chalkbeat.org/philadelphia/2026/10/02/pennsylvania-governors-race-josh-shapiro-stacy-garrity-education-voter-guide/",
+      "https://www.spotlightpa.org/news/2026/10/pennsylvania-election-education-college-public-school-funding-shapiro-garrity-guide/",
+      "https://www.fox29.com/news/josh-shapiros-second-term-push-pa-governor-key-issues-background-polling"
+    ]
+  },
+  {
+    "id": "pa-senate-2026",
+    "state": "PA",
+    "level": "state",
+    "office": "Pennsylvania State Senate control (25 of 50 seats)",
+    "date": "2026-11-03",
+    "candidates": [],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Republicans hold the Senate 27-23 and Sabato rates it a toss-up; a Democratic net gain of three seats would give Shapiro a trifecta (House is 103-100 D) and make further adequacy and CTE dollars to high-need districts easier to pass.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/",
+      "https://whyy.org/articles/pennsylvania-senate-elections-democrats-philadelphia-suburbs/"
+    ]
+  },
+  {
+    "id": "ny-gov-2026",
+    "state": "NY",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Kathy Hochul",
+        "party": "D",
+        "incumbent": true
+      },
+      {
+        "name": "Bruce Blakeman",
+        "party": "R",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Hochul leads Blakeman by double digits; a Hochul win means continuity in Foundation Aid-driven district budgets, where Star would sell to districts using existing aid. No explicit dropout-prevention or middle-grades CTE plank found from either candidate.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
+      "https://maristpoll.marist.edu/polls/the-midterm-elections-in-new-york-october-2026/"
+    ]
+  },
+  {
+    "id": "ct-gov-2026",
+    "state": "CT",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Ned Lamont",
+        "party": "D",
+        "incumbent": true
+      },
+      {
+        "name": "Ryan Fazio",
+        "party": "R",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Lamont is favored for a third term; Fazio's campaign centers on energy costs and the largest middle-class tax cut in state history, which could pressure education spending if he won. No education-specific opening identified from either.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://greenwichfreepress.com/news/government/connecticuts-november-races-come-into-focus-as-fazio-nominated-by-gop-to-challenge-lamont-248065/",
+      "https://www.multistate.us/elections/governor-race/connecticut-2026"
+    ]
+  },
+  {
+    "id": "ri-gov-2026",
+    "state": "RI",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Helena Foulkes",
+        "party": "D",
+        "incumbent": false
+      },
+      {
+        "name": "Aaron Guckian or Elaine Pelino (unverified)",
+        "party": "R",
+        "incumbent": false
+      },
+      {
+        "name": "Ken Block",
+        "party": "I",
+        "incumbent": false
+      },
+      {
+        "name": "Jay Gotra",
+        "party": "I",
+        "incumbent": false
+      },
+      {
+        "name": "C.D. Reynolds",
+        "party": "I",
+        "incumbent": false
+      }
+    ],
+    "priority": "high",
+    "tier": "expansion",
+    "outlook": "opportunity",
+    "impact": "Foulkes, who ousted Gov. McKee in the September primary, calls RI's education system broken and has tied her tenure to student outcomes; her plan adds K-8 teaching assistants and school mental health staff and proposes a $100M bond for classroom-to-career facilities. A Foulkes win creates an outcomes-focused state leader with a career-pathways budget line Star can align with.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "Republican nominee unverified: Guckian vs Pelino primary was close with a recount requested.",
+    "sources": [
+      "https://www.nhpr.org/2026-09-10/rhode-island-primary-election-results-foulkes-and-morales-topple-incumbents",
+      "https://pbn.com/foulkes-i-will-only-serve-1-term-if-student-education-doesnt-improve/",
+      "https://www.golocalprov.com/news/golocal-endorsement-for-democratic-candidate-for-governor"
+    ]
+  },
+  {
+    "id": "ma-gov-2026",
+    "state": "MA",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Maura Healey",
+        "party": "D",
+        "incumbent": true
+      },
+      {
+        "name": "Mike Minogue",
+        "party": "R",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Healey is strongly favored; none of the nine statewide ballot questions addresses K-12 funding. Continuity means Star would enter through district Chapter 70 and existing state grant programs rather than a new state initiative.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.wgbh.org/news/politics/2026-09-01/minogue-wins-gop-governors-primary-ap-projects",
+      "https://www.boston.com/news/politics/2026/07/21/there-9-ballot-questions-will-be-up-for-a-vote-in-november/"
+    ]
+  },
+  {
+    "id": "vt-gov-2026",
+    "state": "VT",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Phil Scott",
+        "party": "R",
+        "incumbent": true
+      },
+      {
+        "name": "Amanda Janoo",
+        "party": "D",
+        "incumbent": false
+      }
+    ],
+    "priority": "low",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Scott is favored for a sixth term; Vermont's small, rural districts and ongoing focus on property-tax-driven education costs limit near-term appetite for new outside programs regardless of winner.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.multistate.us/elections/governor-race/vermont-2026",
+      "https://www.colchestersun.com/news/government/results-2026-vermont-primary-election-molly-gray-and-gerald-malloy-advance/article_ca8a5a9e-2a92-4eee-b418-982e2963c499.html"
+    ]
+  },
+  {
+    "id": "nh-gov-2026",
+    "state": "NH",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Kelly Ayotte",
+        "party": "R",
+        "incumbent": true
+      },
+      {
+        "name": "Cinde Warmington",
+        "party": "D",
+        "incumbent": false
+      },
+      {
+        "name": "Stephen Villee",
+        "party": "L",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Ayotte, the favorite, signed universal Education Freedom Accounts and budgets about $50M for them, steering new money toward families rather than district programs; Warmington pledges to repeal EFAs, which would keep more state dollars in district budgets. Neither has a dropout-prevention or middle-grades CTE agenda.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://www.nhpr.org/politics/2026-10-29/whos-running-election-voting-ayotte-warmington-villee-republican-democrat-independent",
+      "https://www.bostonglobe.com/2026/06/23/metro/nh-education-freedom-accounts-republicans/"
+    ]
+  },
+  {
+    "id": "me-gov-2026",
+    "state": "ME",
+    "level": "state",
+    "office": "Governor",
+    "date": "2026-11-03",
+    "candidates": [
+      {
+        "name": "Hannah Pingree",
+        "party": "D",
+        "incumbent": false
+      },
+      {
+        "name": "Bobby Charles",
+        "party": "R",
+        "incumbent": false
+      },
+      {
+        "name": "Rick Bennett",
+        "party": "I",
+        "incumbent": false
+      }
+    ],
+    "priority": "medium",
+    "tier": "expansion",
+    "outlook": "neutral",
+    "impact": "Open seat (Mills term-limited); Pingree leads and says schools need a shakeup, focusing on teacher shortages, early childhood and school-based mental health, while Charles criticizes falling outcomes. An outcomes-focused new administration could be receptive, but no explicit dropout-prevention or CTE plank was found.",
+    "status": "upcoming",
+    "winner": null,
+    "result_note": "",
+    "sources": [
+      "https://mainemorningstar.com/?p=16714",
+      "https://www.bangordailynews.com/2026/07/01/politics/elections/maine-governor-race-poll-hannah-pingree-bobby-charles-rick-bennett/",
+      "https://maristpoll.marist.edu/polls/midterm-elections-in-maine-october-2026/"
+    ]
+  }
+]

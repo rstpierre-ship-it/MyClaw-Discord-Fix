@@ -1,7 +1,8 @@
 import json, glob, sys, re
 from urllib.parse import urlparse
 base = sys.argv[1]
-names = {"LA":"Louisiana","AR":"Arkansas","AL":"Alabama","TN":"Tennessee","MS":"Mississippi","NJ":"New Jersey","SC":"South Carolina","AZ":"Arizona","MO":"Missouri","NV":"Nevada","WV":"West Virginia","PR":"Puerto Rico","US":"Federal"}
+names = {"NM":"New Mexico","TX":"Texas","OK":"Oklahoma","CO":"Colorado","UT":"Utah","CA":"California","OR":"Oregon","WA":"Washington","ID":"Idaho","MT":"Montana","WY":"Wyoming","AK":"Alaska","HI":"Hawaii","OH":"Ohio","MI":"Michigan","IN":"Indiana","IL":"Illinois","WI":"Wisconsin","MN":"Minnesota","IA":"Iowa","KS":"Kansas","NE":"Nebraska","SD":"South Dakota","ND":"North Dakota","GA":"Georgia","FL":"Florida","NC":"North Carolina","KY":"Kentucky","VA":"Virginia","MD":"Maryland","DE":"Delaware","DC":"District of Columbia","PA":"Pennsylvania","NY":"New York","CT":"Connecticut","RI":"Rhode Island","MA":"Massachusetts","VT":"Vermont","NH":"New Hampshire","ME":"Maine","LA":"Louisiana","AR":"Arkansas","AL":"Alabama","TN":"Tennessee","MS":"Mississippi","NJ":"New Jersey","SC":"South Carolina","AZ":"Arizona","MO":"Missouri","NV":"Nevada","WV":"West Virginia","PR":"Puerto Rico","US":"Federal"}
+ACTIVE = {"LA","AR","AL","TN","MS","NJ","SC","AZ","MO","NV","WV","PR","US"}
 rows, seen = [], set()
 for f in sorted(glob.glob(base + "/research/group_*.json")):
     for r in json.load(open(f)):
@@ -21,7 +22,7 @@ for f in sorted(glob.glob(base + "/research/group_*.json")):
             "candidates": txt("; ".join(c(x) for x in r.get("candidates", []))),
             "priority": r.get("priority","low"), "impact": txt(r.get("impact")),
             "status": r.get("status","upcoming"), "winner": txt(r.get("winner") or ""),
-            "result_note": txt(r.get("result_note")), "source": src,
+            "result_note": txt(r.get("result_note")), "tier": "active" if r["state"] in ACTIVE else "expansion", "outlook": r.get("outlook") or "", "source": src,
             "source_label": urlparse(src).netloc.replace("www.","") if src else "",
         })
 json.dump(rows, open(base + "/races.json","w"), indent=1)
