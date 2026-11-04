@@ -19,9 +19,9 @@
   ],
   "priority": "medium",
   "impact": "Letlow was endorsed by Gov. Landry and Trump, so a win puts a Landry ally in the Senate seat; federal levers (Title I, ESSER successors, TANF reauthorization) flow into the LA district budgets that buy Star.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Incumbent Bill Cassidy (R) finished third in the closed GOP primary and is not on the ballot; Letlow beat John Fleming in the June 27 GOP runoff. An Independent (Jamie LaBranche) appears on one Ballotpedia page: unverified. Rated Solid/Safe R. No results reported at time of research.",
+  "status": "called",
+  "winner": "Julia Letlow (R)",
+  "result_note": "Letlow about 53-55% to Davis 45-47% on election-night counts (WWL-TV 53.2% at 10:25 PM; KTBS 55%); called by KTBS/KPEL and Poliwave, as of 11:50 PM CT. AP call not separately confirmed.",
   "sources": [
    "https://lailluminator.com/2026/06/27/letlow-senate-4/",
    "https://www.wafb.com/2026/06/28/julia-letlow-jamie-davis-advance-louisiana-us-senate-race-ap-projects/",
@@ -37,9 +37,9 @@
   "candidates": [],
   "priority": "high",
   "impact": "Rules on rolling millages forward after reassessment directly affect local school district property tax revenue, which funds district purchases such as Star Academy sites.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "One of 10 amendments on the Nov 3 ballot. Amendment number and exact text per Invest in Louisiana table; verify against SOS/PAR guide.",
+  "status": "called",
+  "winner": "Failed",
+  "result_note": "Rejected about 57-58% No on unofficial election-night count; reported failed by WAFB/Fox 8 and Louisiana Illuminator (7 of 10 amendments passed), as of 11:50 PM CT.",
   "sources": [
    "https://investlouisiana.org/guide-to-the-nov-3-constitutional-amendments/",
    "https://parlouisiana.org/publications/guide-to-the-constitutional-amendments/",
@@ -55,9 +55,9 @@
   "candidates": [],
   "priority": "medium",
   "impact": "Lets state retirement systems apply nonrecurring money to any unfunded liability; how TRSL debt is paid down shapes district employer contribution rates and freed-up district dollars.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Amendment number unverified across sources. Separate from the May 2026 teacher-pay Amendment 3, which voters rejected (~58% no).",
+  "status": "called",
+  "winner": "Failed",
+  "result_note": "Rejected about 61% No (count as of 10:45 PM); reported failed by WAFB/Fox 8 and Louisiana Illuminator, as of 11:50 PM CT.",
   "sources": [
    "https://manifold.markets/ManifoldPolitics/will-louisiana-amendment-5-retireme",
    "https://parlouisiana.org/publications/guide-to-the-constitutional-amendments/"
@@ -72,9 +72,9 @@
   "candidates": [],
   "priority": "medium",
   "impact": "Changes gubernatorial term limits from two consecutive terms to a lifetime cap; relevant to the long-run horizon of the Landry relationship.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Other Nov 3 amendments cover disabled-veteran tax exemption transfer (1), no bail after conviction for aggravated offenses against minors (3), drinking water service lines, foreign-adversary expropriation (8), blighted property tax exemption (10). A Ballotpedia page showing a 63.43% result appears erroneous/stale; treat as unreported.",
+  "status": "called",
+  "winner": "Passed",
+  "result_note": "Approved about 57-43; reported passed by WAFB/Fox 8 and Louisiana Illuminator, as of 11:50 PM CT.",
   "sources": [
    "https://news.ballotpedia.org/2026/05/28/louisiana-voters-to-decide-whether-to-limit-governors-to-two-terms-for-life-rather-than-two-successive-terms/",
    "https://investlouisiana.org/guide-to-the-nov-3-constitutional-amendments/"
@@ -262,9 +262,9 @@
   ],
   "priority": "medium",
   "impact": "Federal education and TANF appropriations; Hyde-Smith sits on Appropriations.",
-  "status": "upcoming",
+  "status": "too-close",
   "winner": null,
-  "result_note": "Rated Solid/Safe R (Silver Bulletin, Split Ticket, Oct 31); some observers see a possible Colom upset.",
+  "result_note": "No call. Seesaw count: DDHQ at est. 87% in had Colom (D) 49.1% to Hyde-Smith (R) 48.8% (lead about 2,500 votes); NBC snapshot had Hyde-Smith 49.3% to 48.6%. Remaining vote skews to the Delta per NYT's Nate Cohn, as of 11:50 PM CT.",
   "sources": [
    "https://www.mississippifreepress.org/meet-the-candidates-for-us-senate-in-mississippis-nov-3-elections/",
    "https://mississippitoday.org/2026/09/15/mississippi-2026-midterms-election-guide-senate-house-race-candidates-voting-deadline/"
@@ -401,9 +401,9 @@
   ],
   "priority": "medium",
   "impact": "Governor proposes the Education Trust Fund budget and is president of the State Board of Education.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Oct 16-17 poll: Tuberville 51, Jones 40. Rated Solid R.",
+  "status": "called",
+  "winner": "Tommy Tuberville (R)",
+  "result_note": "Tuberville 52.9% to Jones 46.8% with 67 of 67 counties reporting (unofficial); Decision Desk HQ called it at 10:10 PM per Alabama Political Reporter. AP had not called as of 10:30 PM (WSFA); Jones has not conceded, as of 11:50 PM CT.",
   "sources": [
    "https://www.fox10tv.com/2026/10/20/tuberville-leads-jones-51-40-exclusive-grayalabama-daily-news-poll/",
    "https://nebraskaexaminer.com/?p=41222"
@@ -429,9 +429,9 @@
   ],
   "priority": "medium",
   "impact": "Presides over the Senate and shapes ETF appropriations committees.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Wahl beat SOS Wes Allen in June 16 GOP runoff.",
+  "status": "called",
+  "winner": "John Wahl (R)",
+  "result_note": "Wahl 55.3% to Ensler 44.6%, 67 of 67 counties (unofficial); called by Alabama Political Reporter, as of 11:50 PM CT.",
   "sources": [
    "https://www.fox10tv.com/2026/10/27/meet-candidates-alabamas-race-lieutenant-governor/",
    "https://www.wtvy.com/2026/06/17/decision-2026-runoff-results-across-area-state/"
@@ -457,9 +457,9 @@
   ],
   "priority": "medium",
   "impact": "Federal education and workforce funding.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Moore (Trump-endorsed) beat Jared Hudson in June 16 runoff; AG Steve Marshall finished third. Rated Solid R.",
+  "status": "called",
+  "winner": "Barry Moore (R)",
+  "result_note": "Moore 55.7% to Wess 44.2% (unofficial); called by Alabama Political Reporter, as of 11:50 PM CT.",
   "sources": [
    "https://www.apr.org/news/2026-06-17/moore-wess-robertson-wahl-and-sneed-win-in-alabama-runoff",
    "https://alabamareflector.com/2026/05/20/steve-marshall-concedes-in-u-s-senate-race-barry-moore-jared-hudson-go-to-gop-runoff/"
@@ -485,9 +485,9 @@
   ],
   "priority": "high",
   "impact": "SBOE appoints the State Superintendent and sets K-12 policy, including at-risk and dropout-prevention priorities.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "West unopposed in GOP primary. McCurry party per one report; lightly verified.",
+  "status": "called",
+  "winner": "Tracie West (R)",
+  "result_note": "West 61.6% to McCurry 38.3% (114,491 to 71,156) on unofficial SOS count via Alabama Political Reporter, as of 11:50 PM CT. No explicit desk call seen; margin is decisive.",
   "sources": [
    "https://en.wikipedia.org/wiki/2026_Alabama_State_Board_of_Education_election",
    "https://www.ballotready.org/people/jamie-mccurry"
@@ -508,9 +508,9 @@
   ],
   "priority": "medium",
   "impact": "SBOE seat; incumbent returning unopposed keeps continuity.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Unopposed in primary and general per available sources.",
+  "status": "called",
+  "winner": "Yvette Richardson (D)",
+  "result_note": "Unopposed; 115,629 votes on partial unofficial count via Alabama Political Reporter, as of 11:50 PM CT.",
   "sources": [
    "https://en.wikipedia.org/wiki/2026_Alabama_State_Board_of_Education_election"
   ]
@@ -535,9 +535,9 @@
   ],
   "priority": "high",
   "impact": "Incumbent Marie Manning was ousted in the GOP primary, so this seat will change hands and may shift board votes on superintendent and programs.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Bradford 54% to Manning in May 19 primary (unofficial).",
+  "status": "called",
+  "winner": "Cathi Bradford (R)",
+  "result_note": "Bradford 71.3% to Morgan 28.6% (136,622 to 54,765) on unofficial SOS count via Alabama Political Reporter, as of 11:50 PM CT. No explicit desk call seen; margin is decisive.",
   "sources": [
    "https://alabamareflector.com/2026/05/22/alabama-state-board-of-education-incumbent-unseated-in-gop-primary/",
    "https://1819news.com/news/item/cathi-bradford-wins-republican-nomination-for-state-boe-district-6-over-incumbent-marie-manning",
@@ -564,9 +564,9 @@
   ],
   "priority": "high",
   "impact": "Open north Alabama seat; Jones (Moms for Liberty Madison County founder) would shift board composition.",
-  "status": "upcoming",
+  "status": "too-close",
   "winner": null,
-  "result_note": "Jones beat William Matthews 53.6% to 46.4% in June 16 runoff.",
+  "result_note": "No explicit call found. Jones (R) leads Armstrong (D) 53.7% to 46.2% (123,654 to 106,282), about 7.5 points, on unofficial count via Alabama Political Reporter; share of vote counted for this district not confirmed, as of 11:50 PM CT.",
   "sources": [
    "https://alabamareflector.com/2026/06/19/emily-jones-wins-gop-nomination-for-state-board-of-education-district-8-seat/",
    "https://256today.com/north-alabamas-emily-jones-secures-gop-nomination-for-state-board-seat/"
@@ -581,9 +581,9 @@
   "candidates": [],
   "priority": "high",
   "impact": "Would create a path for county districts to merge (with SBOE impact study and local referendum), which could change the buyer map for Star contracts in rural Alabama.",
-  "status": "upcoming",
+  "status": "too-close",
   "winner": null,
-  "result_note": "",
+  "result_note": "Yes leads narrowly, about 51.1% to 48.9% (695,792 to 664,687 at about 78% counted); WBHM 51.12% Yes; listed as pending, no call, as of 11:50 PM CT.",
   "sources": [
    "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/",
    "https://news.ballotpedia.org/2026/04/10/alabama-voters-to-decide-constitutional-amendment-establishing-a-process-for-the-consolidation-of-county-school-boards-into-multi-county-boards/"
@@ -598,9 +598,9 @@
   "candidates": [],
   "priority": "low",
   "impact": "School-climate policy mandate; no funding effect.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "",
+  "status": "called",
+  "winner": "Passed",
+  "result_note": "Yes about 63.6% on unofficial count; WBHM reports passing, as of 11:50 PM CT.",
   "sources": [
    "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/"
   ]
@@ -614,9 +614,9 @@
   "candidates": [],
   "priority": "low",
   "impact": "School-day mandate; no funding effect.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "",
+  "status": "called",
+  "winner": "Passed",
+  "result_note": "Yes about 59.6% on unofficial count; WBHM reports passing, as of 11:50 PM CT.",
   "sources": [
    "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/"
   ]
@@ -630,9 +630,9 @@
   "candidates": [],
   "priority": "low",
   "impact": "Not education-related.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Details unverified.",
+  "status": "called",
+  "winner": "Passed",
+  "result_note": "Yes 65.9% (907,226 to 469,300) unofficial; Alabama Political Reporter and MultiState list it passed, as of 11:50 PM CT.",
   "sources": [
    "https://alabamareflector.com/2026/08/05/alabamians-to-vote-on-four-statewide-constitutional-amendments-in-november/"
   ]
@@ -671,9 +671,9 @@
   ],
   "priority": "medium",
   "impact": "Next governor controls TN DHS, which holds a large TANF reserve and grant programs, plus the TISA education funding formula.",
-  "status": "upcoming",
-  "winner": null,
-  "result_note": "Blackburn heavily favored (Solid R; Aug poll 55-34). If Blackburn wins, she would vacate her U.S. Senate seat and the new governor appoints a replacement. Commissioner of Education is appointed, Lt. Gov. is chosen by the Senate.",
+  "status": "called",
+  "winner": "Marsha Blackburn (R)",
+  "result_note": "Blackburn 45.5% to Green 43.0%, Independent David Hatley about 9% (SOS unofficial count per WSMV); Green conceded; WSMV and Tennessee Lookout report Blackburn won, as of 11:50 PM CT. Much closer than expected.",
   "sources": [
    "https://www.wkms.org/government-politics/2026-08-06/blackburn-wins-gop-race-for-tennessee-governor",
    "https://tennesseelookout.com/2026/08/06/blackburn-advances-to-general-election-first-woman-to-win-party-nomination/",
@@ -735,7 +735,7 @@
   "priority": "low",
   "impact": "Haywood County Schools hosts Star; board composition affects renewal.",
   "status": "called",
-  "winner": null,
+  "winner": "Decided; winners not verified",
   "result_note": "TN county general election was Aug 6, 2026 (already held). Whether school board seats were on the ballot and who won is unverified; check haywoodvotes.com results PDF.",
   "sources": [
    "https://haywoodvotes.com/wp-content/uploads/2026/08/unofficial-final-results.pdf"

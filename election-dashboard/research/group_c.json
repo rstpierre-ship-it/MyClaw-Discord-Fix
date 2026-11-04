@@ -1,72 +1,338 @@
 [
-  {"id":"az-spi-2026","state":"AZ","level":"state","office":"Arizona Superintendent of Public Instruction","date":"2026-11-03",
-   "candidates":[{"name":"Kimberly Yee","party":"R","incumbent":false},{"name":"Teresa Leyba Ruiz","party":"D","incumbent":false}],
-   "priority":"high","impact":"The superintendent runs the Arizona Department of Education, which administers state aid and federal Title I pass-through to charters like Career Success Schools. Yee (state treasurer) ousted incumbent Tom Horne in the July 21 GOP primary; vouchers (ESA) were the central debate issue.",
-   "status":"upcoming","winner":null,"result_note":"Open seat in practice: incumbent Tom Horne (R) lost the primary. Minor candidates (a Green write-in, a No Labels candidate) reported by some sources but unverified.",
-   "sources":["https://ktar.com/arizona-politics-news/election/kimberly-yee-superintendent-of-public-instruction-primary-2","https://www.kjzz.org/politics/2026-09-16/arizona-superintendent-candidates-spar-over-private-school-vouchers-in-debate","https://azfamily.com/2026/09/15/yee-ruiz-square-off-arizona-superintendent-debate","https://www.kjzz.org/elections/2026-10-06/2026-arizona-superintendent-of-public-instruction-race-the-candidates-elex"]},
-  {"id":"az-gov-2026","state":"AZ","level":"state","office":"Governor of Arizona","date":"2026-11-03",
-   "candidates":[{"name":"Katie Hobbs","party":"D","incumbent":true},{"name":"Andy Biggs","party":"R","incumbent":false}],
-   "priority":"medium","impact":"The governor proposes the state K-12 budget and holds the veto over ESA voucher expansion and school funding formulas, which shape the money available for charter and district programs.",
-   "status":"upcoming","winner":null,"result_note":"August polls (HighGround, Noble Predictive) showed Hobbs ahead by roughly 13 to 15 points.",
-   "sources":["https://www.axios.com/local/phoenix/2026/07/22/andy-biggs-republican-primary-win-schweikert-katie-hobbs","https://www.azfamily.com/2026/08/24/new-poll-shows-double-digit-lead-hobbs-over-biggs-arizona-governors-race/"]},
-  {"id":"az-legislature-2026","state":"AZ","level":"state","office":"Arizona Legislature (all 30 Senate and 60 House seats)","date":"2026-11-03",
-   "candidates":[],
-   "priority":"medium","impact":"Republicans hold the House 33-27 and Senate 17-13. A Democratic flip of either chamber (first since the 1960s for the House) would change K-12 appropriations and ESA voucher policy.",
-   "status":"upcoming","winner":null,"result_note":"Only a handful of districts are competitive; control of both chambers is in play.",
-   "sources":["https://www.axios.com/local/phoenix/2026/10/30/arizona-legislative-races-democrats-challenge-republican-majorities","https://news.ballotpedia.org/2026/09/21/majority-control-at-stake-in-arizona-senate-elections-on-nov-3/"]},
-  {"id":"az-ballot-education-2026","state":"AZ","level":"ballot","office":"Arizona statewide propositions touching education (8 legislative referrals)","date":"2026-11-03",
-   "candidates":[],
-   "priority":"medium","impact":"The ballot includes a school-spending measure (reportedly a classroom or instructional spending requirement, proposition number unverified), Prop 142 (race-based preferences, including in public education) and Prop 318 (school sports by sex at birth). The ESA voucher limit initiative (Prop 212) and its GOP counter (Prop 145) were removed by the Arizona Supreme Court on Aug 18, 2026.",
-   "status":"upcoming","winner":null,"result_note":"No ESA voucher measure on the 2026 ballot. Details of the school spending measure unverified.",
-   "sources":["https://www.axios.com/local/phoenix/2026/08/25/statewide-ballot-measures-propositions-arizona-election-2026-","https://news.ballotpedia.org/2026/08/20/arizona-courts-block-two-conflicting-school-choice-related-ballot-measures-leaving-2026-without-a-citizen-initiative/","https://azmirror.com/briefs/arizona-voters-will-decide-10-gop-backed-ballot-measures-in-november-on-schools-elections-taxes/"]},
-  {"id":"nv-gov-2026","state":"NV","level":"state","office":"Governor of Nevada","date":"2026-11-03",
-   "candidates":[{"name":"Joe Lombardo","party":"R","incumbent":true},{"name":"Aaron Ford","party":"D","incumbent":false},{"name":"Danielle Ford","party":"I","incumbent":false}],
-   "priority":"medium","impact":"Nevada's governor sets the K-12 budget under the Pupil-Centered Funding Plan and has vetoed many Democratic bills; the outcome decides whether Nevada keeps divided government, which affects state money for rural districts like Elko County.",
-   "status":"upcoming","winner":null,"result_note":"Toss-up: late-October polling averages roughly tied (about 42 to 44 each). Danielle Ford is a State Board of Education member running nonpartisan/independent.",
-   "sources":["https://www.multistate.us/elections/governor-race/nevada-2026","https://news.ballotpedia.org/2026/06/26/gov-joe-lombardo-r-is-running-for-re-election-in-a-state-trump-won-by-3-in-2024/","https://www.noblepredictiveinsights.com/post/nvgov-lombardo-keeps-pace-with-ford-as-undecideds-hold-the-balance"]},
-  {"id":"nv-legislature-2026","state":"NV","level":"state","office":"Nevada Legislature (all 42 Assembly seats, 11 of 21 Senate seats)","date":"2026-11-03",
-   "candidates":[],
-   "priority":"medium","impact":"Democrats hold the Assembly 27-15 and Senate 13-8. A two-thirds supermajority (one more Assembly seat) would let Democrats override vetoes on education funding bills in the 2027 session.",
-   "status":"upcoming","winner":null,"result_note":"Democrats favored to keep both chambers; supermajority uncertain.",
-   "sources":["https://thenevadaindependent.com/article/these-nevada-legislative-races-will-help-determine-which-party-controls-carson-city-in-2027","https://en.wikipedia.org/wiki/2026_Nevada_elections"]},
-  {"id":"nv-sbe-2026","state":"NV","level":"state","office":"Nevada State Board of Education (elected seats)","date":"2026-11-03",
-   "candidates":[],
-   "priority":"low","impact":"Four board members are elected by congressional district and the board helps select the state superintendent; any 2026 seats on the ballot could shift state education policy.",
-   "status":"upcoming","winner":null,"result_note":"unverified: could not confirm which seats or candidates are on the 2026 ballot.",
-   "sources":["https://thenevadaindependent.com/elections/2026/general"]},
-  {"id":"nv-ballot-2026","state":"NV","level":"ballot","office":"Nevada statewide ballot questions (Q6 abortion rights, Q7 voter ID)","date":"2026-11-03",
-   "candidates":[],
-   "priority":"low","impact":"Only two statewide questions, both second-round constitutional amendments, and neither concerns K-12 funding. A teacher-strike initiative was reported as qualifying but appears not to be on the ballot (unverified).",
-   "status":"upcoming","winner":null,"result_note":"No statewide education funding question found.",
-   "sources":["https://news3lv.com/news/beyond-the-podium/nevadans-will-only-vote-on-two-statewide-ballot-questions-this-year-the-fewest-since-2012-voter-id-identification-abortion-rights","https://www.fox5vegas.com/2026/09/30/nevada-releases-2026-ballot-question-guide-ahead-general-election/"]},
-  {"id":"nv-elko-board-2026","state":"NV","level":"local","office":"Elko County School District Board of Trustees (nonpartisan)","date":"2026-11-03",
-   "candidates":[{"name":"Susan Neal","party":"NP","incumbent":false},{"name":"Tiffanie Eden","party":"NP","incumbent":false}],
-   "priority":"medium","impact":"The trustees approve the district budget and program contracts, including renewal of the Star Academy site.",
-   "status":"upcoming","winner":null,"result_note":"Partially verified: Neal and Eden listed for District 1 by GoodParty; filing tracker also lists Jeff Durham (Seat 6) and Brooke Williams Ballard (Seat 7). Incumbent flags unverified. No Elko school bond found.",
-   "sources":["https://goodparty.org/elections/nv/elko-county-school-district/position/local-school-board/candidates","https://thenevadaindependent.com/embeds/election-tracker?hideTitle=1"]},
-  {"id":"nj-sen-2026","state":"NJ","level":"federal","office":"US Senate, New Jersey","date":"2026-11-03",
-   "candidates":[{"name":"Cory Booker","party":"D","incumbent":true},{"name":"Justin Murphy","party":"R","incumbent":false}],
-   "priority":"medium","impact":"Booker is a safe-seat Democrat; the seat matters mainly to the national Senate majority that decides Title I and Education Department appropriations.",
-   "status":"upcoming","winner":null,"result_note":"Rated Safe D. WHYY reports additional minor-party challengers (names not verified).",
-   "sources":["https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/","https://whyy.org/articles/new-jersey-election-2026-primary-senate-republican-nomination/"]},
-  {"id":"nj-01-2026","state":"NJ","level":"federal","office":"US House, NJ-1 (Camden area)","date":"2026-11-03",
-   "candidates":[{"name":"Donald Norcross","party":"D","incumbent":true},{"name":"Damon Galdo","party":"R","incumbent":false}],
-   "priority":"low","impact":"Norcross represents Camden, home of Morgan Village Middle School; a safe seat with little direct effect beyond House control.",
-   "status":"upcoming","winner":null,"result_note":"Rated Solid D.",
-   "sources":["https://whyy.org/articles/election-2026-new-jersey-1st-congressional-district-voter-guide/","https://newjerseyglobe.com/tag/damon-galdo/"]},
-  {"id":"nj-camden-board-2026","state":"NJ","level":"local","office":"Camden City School District Board","date":"2026-11-03",
-   "candidates":[],
-   "priority":"low","impact":"Camden's board is an appointed advisory board (members appointed by the mayor; voters kept that in 2018), so there is no Camden school board election. NJ has no governor or legislative race in 2026.",
-   "status":"upcoming","winner":null,"result_note":"No election found. Note: Lakeside Middle School exists in Millville (Cumberland Co.) and Pompton Lakes, not Camden; host district unverified.",
-   "sources":["https://www.camdenschools.org/381356_2","https://www.phillyvoice.com/camden-voters-decide-fate-its-school-board/amp"]},
-  {"id":"us-house-control-2026","state":"US","level":"federal","office":"US House control (all 435 seats)","date":"2026-11-03",
-   "candidates":[{"name":"Republican majority","party":"R","incumbent":true},{"name":"Democratic challenge","party":"D","incumbent":false}],
-   "priority":"high","impact":"Republicans hold a narrow majority (about 218-220 seats vs 214-215; Democrats need a net gain of about 3). The House FY27 Labor-HHS-Ed bill cut Title I by nearly $2B (to about $16.5B) and zeroed Title II-A and Title III; a Democratic House would likely block those cuts and Education Department dismantling.",
-   "status":"upcoming","winner":null,"result_note":"Exact current seat count varies by source (218-214, 219-215, 220-215) due to vacancies. Democrats modestly favored per August forecasts.",
-   "sources":["https://www.mappr.co/?p=96245","https://www.k12dive.com/news/house-committee-advances-fy27-plan-to-cut-ed-dept-by-10/822462/","https://schoolhouseconnection.org/article/ehcy-protected-title-i-cut-whats-in-the-house-fy27-bills"]},
-  {"id":"us-senate-control-2026","state":"US","level":"federal","office":"US Senate control (35 seats up, including FL and OH specials)","date":"2026-11-03",
-   "candidates":[{"name":"Republican majority","party":"R","incumbent":true},{"name":"Democratic challenge","party":"D","incumbent":false}],
-   "priority":"high","impact":"Republicans hold 53-47; Democrats need a net gain of 4. The Senate has resisted House Title I cuts and Congress rejected closing the Education Department in the FY26 law ($79B ED, about $18.4B Title I), so Senate control decides whether FY27 cuts survive.",
-   "status":"upcoming","winner":null,"result_note":"Republicans favored to hold per August forecasts. Neither Arizona nor Nevada has a US Senate race in 2026.",
-   "sources":["https://www.mappr.co/?p=96245","https://lailluminator.com/?p=30469","https://www.edweek.org/policy-politics/congress-is-working-on-a-new-k-12-budget-see-whats-proposed-for-key-programs/2026/06"]}
+ {
+  "id": "az-spi-2026",
+  "state": "AZ",
+  "level": "state",
+  "office": "Arizona Superintendent of Public Instruction",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Kimberly Yee",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Teresa Leyba Ruiz",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "The superintendent runs the Arizona Department of Education, which administers state aid and federal Title I pass-through to charters like Career Success Schools. Yee (state treasurer) ousted incumbent Tom Horne in the July 21 GOP primary; vouchers (ESA) were the central debate issue.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No call. Leyba Ruiz (D) leads Yee (R) 55.3% to 44.6% (about 901,500 to 728,400) in early returns; large share of AZ ballots still uncounted. as of 11:50 PM CT; KJZZ/KTAR.",
+  "sources": [
+   "https://ktar.com/arizona-politics-news/election/kimberly-yee-superintendent-of-public-instruction-primary-2",
+   "https://www.kjzz.org/politics/2026-09-16/arizona-superintendent-candidates-spar-over-private-school-vouchers-in-debate",
+   "https://azfamily.com/2026/09/15/yee-ruiz-square-off-arizona-superintendent-debate",
+   "https://www.kjzz.org/elections/2026-10-06/2026-arizona-superintendent-of-public-instruction-race-the-candidates-elex"
+  ]
+ },
+ {
+  "id": "az-gov-2026",
+  "state": "AZ",
+  "level": "state",
+  "office": "Governor of Arizona",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Katie Hobbs",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Andy Biggs",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "The governor proposes the state K-12 budget and holds the veto over ESA voucher expansion and school funding formulas, which shape the money available for charter and district programs.",
+  "status": "called",
+  "winner": "Katie Hobbs (D)",
+  "result_note": "Hobbs projected winner by Decision Desk HQ (8:11 PM MST) and CBS; leads Biggs about 58% to 40% in early returns. No AP call seen yet. as of 11:50 PM CT; DDHQ/CBS/AZ Mirror.",
+  "sources": [
+   "https://www.axios.com/local/phoenix/2026/07/22/andy-biggs-republican-primary-win-schweikert-katie-hobbs",
+   "https://www.azfamily.com/2026/08/24/new-poll-shows-double-digit-lead-hobbs-over-biggs-arizona-governors-race/"
+  ]
+ },
+ {
+  "id": "az-legislature-2026",
+  "state": "AZ",
+  "level": "state",
+  "office": "Arizona Legislature (all 30 Senate and 60 House seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "Republicans hold the House 33-27 and Senate 17-13. A Democratic flip of either chamber (first since the 1960s for the House) would change K-12 appropriations and ESA voucher policy.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No chamber-level results found yet; counting continues. Pre-election: R 17-13 Senate, R 33-27 House. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.axios.com/local/phoenix/2026/10/30/arizona-legislative-races-democrats-challenge-republican-majorities",
+   "https://news.ballotpedia.org/2026/09/21/majority-control-at-stake-in-arizona-senate-elections-on-nov-3/"
+  ]
+ },
+ {
+  "id": "az-ballot-education-2026",
+  "state": "AZ",
+  "level": "ballot",
+  "office": "Arizona statewide propositions touching education (8 legislative referrals)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "The ballot includes a school-spending measure (reportedly a classroom or instructional spending requirement, proposition number unverified), Prop 142 (race-based preferences, including in public education) and Prop 318 (school sports by sex at birth). The ESA voucher limit initiative (Prop 212) and its GOP counter (Prop 145) were removed by the Arizona Supreme Court on Aug 18, 2026.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No calls. Early returns: Prop 320 (60% classroom spending) about 46.5% yes, trailing; Prop 142 (race-preference ban) about 38% yes, failing; Prop 318 (school restrooms/sports) about 56.8% yes, leading. as of 11:50 PM CT; KJZZ/MultiState.",
+  "sources": [
+   "https://www.axios.com/local/phoenix/2026/08/25/statewide-ballot-measures-propositions-arizona-election-2026-",
+   "https://news.ballotpedia.org/2026/08/20/arizona-courts-block-two-conflicting-school-choice-related-ballot-measures-leaving-2026-without-a-citizen-initiative/",
+   "https://azmirror.com/briefs/arizona-voters-will-decide-10-gop-backed-ballot-measures-in-november-on-schools-elections-taxes/"
+  ]
+ },
+ {
+  "id": "nv-gov-2026",
+  "state": "NV",
+  "level": "state",
+  "office": "Governor of Nevada",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Joe Lombardo",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Aaron Ford",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Danielle Ford",
+    "party": "I",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Nevada's governor sets the K-12 budget under the Pupil-Centered Funding Plan and has vetoed many Democratic bills; the outcome decides whether Nevada keeps divided government, which affects state money for rural districts like Elko County.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No returns or call found; final polls had Lombardo and Ford tied 47-47. Nevada counts mail ballots over several days. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.multistate.us/elections/governor-race/nevada-2026",
+   "https://news.ballotpedia.org/2026/06/26/gov-joe-lombardo-r-is-running-for-re-election-in-a-state-trump-won-by-3-in-2024/",
+   "https://www.noblepredictiveinsights.com/post/nvgov-lombardo-keeps-pace-with-ford-as-undecideds-hold-the-balance"
+  ]
+ },
+ {
+  "id": "nv-legislature-2026",
+  "state": "NV",
+  "level": "state",
+  "office": "Nevada Legislature (all 42 Assembly seats, 11 of 21 Senate seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "impact": "Democrats hold the Assembly 27-15 and Senate 13-8. A two-thirds supermajority (one more Assembly seat) would let Democrats override vetoes on education funding bills in the 2027 session.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found yet. as of 11:50 PM CT.",
+  "sources": [
+   "https://thenevadaindependent.com/article/these-nevada-legislative-races-will-help-determine-which-party-controls-carson-city-in-2027",
+   "https://en.wikipedia.org/wiki/2026_Nevada_elections"
+  ]
+ },
+ {
+  "id": "nv-sbe-2026",
+  "state": "NV",
+  "level": "state",
+  "office": "Nevada State Board of Education (elected seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Four board members are elected by congressional district and the board helps select the state superintendent; any 2026 seats on the ballot could shift state education policy.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found; seats/candidates still unverified. as of 11:50 PM CT.",
+  "sources": [
+   "https://thenevadaindependent.com/elections/2026/general"
+  ]
+ },
+ {
+  "id": "nv-ballot-2026",
+  "state": "NV",
+  "level": "ballot",
+  "office": "Nevada statewide ballot questions (Q6 abortion rights, Q7 voter ID)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Only two statewide questions, both second-round constitutional amendments, and neither concerns K-12 funding. A teacher-strike initiative was reported as qualifying but appears not to be on the ballot (unverified).",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "Q6 and Q7 listed as too early to call with no votes reported in the last snapshots found. as of 11:50 PM CT; NBC/MultiState.",
+  "sources": [
+   "https://news3lv.com/news/beyond-the-podium/nevadans-will-only-vote-on-two-statewide-ballot-questions-this-year-the-fewest-since-2012-voter-id-identification-abortion-rights",
+   "https://www.fox5vegas.com/2026/09/30/nevada-releases-2026-ballot-question-guide-ahead-general-election/"
+  ]
+ },
+ {
+  "id": "nv-elko-board-2026",
+  "state": "NV",
+  "level": "local",
+  "office": "Elko County School District Board of Trustees (nonpartisan)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Susan Neal",
+    "party": "NP",
+    "incumbent": false
+   },
+   {
+    "name": "Tiffanie Eden",
+    "party": "NP",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "The trustees approve the district budget and program contracts, including renewal of the Star Academy site.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found for District 1 (Neal vs. Eden). as of 11:50 PM CT.",
+  "sources": [
+   "https://goodparty.org/elections/nv/elko-county-school-district/position/local-school-board/candidates",
+   "https://thenevadaindependent.com/embeds/election-tracker?hideTitle=1"
+  ]
+ },
+ {
+  "id": "nj-sen-2026",
+  "state": "NJ",
+  "level": "federal",
+  "office": "US Senate, New Jersey",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Cory Booker",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Justin Murphy",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "impact": "Booker is a safe-seat Democrat; the seat matters mainly to the national Senate majority that decides Title I and Education Department appropriations.",
+  "status": "called",
+  "winner": "Cory Booker (D)",
+  "result_note": "AP called at 8:00 PM ET. Booker 62.5%, Murphy 34.9% in early tally. as of 11:50 PM CT; AP/Patch/CBS Philadelphia.",
+  "sources": [
+   "https://whyy.org/articles/election-2026-new-jersey-senate-voter-guide-booker/",
+   "https://whyy.org/articles/new-jersey-election-2026-primary-senate-republican-nomination/"
+  ]
+ },
+ {
+  "id": "nj-01-2026",
+  "state": "NJ",
+  "level": "federal",
+  "office": "US House, NJ-1 (Camden area)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Donald Norcross",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Damon Galdo",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "low",
+  "impact": "Norcross represents Camden, home of Morgan Village Middle School; a safe seat with little direct effect beyond House control.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No result found in searches; safe D seat. as of 11:50 PM CT.",
+  "sources": [
+   "https://whyy.org/articles/election-2026-new-jersey-1st-congressional-district-voter-guide/",
+   "https://newjerseyglobe.com/tag/damon-galdo/"
+  ]
+ },
+ {
+  "id": "nj-camden-board-2026",
+  "state": "NJ",
+  "level": "local",
+  "office": "Camden City School District Board",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "impact": "Camden's board is an appointed advisory board (members appointed by the mayor; voters kept that in 2018), so there is no Camden school board election. NJ has no governor or legislative race in 2026.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No 2026 election or results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.camdenschools.org/381356_2",
+   "https://www.phillyvoice.com/camden-voters-decide-fate-its-school-board/amp"
+  ]
+ },
+ {
+  "id": "us-house-control-2026",
+  "state": "US",
+  "level": "federal",
+  "office": "US House control (all 435 seats)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Republican majority",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Democratic challenge",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "Republicans hold a narrow majority (about 218-220 seats vs 214-215; Democrats need a net gain of about 3). The House FY27 Labor-HHS-Ed bill cut Title I by nearly $2B (to about $16.5B) and zeroed Title II-A and Title III; a Democratic House would likely block those cuts and Education Department dismantling.",
+  "status": "called",
+  "winner": "Democratic majority",
+  "result_note": "Democrats projected to win House control by NBC, CNN and Fox Decision Desk; AP had not yet called the majority. NBC estimates about 255 D seats (218 needed). as of 11:50 PM CT; NBC/AP live blog.",
+  "sources": [
+   "https://www.mappr.co/?p=96245",
+   "https://www.k12dive.com/news/house-committee-advances-fy27-plan-to-cut-ed-dept-by-10/822462/",
+   "https://schoolhouseconnection.org/article/ehcy-protected-title-i-cut-whats-in-the-house-fy27-bills"
+  ]
+ },
+ {
+  "id": "us-senate-control-2026",
+  "state": "US",
+  "level": "federal",
+  "office": "US Senate control (35 seats up, including FL and OH specials)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Republican majority",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Democratic challenge",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "impact": "Republicans hold 53-47; Democrats need a net gain of 4. The Senate has resisted House Title I cuts and Congress rejected closing the Education Department in the FY26 law ($79B ED, about $18.4B Title I), so Senate control decides whether FY27 cuts survive.",
+  "status": "called",
+  "winner": "Democratic majority",
+  "result_note": "Democrats projected to win Senate control (NBC, Fox Decision Desk, CNBC; AP per Forbes). AP had D 51 to R 39 when control was called; NBC projection shows D 53, R 41 with about 6 races uncalled (ME, MI, AK leaning D). Reported D flips: NC, OH, TX, IA, KS, SC, NH. as of 11:50 PM CT; NBC/Forbes/CNBC.",
+  "sources": [
+   "https://www.mappr.co/?p=96245",
+   "https://lailluminator.com/?p=30469",
+   "https://www.edweek.org/policy-politics/congress-is-working-on-a-new-k-12-budget-see-whats-proposed-for-key-programs/2026/06"
+  ]
+ }
 ]

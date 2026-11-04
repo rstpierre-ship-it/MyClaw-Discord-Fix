@@ -1,723 +1,723 @@
 [
-  {
-    "id": "nm-gov-2026",
-    "state": "NM",
-    "level": "state",
-    "office": "Governor (open, Lujan Grisham term-limited)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Deb Haaland",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Gregg Hull",
-        "party": "R",
-        "incumbent": false
-      }
-    ],
-    "priority": "high",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Both nominees favor Star's model: Haaland (favored, Solid D) would start career pathways in middle school and expand and stabilize CTE funding, while Hull wants CTE in every district and part of school funding tied to measurable graduation and achievement gains. The governor appoints the PED secretary and sets the budget in a state with roughly 35 percent chronic absenteeism, so either win is an opening for a middle-grades dropout-prevention pitch.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Haaland is endorsed by AFT New Mexico; Hull is a former Rio Rancho mayor.",
-    "sources": [
-      "https://sourcenm.com/2026/09/24/new-mexico-election-2026-new-mexico-governor/",
-      "https://sourcenm.com/2026/01/15/haaland-unveils-education-policy-plan-doubles-down-on-universal-pre-k/",
-      "https://debhaaland.com/2026/06/haaland-to-expand-workforce-pipeline-starting-in-middle-and-high-school/",
-      "https://sourcenm.com/2026/04/10/new-mexico-primary-2026-governor/",
-      "https://www.kob.com/new-mexico/decision-2026-gubernatorial-candidates-discuss-education-and-other-topics-during-second-forum/",
-      "https://www.nmlegis.gov/handouts/ALFC%20071823%20Item%208%20LegisStat%20Public%20Education%20Department.pdf"
-    ]
-  },
-  {
-    "id": "nm-house-2026",
-    "state": "NM",
-    "level": "state",
-    "office": "New Mexico House of Representatives (all 70 seats; Senate not up)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Democrats hold 44 of 70 seats and the chamber is not expected to flip, so the education budget committees that fund CTE and at-risk programs should stay in the same hands. A narrowed margin would matter only if paired with a Hull upset.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "No district-level competitiveness ratings found.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/2026_New_Mexico_House_of_Representatives_election",
-      "https://news.ballotpedia.org/2026/06/01/the-total-number-of-new-mexico-state-representatives-in-contested-primaries-has-increased-for-the-fifth-year-in-a-row/"
-    ]
-  },
-  {
-    "id": "nm-pec-2026",
-    "state": "NM",
-    "level": "state",
-    "office": "Public Education Commission (5 of 10 seats)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Frederick Parker",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "John Foreman",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Jacob Trujillo",
-        "party": "D",
-        "incumbent": true
-      },
-      {
-        "name": "Ken Pascoe",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Sharon Clahchischilliage",
-        "party": "R",
-        "incumbent": true
-      },
-      {
-        "name": "Stewart Ingham",
-        "party": "R",
-        "incumbent": true
-      }
-    ],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "The PEC is split 5-5 and mainly authorizes state charters, so it is only indirectly relevant to a district-partnership vendor like Star. Candidate list and party labels are unverified across sources; District 7 (southern NM, Parker vs Foreman) is the open seat.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Unverified: full candidate roster by district.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/2026_New_Mexico_Public_Education_Commission_election",
-      "https://sourcenm.com/2026/09/21/new-mexico-general-election-2026-public-education-commission/"
-    ]
-  },
-  {
-    "id": "nm-ca2-2026",
-    "state": "NM",
-    "level": "ballot",
-    "office": "Constitutional Amendment 2 (school elections with partisan general elections)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Amendment 2 would let local school board elections share dates with partisan state and federal elections, likely raising turnout and changing board composition. Indirect for Star, since boards approve vendor contracts, but no clear direction.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://sourcenm.com/2026/09/17/new-mexico-election-2026-constitutional-amendments-1-3/",
-      "https://news.ballotpedia.org/2026/02/21/new-mexico-voters-will-decide-whether-to-allow-school-elections-to-be-held-at-the-same-time-as-state-or-federal-partisan-elections/",
-      "https://www.sos.nm.gov/wp-content/uploads/2026/08/2026-CA-and-GOB-Questions.pdf"
-    ]
-  },
-  {
-    "id": "tx-gov-2026",
-    "state": "TX",
-    "level": "state",
-    "office": "Governor",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Greg Abbott",
-        "party": "R",
-        "incumbent": true
-      },
-      {
-        "name": "Gina Hinojosa",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Pat Dixon",
-        "party": "L",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Abbott's priority is the education savings account program, which pulls state dollars toward private and home school rather than district intervention programs; Hinojosa would end ESAs and boost public school funding and revise testing and accountability. A Hinojosa upset would modestly expand district discretionary money, but she would face a Republican Legislature.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://www.ksat.com/news/local/2026/10/20/greg-abbott-gina-hinojosa-offer-competing-visions-for-texas-in-governors-race/",
-      "https://sanantonioreport.org/meet-the-republican-and-democrat-candidates-for-texas-governor-2026/"
-    ]
-  },
-  {
-    "id": "tx-sboe-2026",
-    "state": "TX",
-    "level": "state",
-    "office": "State Board of Education (8 of 15 seats)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Republicans hold 11 of 15 seats; the SBOE sets curriculum and CTE course standards but not district vendor funding. Indirect for Star.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://www.texastribune.org/2026/10/16/texas-state-board-education-2026-election-voter-guide/",
-      "https://en.wikipedia.org/wiki/2026_Texas_State_Board_of_Education_election"
-    ]
-  },
-  {
-    "id": "ok-supt-2026",
-    "state": "OK",
-    "level": "state",
-    "office": "State Superintendent of Public Instruction (open)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Robert Franklin",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Jennettie Marshall",
-        "party": "D",
-        "incumbent": false
-      }
-    ],
-    "priority": "high",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Franklin (favored) is a former special education teacher and longtime school and CareerTech administrator, a natural ally for a CTE-based at-risk program; Marshall's plan names chronic absenteeism and workforce pathways as targets for regional support zones. Either winner replaces the Walters-era turmoil with a leader receptive to district intervention partnerships.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Franklin's specific absenteeism or dropout positions not found.",
-    "sources": [
-      "https://www.newsfromthestates.com/article/robert-franklin-wins-gop-runoff-oklahoma-state-superintendent",
-      "https://okcfox.com/news/local/robert-franklin-earns-republican-nomination-for-state-superintendent",
-      "https://www.news9.com/oklahoma-city-education/oklahoma-state-superintendent-candidate-jennettie-marshall-education-plan",
-      "https://www.news9.com/oklahoma-politics/general-election-preview-november-2026"
-    ]
-  },
-  {
-    "id": "ok-gov-2026",
-    "state": "OK",
-    "level": "state",
-    "office": "Governor (open, Stitt term-limited)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Mike Mazzei",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Cyndi Munson",
-        "party": "D",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Mazzei (favored) pledges to expand career and technical education pathways with employer partnerships and hire a statewide literacy director; Munson would raise public school investment and end the private-school tax credit. A Mazzei win aligns with Star's career-exploration pitch; a Munson win frees more district dollars.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Mazzei defeated AG Gentner Drummond in the GOP runoff.",
-    "sources": [
-      "https://www.news9.com/oklahoma-elections/oklahoma-mazzei-munson-governor-election-education",
-      "https://www.newson6.com/ooo/educate-oklahoma/where-oklahomas-governor-candidates-stand-on-education",
-      "https://www.hppr.org/hppr-news/2026-10-28/hitting-the-polls-in-oklahoma-on-nov-3-heres-everything-you-need-to-know-about-key-races"
-    ]
-  },
-  {
-    "id": "co-gov-2026",
-    "state": "CO",
-    "level": "state",
-    "office": "Governor (open, Polis term-limited)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Phil Weiser",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Victor Marx",
-        "party": "R",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Weiser (favored, CEA-endorsed) backs more K-12 funding via TABOR changes and wants more youth mentorship programs, which fits Star's at-risk intervention model; Marx pledges a spending audit to cut bloat, a headwind for new district contracts.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Weiser beat Sen. Michael Bennet in the Democratic primary; a third candidate (Lopez) is also on the ballot, party unverified.",
-    "sources": [
-      "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
-      "https://www.axios.com/local/denver/2026/10/22/colorado-governor-candidates-ballot-measures",
-      "https://www.chalkbeat.org/colorado/2026/06/12/voter-guide-2026-colorado-democratic-gubernatorial-candidates-on-education/",
-      "https://www.elsemanarioonline.com/colorado-education-association-endorses-phil-weiser-for-governor-as-colorado-heads-back-to-school/"
-    ]
-  },
-  {
-    "id": "co-propnn-2026",
-    "state": "CO",
-    "level": "ballot",
-    "office": "Proposition NN (keep TABOR excess revenue for K-12)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Proposition NN would let the state retain revenue above the TABOR cap to raise K-12 funding about 2 percent a year for 10 years. Passage would loosen district budgets that are currently too tight for new program purchases like Star.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Related: Amendment 87 (graduated income tax) and Proposition 136 (income tax cap) also affect revenue.",
-    "sources": [
-      "https://www.chalkbeat.org/colorado/2026/10/01/what-colorado-voters-should-know-about-proposition-nn-voter-guide/",
-      "https://coloradosun.com/2026/01/14/colorado-ballot-measure-education-funding-cea/",
-      "https://www.coloradodems.org/press/colorado-democrats-finalize-positions-on-2026-ballot-measures"
-    ]
-  },
-  {
-    "id": "co-sboe-2026",
-    "state": "CO",
-    "level": "state",
-    "office": "State Board of Education (CD1, CD3, CD7)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Lisa Escarcega",
-        "party": "D",
-        "incumbent": true
-      },
-      {
-        "name": "Frederick Espinoza",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Sherri Wright",
-        "party": "R",
-        "incumbent": true
-      },
-      {
-        "name": "Karla Esser",
-        "party": "D",
-        "incumbent": true
-      }
-    ],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Three of nine seats are up; the board oversees accountability and turnaround designations that can drive district demand for intervention programs. Indirect for Star; full candidate list unverified.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Unverified: Wright's party label and opponents in CD3 and CD7.",
-    "sources": [
-      "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
-      "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
-    ]
-  },
-  {
-    "id": "ut-sboe-2026",
-    "state": "UT",
-    "level": "state",
-    "office": "State Board of Education (8 of 15 seats, partisan)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "LeAnn Wood",
-        "party": "R",
-        "incumbent": true
-      },
-      {
-        "name": "Heather Dopp",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Sarah Reale",
-        "party": "D",
-        "incumbent": true
-      }
-    ],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Utah has no governor or superintendent race in 2026; the elected board appoints the state superintendent, so its makeup indirectly shapes openness to outside at-risk programs. Four of eight races were already decided; candidate list unverified.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Unverified: final ballot lineups and Reale's party label.",
-    "sources": [
-      "https://www.sltrib.com/news/politics/2026/10/14/utah-state-board-education/",
-      "https://en.wikipedia.org/wiki/2026_Utah_State_Board_of_Education_election"
-    ]
-  },
-  {
-    "id": "ca-spi-2026",
-    "state": "CA",
-    "level": "state",
-    "office": "Superintendent of Public Instruction (nonpartisan, open)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Sonja Shaw",
-        "party": "NP",
-        "incumbent": false
-      },
-      {
-        "name": "Richard Barrera",
-        "party": "NP",
-        "incumbent": false
-      }
-    ],
-    "priority": "high",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Barrera led Thurmond's chronic absenteeism initiative and campaigns on early-warning attendance data, evidence-based attendance strategies, and expanded career pathways, a direct match for Star. Shaw says the state does not need to spend more and should push money to classrooms, more neutral. Note the Legislature has stripped CDE management from the office starting January, reducing its leverage.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Shaw is Republican-aligned and Barrera Democratic and labor-aligned; office is nonpartisan.",
-    "sources": [
-      "https://edsource.org/2026/shaw-barrera-emerge-as-frontrunners-in-california-state-superintendent-race/759722",
-      "https://edsource.org/2026/barrera-barrera-state-superintendent-candidate/768882",
-      "https://edsource.org/2026/california-superintendent-debate-candidates/766477"
-    ]
-  },
-  {
-    "id": "ca-gov-2026",
-    "state": "CA",
-    "level": "state",
-    "office": "Governor (open, Newsom term-limited)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Xavier Becerra",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Steve Hilton",
-        "party": "R",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Becerra (favored) has no detailed K-12 plan but backs earlier intervention and tutoring for struggling students and college and career pathways; Hilton would create a voucher-like savings account and eliminate community schools, a headwind for district-run programs.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://edsource.org/2026/becerra-california-education-plan/767679",
-      "https://edsource.org/2026/california-debate-becerra-hilton-education/767280",
-      "https://fox35orlando.com/news/xavier-becerra-steve-hilton-advance-race-california-governor-both-will-face-off-nov-election"
-    ]
-  },
-  {
-    "id": "or-gov-2026",
-    "state": "OR",
-    "level": "state",
-    "office": "Governor",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Tina Kotek",
-        "party": "D",
-        "incumbent": true
-      },
-      {
-        "name": "Christine Drazan",
-        "party": "R",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Kotek's second-term plan targets underperforming K-12 schools with academic performance targets and summer learning; Drazan would reinstate graduation requirements and third-grade retention. Neither names dropout prevention or CTE directly; Oregon has no statewide ballot measures this November.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Rated Lean D; OEA declined to endorse.",
-    "sources": [
-      "https://www.opb.org/article/2026/09/17/kotek-oregon-governor-reelection-platform-policies/",
-      "https://www.axios.com/local/portland/2026/10/26/oregon-governor-race-kotek-drazan-2026",
-      "https://news.ballotpedia.org/2026/09/21/2026-had-the-fewest-ballot-initiatives-filed-since-2014-with-692-2/"
-    ]
-  },
-  {
-    "id": "wa-leg-2026",
-    "state": "WA",
-    "level": "state",
-    "office": "Washington Legislature (Democratic supermajority at stake)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Democrats need about seven House and three to four Senate pickups for a two-thirds supermajority; analysts consider it unlikely this cycle. No governor or superintendent race in 2026, so effects on Star are indirect via budget control.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://www.knkx.org/government/2026-08-17/democratic-supermajority-could-mean-in-washington-state-legislature",
-      "https://en.wikipedia.org/wiki/2026_Washington_House_of_Representatives_election"
-    ]
-  },
-  {
-    "id": "wa-il26-001-2026",
-    "state": "WA",
-    "level": "ballot",
-    "office": "Initiative IL26-001 (parental rights in public schools)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Would undo 2025 legislative changes to the I-2081 parents' rights law; affects school record and notification rules, not program funding. Indirect for Star.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://news.ballotpedia.org/2026/10/06/washington-voters-will-decide-on-three-ballot-measures-in-2026-including-topics-on-public-education-school-sports-and-sex-and-income-taxes/",
-      "https://news.ballotpedia.org/2026/03/13/washington-to-decide-ballot-initiatives-in-2026-related-to-school-sports-eligibility-based-on-biological-sex-and-certain-parental-rights-in-public-schools/"
-    ]
-  },
-  {
-    "id": "id-supt-2026",
-    "state": "ID",
-    "level": "state",
-    "office": "Superintendent of Public Instruction",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Debbie Critchfield",
-        "party": "R",
-        "incumbent": true
-      },
-      {
-        "name": "Becky Sundin Mitchell",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Teresa Roundy",
-        "party": "other",
-        "incumbent": false
-      }
-    ],
-    "priority": "high",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Critchfield (favored) built the Idaho Career Ready Students program that expanded CTE statewide and is running on expanding student success pathways, a clear fit for Star's middle-grades career exploration. Her emphasis on local control means pitches go district by district.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Roundy is the Constitution Party candidate.",
-    "sources": [
-      "https://idahocapitalsun.com/2026/01/07/superintendent-of-public-instruction-debbie-critchfield-seeks-second-term-to-lead-idaho-schools/",
-      "https://www.idahoednews.org/top-news/critchfield-seeks-second-term-to-lead-idaho-schools/",
-      "https://idahocapitalsun.com/2026/05/28/round-2-idahos-general-election-is-set-here-are-novembers-contenders/"
-    ]
-  },
-  {
-    "id": "id-gov-2026",
-    "state": "ID",
-    "level": "state",
-    "office": "Governor",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Brad Little",
-        "party": "R",
-        "incumbent": true
-      },
-      {
-        "name": "Terri Pickens",
-        "party": "D",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Little seeks a third term and is heavily favored; continuity keeps the current workforce and CTE direction in place. Pickens' education agenda not found. Independent and minor-party field unverified.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Unverified: independent candidates on the general ballot.",
-    "sources": [
-      "https://idahocapitalsun.com/2026/05/19/terri-pickens-projected-to-win-idaho-democratic-partys-gubernatorial-primary-election/",
-      "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
-    ]
-  },
-  {
-    "id": "mt-leg-2026",
-    "state": "MT",
-    "level": "state",
-    "office": "Montana Legislature (all House, half of Senate)",
-    "date": "2026-11-03",
-    "candidates": [],
-    "priority": "low",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "No governor or superintendent race in 2026. The fate of the 2025 coalition of Democrats and moderate Republicans, which raised school funding and blocked vouchers, hinges on these races after School Freedom Fund-backed conservatives beat several moderates in primaries; a hard-right majority would be a mild headwind for district budgets.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://www.hcn.org/articles/a-new-montana-majority-defangs-the-far-right/",
-      "https://news.ballotpedia.org/2026/05/18/montana-senate-republican-primaries-reflect-conflict-between-moderate-and-more-conservative-candidates/",
-      "https://www.clubforgrowth.org/sff-defeats-at-least-3-rino-incumbents-elects-11-conservatives-in-montana-state-legislative-primaries/"
-    ]
-  },
-  {
-    "id": "wy-gov-2026",
-    "state": "WY",
-    "level": "state",
-    "office": "Governor (open, Gordon term-limited)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Eric Barlow",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Kenneth Casner",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Rebecca Bextel",
-        "party": "other",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Barlow (favored), a state senator, beat Superintendent Megan Degenfelder in the primary; his education agenda was not found in 2026 coverage. Low urgency market for Star.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Democrat's first name given as Kenneth or Ken; Bextel is Constitution Party.",
-    "sources": [
-      "https://cowboystatedaily.com/2026/08/18/eric-barlow-wins-wyoming-gop-nomination-for-governor/",
-      "https://www.kotatv.com/2026/08/19/barlow-wins-gop-nomination-wyoming-governor-defeating-trump-backed-rival/"
-    ]
-  },
-  {
-    "id": "wy-supt-2026",
-    "state": "WY",
-    "level": "state",
-    "office": "Superintendent of Public Instruction (open)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Steve Harshman",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Ana Cordova",
-        "party": "D",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Harshman (favored), a teacher and the longest-serving House member, leads the Department of Education if elected; his primary platform focused on local control, school choice and testing load rather than dropout prevention. Relationship opportunity but no explicit opening.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://cowboystatedaily.com/2026/08/18/steve-harshman-wins-gop-nod-for-wyoming-schools-chief/",
-      "https://wyofile.com/gop-candidates-for-wyomings-education-chief-talk-school-choice-funding-and-testing-load/",
-      "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
-    ]
-  },
-  {
-    "id": "ak-gov-2026",
-    "state": "AK",
-    "level": "state",
-    "office": "Governor (open, ranked-choice)",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Jonathan Kreiss-Tomkins",
-        "party": "D",
-        "incumbent": false
-      },
-      {
-        "name": "Bernadette Wilson",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Dave Bronson",
-        "party": "R",
-        "incumbent": false
-      },
-      {
-        "name": "Treg Taylor",
-        "party": "R",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "opportunity",
-    "impact": "Kreiss-Tomkins (leading polls, Toss-Up rating) was the only candidate to pledge full education funding, i.e. a higher Base Student Allocation that would give districts room for new programs; a Republican win likely keeps the BSA flat at $6,660. Rural, high-absenteeism districts are a plausible Star fit if funding grows.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "Unverified: Taylor's ballot status after a reported Aug 31 disqualification; he appeared in the Oct 8 debate. Result may take days under ranked-choice tabulation.",
-    "sources": [
-      "https://alaskapublic.org/news/politics/elections/2026-10-09/alaska-governor-candidates-spar-over-bipartisan-cooperation-among-other-issues-in-debate-for-the-state",
-      "https://www.multistate.us/elections/governor-race/alaska-2026",
-      "https://www.adn.com/opinions/letters/2026/10/26/letter-only-one-gubernatorial-candidate-gets-the-education-funding-dilemma/"
-    ]
-  },
-  {
-    "id": "hi-gov-2026",
-    "state": "HI",
-    "level": "state",
-    "office": "Governor",
-    "date": "2026-11-03",
-    "candidates": [
-      {
-        "name": "Josh Green",
-        "party": "D",
-        "incumbent": true
-      },
-      {
-        "name": "Gary Cordery",
-        "party": "R",
-        "incumbent": false
-      }
-    ],
-    "priority": "medium",
-    "tier": "expansion",
-    "outlook": "neutral",
-    "impact": "Green is a near-certain winner (Solid D); Hawaii runs a single statewide school district under an appointed board, so any Star entry would be a state-level DOE contract. No candidate education agenda relevant to dropout prevention found.",
-    "status": "upcoming",
-    "winner": null,
-    "result_note": "",
-    "sources": [
-      "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
-      "https://www.hawaiinewsnow.com/2026/08/11/gop-gubernatorial-lt-gov-candidates-discuss-effort-surpass-dominant-democrats/"
-    ]
-  }
+ {
+  "id": "nm-gov-2026",
+  "state": "NM",
+  "level": "state",
+  "office": "Governor (open, Lujan Grisham term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Deb Haaland",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Gregg Hull",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Both nominees favor Star's model: Haaland (favored, Solid D) would start career pathways in middle school and expand and stabilize CTE funding, while Hull wants CTE in every district and part of school funding tied to measurable graduation and achievement gains. The governor appoints the PED secretary and sets the budget in a state with roughly 35 percent chronic absenteeism, so either win is an opening for a middle-grades dropout-prevention pitch.",
+  "status": "called",
+  "winner": "Deb Haaland (D)",
+  "result_note": "AP called at 10:40 PM ET. Haaland 56.9%, Hull 43.1% with about 92% in; first Native American woman governor of a US state. as of 11:50 PM CT; AP/NBC/Scripps.",
+  "sources": [
+   "https://sourcenm.com/2026/09/24/new-mexico-election-2026-new-mexico-governor/",
+   "https://sourcenm.com/2026/01/15/haaland-unveils-education-policy-plan-doubles-down-on-universal-pre-k/",
+   "https://debhaaland.com/2026/06/haaland-to-expand-workforce-pipeline-starting-in-middle-and-high-school/",
+   "https://sourcenm.com/2026/04/10/new-mexico-primary-2026-governor/",
+   "https://www.kob.com/new-mexico/decision-2026-gubernatorial-candidates-discuss-education-and-other-topics-during-second-forum/",
+   "https://www.nmlegis.gov/handouts/ALFC%20071823%20Item%208%20LegisStat%20Public%20Education%20Department.pdf"
+  ]
+ },
+ {
+  "id": "nm-house-2026",
+  "state": "NM",
+  "level": "state",
+  "office": "New Mexico House of Representatives (all 70 seats; Senate not up)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Democrats hold 44 of 70 seats and the chamber is not expected to flip, so the education budget committees that fund CTE and at-risk programs should stay in the same hands. A narrowed margin would matter only if paired with a Hull upset.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_New_Mexico_House_of_Representatives_election",
+   "https://news.ballotpedia.org/2026/06/01/the-total-number-of-new-mexico-state-representatives-in-contested-primaries-has-increased-for-the-fifth-year-in-a-row/"
+  ]
+ },
+ {
+  "id": "nm-pec-2026",
+  "state": "NM",
+  "level": "state",
+  "office": "Public Education Commission (5 of 10 seats)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Frederick Parker",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "John Foreman",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Jacob Trujillo",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Ken Pascoe",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Sharon Clahchischilliage",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Stewart Ingham",
+    "party": "R",
+    "incumbent": true
+   }
+  ],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "The PEC is split 5-5 and mainly authorizes state charters, so it is only indirectly relevant to a district-partnership vendor like Star. Candidate list and party labels are unverified across sources; District 7 (southern NM, Parker vs Foreman) is the open seat.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_New_Mexico_Public_Education_Commission_election",
+   "https://sourcenm.com/2026/09/21/new-mexico-general-election-2026-public-education-commission/"
+  ]
+ },
+ {
+  "id": "nm-ca2-2026",
+  "state": "NM",
+  "level": "ballot",
+  "office": "Constitutional Amendment 2 (school elections with partisan general elections)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Amendment 2 would let local school board elections share dates with partisan state and federal elections, likely raising turnout and changing board composition. Indirect for Star, since boards approve vendor contracts, but no clear direction.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://sourcenm.com/2026/09/17/new-mexico-election-2026-constitutional-amendments-1-3/",
+   "https://news.ballotpedia.org/2026/02/21/new-mexico-voters-will-decide-whether-to-allow-school-elections-to-be-held-at-the-same-time-as-state-or-federal-partisan-elections/",
+   "https://www.sos.nm.gov/wp-content/uploads/2026/08/2026-CA-and-GOB-Questions.pdf"
+  ]
+ },
+ {
+  "id": "tx-gov-2026",
+  "state": "TX",
+  "level": "state",
+  "office": "Governor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Greg Abbott",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Gina Hinojosa",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Pat Dixon",
+    "party": "L",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Abbott's priority is the education savings account program, which pulls state dollars toward private and home school rather than district intervention programs; Hinojosa would end ESAs and boost public school funding and revise testing and accountability. A Hinojosa upset would modestly expand district discretionary money, but she would face a Republican Legislature.",
+  "status": "called",
+  "winner": "Gina Hinojosa (D)",
+  "result_note": "Upset: AP called for Hinojosa; Abbott conceded. Hinojosa 52.9%, Abbott 45.7%, Dixon 1.4% with about 85% in. First D governor since 1995. as of 11:50 PM CT; AP/NBC/NPR/Axios/KUT.",
+  "sources": [
+   "https://www.ksat.com/news/local/2026/10/20/greg-abbott-gina-hinojosa-offer-competing-visions-for-texas-in-governors-race/",
+   "https://sanantonioreport.org/meet-the-republican-and-democrat-candidates-for-texas-governor-2026/"
+  ]
+ },
+ {
+  "id": "tx-sboe-2026",
+  "state": "TX",
+  "level": "state",
+  "office": "State Board of Education (8 of 15 seats)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Republicans hold 11 of 15 seats; the SBOE sets curriculum and CTE course standards but not district vendor funding. Indirect for Star.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.texastribune.org/2026/10/16/texas-state-board-education-2026-election-voter-guide/",
+   "https://en.wikipedia.org/wiki/2026_Texas_State_Board_of_Education_election"
+  ]
+ },
+ {
+  "id": "ok-supt-2026",
+  "state": "OK",
+  "level": "state",
+  "office": "State Superintendent of Public Instruction (open)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Robert Franklin",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Jennettie Marshall",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Franklin (favored) is a former special education teacher and longtime school and CareerTech administrator, a natural ally for a CTE-based at-risk program; Marshall's plan names chronic absenteeism and workforce pathways as targets for regional support zones. Either winner replaces the Walters-era turmoil with a leader receptive to district intervention partnerships.",
+  "status": "called",
+  "winner": "Robert Franklin (R)",
+  "result_note": "AP projected Franklin. DDHQ showed him leading Marshall by about 34 points with 72% counted. as of 11:50 PM CT; AP via News On 6/DDHQ.",
+  "sources": [
+   "https://www.newsfromthestates.com/article/robert-franklin-wins-gop-runoff-oklahoma-state-superintendent",
+   "https://okcfox.com/news/local/robert-franklin-earns-republican-nomination-for-state-superintendent",
+   "https://www.news9.com/oklahoma-city-education/oklahoma-state-superintendent-candidate-jennettie-marshall-education-plan",
+   "https://www.news9.com/oklahoma-politics/general-election-preview-november-2026"
+  ]
+ },
+ {
+  "id": "ok-gov-2026",
+  "state": "OK",
+  "level": "state",
+  "office": "Governor (open, Stitt term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Mike Mazzei",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Cyndi Munson",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Mazzei (favored) pledges to expand career and technical education pathways with employer partnerships and hire a statewide literacy director; Munson would raise public school investment and end the private-school tax credit. A Mazzei win aligns with Star's career-exploration pitch; a Munson win frees more district dollars.",
+  "status": "called",
+  "winner": "Mike Mazzei (R)",
+  "result_note": "AP called at 11:46 PM ET; Munson conceded. Mazzei 52.4%, Munson 45.4% with 84% counted. as of 11:50 PM CT; AP/KXII/OU Daily.",
+  "sources": [
+   "https://www.news9.com/oklahoma-elections/oklahoma-mazzei-munson-governor-election-education",
+   "https://www.newson6.com/ooo/educate-oklahoma/where-oklahomas-governor-candidates-stand-on-education",
+   "https://www.hppr.org/hppr-news/2026-10-28/hitting-the-polls-in-oklahoma-on-nov-3-heres-everything-you-need-to-know-about-key-races"
+  ]
+ },
+ {
+  "id": "co-gov-2026",
+  "state": "CO",
+  "level": "state",
+  "office": "Governor (open, Polis term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Phil Weiser",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Victor Marx",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Weiser (favored, CEA-endorsed) backs more K-12 funding via TABOR changes and wants more youth mentorship programs, which fits Star's at-risk intervention model; Marx pledges a spending audit to cut bloat, a headwind for new district contracts.",
+  "status": "called",
+  "winner": "Phil Weiser (D)",
+  "result_note": "AP called for Weiser. About 61.4% to Marx 33.3% in partial count (vote shares vary by outlet). as of 11:50 PM CT; AP/Colorado Sun/NBC.",
+  "sources": [
+   "https://www.coloradopolitics.com/2026/10/02/colorado-governor-weiser-marx-and-lopez-vie-for-top-state-seat-4/",
+   "https://www.axios.com/local/denver/2026/10/22/colorado-governor-candidates-ballot-measures",
+   "https://www.chalkbeat.org/colorado/2026/06/12/voter-guide-2026-colorado-democratic-gubernatorial-candidates-on-education/",
+   "https://www.elsemanarioonline.com/colorado-education-association-endorses-phil-weiser-for-governor-as-colorado-heads-back-to-school/"
+  ]
+ },
+ {
+  "id": "co-propnn-2026",
+  "state": "CO",
+  "level": "ballot",
+  "office": "Proposition NN (keep TABOR excess revenue for K-12)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Proposition NN would let the state retain revenue above the TABOR cap to raise K-12 funding about 2 percent a year for 10 years. Passage would loosen district budgets that are currently too tight for new program purchases like Star.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No call. Yes leads about 55% to 45% with almost 1.9 million votes counted. as of 11:50 PM CT; CPR/Gazette/MultiState.",
+  "sources": [
+   "https://www.chalkbeat.org/colorado/2026/10/01/what-colorado-voters-should-know-about-proposition-nn-voter-guide/",
+   "https://coloradosun.com/2026/01/14/colorado-ballot-measure-education-funding-cea/",
+   "https://www.coloradodems.org/press/colorado-democrats-finalize-positions-on-2026-ballot-measures"
+  ]
+ },
+ {
+  "id": "co-sboe-2026",
+  "state": "CO",
+  "level": "state",
+  "office": "State Board of Education (CD1, CD3, CD7)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Lisa Escarcega",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Frederick Espinoza",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Sherri Wright",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Karla Esser",
+    "party": "D",
+    "incumbent": true
+   }
+  ],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Three of nine seats are up; the board oversees accountability and turnaround designations that can drive district demand for intervention programs. Indirect for Star; full candidate list unverified.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.chalkbeat.org/colorado/2026/09/30/state-board-of-education-election-2026-candidates-voter-guide/",
+   "https://en.wikipedia.org/wiki/2026_Colorado_State_Board_of_Education_election"
+  ]
+ },
+ {
+  "id": "ut-sboe-2026",
+  "state": "UT",
+  "level": "state",
+  "office": "State Board of Education (8 of 15 seats, partisan)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "LeAnn Wood",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Heather Dopp",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Sarah Reale",
+    "party": "D",
+    "incumbent": true
+   }
+  ],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Utah has no governor or superintendent race in 2026; the elected board appoints the state superintendent, so its makeup indirectly shapes openness to outside at-risk programs. Four of eight races were already decided; candidate list unverified.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.sltrib.com/news/politics/2026/10/14/utah-state-board-education/",
+   "https://en.wikipedia.org/wiki/2026_Utah_State_Board_of_Education_election"
+  ]
+ },
+ {
+  "id": "ca-spi-2026",
+  "state": "CA",
+  "level": "state",
+  "office": "Superintendent of Public Instruction (nonpartisan, open)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Sonja Shaw",
+    "party": "NP",
+    "incumbent": false
+   },
+   {
+    "name": "Richard Barrera",
+    "party": "NP",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Barrera led Thurmond's chronic absenteeism initiative and campaigns on early-warning attendance data, evidence-based attendance strategies, and expanded career pathways, a direct match for Star. Shaw says the state does not need to spend more and should push money to classrooms, more neutral. Note the Legislature has stripped CDE management from the office starting January, reducing its leverage.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No call. Barrera leads Shaw in early returns (margin not reported); millions of CA ballots uncounted. as of 11:50 PM CT; EdSource.",
+  "sources": [
+   "https://edsource.org/2026/shaw-barrera-emerge-as-frontrunners-in-california-state-superintendent-race/759722",
+   "https://edsource.org/2026/barrera-barrera-state-superintendent-candidate/768882",
+   "https://edsource.org/2026/california-superintendent-debate-candidates/766477"
+  ]
+ },
+ {
+  "id": "ca-gov-2026",
+  "state": "CA",
+  "level": "state",
+  "office": "Governor (open, Newsom term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Xavier Becerra",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Steve Hilton",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Becerra (favored) has no detailed K-12 plan but backs earlier intervention and tutoring for struggling students and college and career pathways; Hilton would create a voucher-like savings account and eliminate community schools, a headwind for district-run programs.",
+  "status": "called",
+  "winner": "Xavier Becerra (D)",
+  "result_note": "AP and NBC projected Becerra at poll close. Partial count about 64% to Hilton 36%. as of 11:50 PM CT; AP/NBC/Bloomberg Law.",
+  "sources": [
+   "https://edsource.org/2026/becerra-california-education-plan/767679",
+   "https://edsource.org/2026/california-debate-becerra-hilton-education/767280",
+   "https://fox35orlando.com/news/xavier-becerra-steve-hilton-advance-race-california-governor-both-will-face-off-nov-election"
+  ]
+ },
+ {
+  "id": "or-gov-2026",
+  "state": "OR",
+  "level": "state",
+  "office": "Governor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Tina Kotek",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Christine Drazan",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Kotek's second-term plan targets underperforming K-12 schools with academic performance targets and summer learning; Drazan would reinstate graduation requirements and third-grade retention. Neither names dropout prevention or CTE directly; Oregon has no statewide ballot measures this November.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No AP call; Kotek declared victory. Kotek leads Drazan 52.3% to 45.1% with about 1.3 million ballots counted. as of 11:50 PM CT; OPB/KATU.",
+  "sources": [
+   "https://www.opb.org/article/2026/09/17/kotek-oregon-governor-reelection-platform-policies/",
+   "https://www.axios.com/local/portland/2026/10/26/oregon-governor-race-kotek-drazan-2026",
+   "https://news.ballotpedia.org/2026/09/21/2026-had-the-fewest-ballot-initiatives-filed-since-2014-with-692-2/"
+  ]
+ },
+ {
+  "id": "wa-leg-2026",
+  "state": "WA",
+  "level": "state",
+  "office": "Washington Legislature (Democratic supermajority at stake)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Democrats need about seven House and three to four Senate pickups for a two-thirds supermajority; analysts consider it unlikely this cycle. No governor or superintendent race in 2026, so effects on Star are indirect via budget control.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.knkx.org/government/2026-08-17/democratic-supermajority-could-mean-in-washington-state-legislature",
+   "https://en.wikipedia.org/wiki/2026_Washington_House_of_Representatives_election"
+  ]
+ },
+ {
+  "id": "wa-il26-001-2026",
+  "state": "WA",
+  "level": "ballot",
+  "office": "Initiative IL26-001 (parental rights in public schools)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Would undo 2025 legislative changes to the I-2081 parents' rights law; affects school record and notification rules, not program funding. Indirect for Star.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No call. Trailing in early returns at about 47.3% yes. as of 11:50 PM CT; MultiState.",
+  "sources": [
+   "https://news.ballotpedia.org/2026/10/06/washington-voters-will-decide-on-three-ballot-measures-in-2026-including-topics-on-public-education-school-sports-and-sex-and-income-taxes/",
+   "https://news.ballotpedia.org/2026/03/13/washington-to-decide-ballot-initiatives-in-2026-related-to-school-sports-eligibility-based-on-biological-sex-and-certain-parental-rights-in-public-schools/"
+  ]
+ },
+ {
+  "id": "id-supt-2026",
+  "state": "ID",
+  "level": "state",
+  "office": "Superintendent of Public Instruction",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Debbie Critchfield",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Becky Sundin Mitchell",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Teresa Roundy",
+    "party": "other",
+    "incumbent": false
+   }
+  ],
+  "priority": "high",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Critchfield (favored) built the Idaho Career Ready Students program that expanded CTE statewide and is running on expanding student success pathways, a clear fit for Star's middle-grades career exploration. Her emphasis on local control means pitches go district by district.",
+  "status": "too-close",
+  "winner": null,
+  "result_note": "No call seen. Critchfield (R) leads 56.7% to Sundin Mitchell (D) 40.3% (188,728 to 134,073) with 44 counties partially reporting. as of 11:50 PM CT; Idaho SOS results (Enhanced Voting).",
+  "sources": [
+   "https://idahocapitalsun.com/2026/01/07/superintendent-of-public-instruction-debbie-critchfield-seeks-second-term-to-lead-idaho-schools/",
+   "https://www.idahoednews.org/top-news/critchfield-seeks-second-term-to-lead-idaho-schools/",
+   "https://idahocapitalsun.com/2026/05/28/round-2-idahos-general-election-is-set-here-are-novembers-contenders/"
+  ]
+ },
+ {
+  "id": "id-gov-2026",
+  "state": "ID",
+  "level": "state",
+  "office": "Governor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Brad Little",
+    "party": "R",
+    "incumbent": true
+   },
+   {
+    "name": "Terri Pickens",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Little seeks a third term and is heavily favored; continuity keeps the current workforce and CTE direction in place. Pickens' education agenda not found. Independent and minor-party field unverified.",
+  "status": "called",
+  "winner": "Brad Little (R)",
+  "result_note": "AP called at 12:36 AM ET. Little 52.6%, Pickens 36.6%, Stegner (I) 8.3% in partial count. as of 11:50 PM CT; AP/KTVB.",
+  "sources": [
+   "https://idahocapitalsun.com/2026/05/19/terri-pickens-projected-to-win-idaho-democratic-partys-gubernatorial-primary-election/",
+   "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election"
+  ]
+ },
+ {
+  "id": "mt-leg-2026",
+  "state": "MT",
+  "level": "state",
+  "office": "Montana Legislature (all House, half of Senate)",
+  "date": "2026-11-03",
+  "candidates": [],
+  "priority": "low",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "No governor or superintendent race in 2026. The fate of the 2025 coalition of Democrats and moderate Republicans, which raised school funding and blocked vouchers, hinges on these races after School Freedom Fund-backed conservatives beat several moderates in primaries; a hard-right majority would be a mild headwind for district budgets.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No results found. as of 11:50 PM CT.",
+  "sources": [
+   "https://www.hcn.org/articles/a-new-montana-majority-defangs-the-far-right/",
+   "https://news.ballotpedia.org/2026/05/18/montana-senate-republican-primaries-reflect-conflict-between-moderate-and-more-conservative-candidates/",
+   "https://www.clubforgrowth.org/sff-defeats-at-least-3-rino-incumbents-elects-11-conservatives-in-montana-state-legislative-primaries/"
+  ]
+ },
+ {
+  "id": "wy-gov-2026",
+  "state": "WY",
+  "level": "state",
+  "office": "Governor (open, Gordon term-limited)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Eric Barlow",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Kenneth Casner",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Rebecca Bextel",
+    "party": "other",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Barlow (favored), a state senator, beat Superintendent Megan Degenfelder in the primary; his education agenda was not found in 2026 coverage. Low urgency market for Star.",
+  "status": "called",
+  "winner": "Eric Barlow (R)",
+  "result_note": "AP called at 7:00 PM MT. About 61% to Casner 27% (single source). as of 11:50 PM CT; AP/KTVQ/KOTA.",
+  "sources": [
+   "https://cowboystatedaily.com/2026/08/18/eric-barlow-wins-wyoming-gop-nomination-for-governor/",
+   "https://www.kotatv.com/2026/08/19/barlow-wins-gop-nomination-wyoming-governor-defeating-trump-backed-rival/"
+  ]
+ },
+ {
+  "id": "wy-supt-2026",
+  "state": "WY",
+  "level": "state",
+  "office": "Superintendent of Public Instruction (open)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Steve Harshman",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Ana Cordova",
+    "party": "D",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Harshman (favored), a teacher and the longest-serving House member, leads the Department of Education if elected; his primary platform focused on local control, school choice and testing load rather than dropout prevention. Relationship opportunity but no explicit opening.",
+  "status": "called",
+  "winner": "Steve Harshman (R)",
+  "result_note": "AP called at 9:26 PM MT. Harshman 79,578 to Cordova 23,674 (about 77%). as of 11:50 PM CT; AP via County 17/Oil City News.",
+  "sources": [
+   "https://cowboystatedaily.com/2026/08/18/steve-harshman-wins-gop-nod-for-wyoming-schools-chief/",
+   "https://wyofile.com/gop-candidates-for-wyomings-education-chief-talk-school-choice-funding-and-testing-load/",
+   "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf"
+  ]
+ },
+ {
+  "id": "ak-gov-2026",
+  "state": "AK",
+  "level": "state",
+  "office": "Governor (open, ranked-choice)",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Jonathan Kreiss-Tomkins",
+    "party": "D",
+    "incumbent": false
+   },
+   {
+    "name": "Bernadette Wilson",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Dave Bronson",
+    "party": "R",
+    "incumbent": false
+   },
+   {
+    "name": "Treg Taylor",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "opportunity",
+  "impact": "Kreiss-Tomkins (leading polls, Toss-Up rating) was the only candidate to pledge full education funding, i.e. a higher Base Student Allocation that would give districts room for new programs; a Republican win likely keeps the BSA flat at $6,660. Rural, high-absenteeism districts are a plausible Star fit if funding grows.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No first-choice returns found; if no one tops 50%, ranked-choice tabulation is Nov. 18. as of 11:50 PM CT.",
+  "sources": [
+   "https://alaskapublic.org/news/politics/elections/2026-10-09/alaska-governor-candidates-spar-over-bipartisan-cooperation-among-other-issues-in-debate-for-the-state",
+   "https://www.multistate.us/elections/governor-race/alaska-2026",
+   "https://www.adn.com/opinions/letters/2026/10/26/letter-only-one-gubernatorial-candidate-gets-the-education-funding-dilemma/"
+  ]
+ },
+ {
+  "id": "hi-gov-2026",
+  "state": "HI",
+  "level": "state",
+  "office": "Governor",
+  "date": "2026-11-03",
+  "candidates": [
+   {
+    "name": "Josh Green",
+    "party": "D",
+    "incumbent": true
+   },
+   {
+    "name": "Gary Cordery",
+    "party": "R",
+    "incumbent": false
+   }
+  ],
+  "priority": "medium",
+  "tier": "expansion",
+  "outlook": "neutral",
+  "impact": "Green is a near-certain winner (Solid D); Hawaii runs a single statewide school district under an appointed board, so any Star entry would be a state-level DOE contract. No candidate education agenda relevant to dropout prevention found.",
+  "status": "upcoming",
+  "winner": null,
+  "result_note": "No returns found in searches (polls closed 11 PM CT). as of 11:50 PM CT.",
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
+   "https://www.hawaiinewsnow.com/2026/08/11/gop-gubernatorial-lt-gov-candidates-discuss-effort-surpass-dominant-democrats/"
+  ]
+ }
 ]
